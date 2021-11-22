@@ -1,0 +1,534 @@
+A TISZATÁJ DIÁKMELLÉKLETE
+2005. OKTÓBER
+
+108. SZÁM
+
+LENGYEL ZOLTÁN
+
+Az igazság félreértelmezései és a tanúság
+lehetősége Franz Kafka regényvilágában
+Mert mit is jelent az a szó, hogy igazságtalanság? (Németül: Ungerechtigkeit – a ford.) A mi
+igazságunk: ezt jelenti. (Németül: unsere Gerechtigkeit – a ford.) Olyan igazságosságot, mely
+csak az én számomra érvényes, ezért aztán nem
+egyéb, mint az erőszak normája, vagyis: igazságtalanság.
+Az igazi művészet mindig dokumentum, mindig
+tanúságtétel.
+(Gustav Janouch: Beszélgetések Kafkával)1
+
+Franz Kafka regényeit és a bennük felvetett, illetve implicite jelenlevő értelmezési problémákat kíséreljük meg az
+esszé keretein belül némiképp megvilágosítani. Megpróbálunk belehelyezkedni ezen értelmezési problematika
+(nevezetesen az igazság értelmezhetőségének a problémája) terébe, hogy az ebben a térben megjelenő jelenségek, jelek, tanúságtételek értelmezésével a horizontot
+esetleg kiszélesítsük, kitoljuk. A tanúságnak mint az emberről valló tettnek vagy életnek privilegizált hely jut terminológiánkban, így elkerülhetetlennek látszik az egyébként sem irreleváns jogi és teológiai szempontok figyelembevétele és vizsgálata a tanúság megközelíthetőségénél. Megkíséreljük bevonni a fenti diszkurzusok szempontjait egy általunk preferált filozófiai beszélybe, a megértés reményében. Ez így szó szerint természetesen lehetetlen, de az esetleges részsikerrel járó kísérlet már nem
+tekinthető kudarcnak. A filozófiai megközelítés milyen1
+
+Gustav Janouch, Beszélgetések Kafkával, ford. Tandori Dezső (Budapest: Gondolat, 1972.) 148, ill. 145.
+
+FRANZ KAFKA
+(1883–1924)
+Kafka regényeiben (elsősorban A kastélyban és A perben,
+amelyekre összpontosítunk
+a továbbiakban is) bár az „abszolútra” való kérdezés értelmessége megkérdőjeleződik,
+hiszen az értelem maga is kockán forog, a törekvés, igyekvés
+értelmessége megerősítést
+nyer. A kafkai „hős(ök)” is
+a tanúságban keresnék, ha
+nem is találják a szellemi megtapasztalás mélységét, ezért
+megalapozottnak tekinthetjük
+interpretatív megközelítésünk
+legitimációját.
+
+ségének megvilágítására Paul Ricoeur-t hívjuk segítségül, akinek gondolkodására és terminológiájára a következőkben is nagymértékben támaszkodni fogunk:
+Melyik filozófia vállalja föl a tanúság kérdését? A válasz: az a filozófia, amely
+számára az abszolútra való kérdezés értelmes kérdés. Az a filozófia, amelyik
+igyekszik összekapcsolni az abszolút megtapasztalását az abszolút eszméjével.
+Az a filozófia, amelyik nem a példázatban és nem is a szimbólumban talál rá
+ennek a megtapasztalásnak a mélységére.2
+Kafka regényeiben (elsősorban A kastélyban és A perben, amelyekre összpontosítunk
+a továbbiakban is) bár az „abszolútra” való kérdezés értelmessége megkérdőjeleződik, hiszen
+az értelem maga is kockán forog, a törekvés, igyekvés értelmessége megerősítést nyer.
+A kafkai „hős(ök)” is a tanúságban keresnék, ha nem is találják a szellemi megtapasztalás
+mélységét, ezért megalapozottnak tekinthetjük interpretatív megközelítésünk legitimációját.
+Késő este volt, mikor K. megérkezett. A falu vastag hó alatt pihent. A várhegyet
+nem lehetett látni, köd és sötétség vette körül, a nagy kastélyt a leghalványabb
+fény sem jelezte. K. sokáig állt a fahídon, mely az országútról a faluba vezetett, és
+fölnézett a semmibe.3
+A per című Franz Kafka regény első mondatára szokás úgy hivatkozni, mint példaszerű
+tételmondatra (és itt most hangsúlyozottan nem tézismondatot értünk), mint olyan
+felütésszerű kezdésre, amely rámutat a későbbi lényegbevágó motívumokra, s amely így
+mintegy a „mű” „esszenciáját” adva meg referenciális origónak tekinthető; azon első mondatot valóban lehet úgy olvasni, mint ami a bűn és igazság értelmezésének önkényes folyamatára, illetve csak-félreértelmezhetőségére utal. Anélkül, hogy részletesen megkísérelnénk ehelyütt a fenti „tradicionális” interpretáció feltehető hermeneutikai érvénytelenségét megmutatni, A kastély első bekezdésének kissé provokatívnak szánt felidézésével arra
+szeretnénk rámutatni, hogy az értelmetlenségből és a jelenségek értelmezhetetlenségéből
+fakadó elveszettség-élmény, a kilátástalan kiútkeresés kissé valóban programszerűnek
+tűnő felmutatása mindkét szöveg (azaz mind A kastély, mind A per) kezdő soraiban erőteljesen jelen van, hogy aztán minden később előforduló szituáció ezáltal kapjon egy alapvető (nemcsak pszichikai, hanem személyes, (kvázi-)filozófiai) hangolást, tonalitást. Kafkánál leginkább a logos (vagy Logos?) mögé/elé kerül kérdőjel. Az itt tárgyalt két regény is
+leginkább ezért lehet érvényes (ha tetszik, aktuális) ma is, a mi „korunkban”, amikor az
+igazság (Igazság?) megragadhatatlansága, ködbe vesző jelentése és állandó változása, önmagától is „elkülönbözése” (itt a derridai différance analógiájára) jelenlétünk attribútuma,
+és ezt a problémát nem lehet elég komolyan venni, vagy nem lehet elég komolytalanul
+negligálni. Ahogy Paul Ricoeur írja kissé más kontextusban (bár kérdéses, hogy milyen
+
+2
+
+3
+
+Paul Ricoeur, „A tanúság hermeneutikája”, ford. Szabó István in Fabiny Tibor szerk. A hermeneutika elmélete. Tanulmányok (Szeged: JATEPress, 1998), 185.
+Franz Kafka, A kastély, ford. Rónay György, (Budapest: Európa, 1979) 5.
+
+2
+
+kontextust kíván meg ez): „[a] jelentésért folytatott iszonyatos harcban semmi és senki
+sem marad ép és sértetlen.”4
+A jelentést és az értelmet szem elől veszítő K. számára, akit ezért „köd és sötétség” burkol, „a nagy kastélyt a leghalványabb fény sem jelezte”; a kastély, mely többek között az
+igazság birtoklásának szimbóluma, csak hiányként van jelen, ezért K. csak a semmibe tud
+fölnézni (itt szimbolikusan talán úgy is olvashatjuk: önmagán túlra nézni; pontosabban:
+képtelen a reflexió révén az „eredendő igenlést” magában fellelni). A vastag hó alatt pihenő
+falu képe jelezheti a szituáció „szűzies”, tabula rasa jellegét, azaz K. „eredeti”, iniciatív
+helyzetét, önmagáról valló tetteinek a kezdetét, ami azonos a narratíva kezdetével (azaz K.
+„perével”, hiszen lényegében itt is egy K. „ellen” indított eljárásról van szó)5. Mindenképpen egy kiindulópontról van szó, amely statikusnak tűnik, azonban ezt a (halott) nyugalmat megbontja, fölborítja vagy talán leginkább leleplezi a bekezdés utolsó szava, jobban
+mondva utolsó szintagmája, miszerint K. fölnézett a semmibe. Ez K. első, az elbeszélést
+megalapozó cselekedete. Paradoxnak tűnő módon a dialektikát a semmi indítja be, a semmi
+taszítja ki a szöveget a statikus nyugvópontról. A semmi, ami néhány évtizeddel A kastély
+után, Jean-Paul Sartre legismertebb értekezéseiben „isteni” rangra emelkedett, Semmivé
+vált, mondhatnánk ironikusan; ez a semmi az, ami K.-t és a szöveget mozgásra, kilendülésre készteti-kényszeríti. Nem véletlenül semmi, nem véletlenül (értelem)hiány az, ami
+ösztönzőleg hat, mint később látni fogjuk.
+Josef K., aki azonos K.-val, mégis más, egy másik K., hasonló hiánnyal szembesül, az
+értelem hiányával, hiszen noha semmi rosszat (bűnt) nem követett el, mégis bűnösnek
+nyilváníttatik a „fölsőbb” hatalom által. A jelentés hiánya a fentiekből fakad, hiszen ha az
+igazság értelmezhetetlen, akkor a jelentés sem világosodhat meg. A per-ben megfigyelhető
+bizonyos fókuszeltolódás: a peres felekről (K. és a kastély, K. és a kocsmárosné stb.) – látszólag – a címben is megjelölt eljárásra, processzusra, perre terelődik a figyelem központja. Ez a szövegben is bebizonyosodik, hiszen a per sajátságairól, lehetőségeiről, a pert
+lefolytató törvényszék „misztikus” mibenlétéről hosszabbnál hosszabb elemzések, fejtegetések terhelik az olvasó befogadóképességét, leginkább az ügyvéd és Titorelli, a festő elmondásában. Ez azt eredményezi, hogy a szöveg implicite önreflexívvé válik: a narratívában/történetben egy narratív-történeti eljárás kerül vizsgálat alá. A per történetiségének az
+ítélethozatalban betöltött döntő szerepe időről időre mérlegelés tárgyává válik. Ez nem jelenti azonban azt, hogy a vádlott jelentősége elhalványul, története margóra íródik. A vádlottat, Josef K.-t tanúként fogjuk kezelni és értelmezni itt, egy elmosódó és bizonytalannak
+látszó tanúként, aki keservesen és következetesen próbál tanúságot tenni igazáról, saját
+személyi mivoltáról, igazsága, azaz tulajdonképpeni jelenléte azonban megfoghatatlan és
+nem jelen-levő, hasonlóan A kastélybeli K. igazságához: ködbe vesző. A tanú felértékelődé4
+
+5
+
+Paul Ricoeur, „Freud filozófiai interpretációja”, ford. Deim Éva, in Bókay Antal, Erős Ferenc szerk.,
+Pszichoanalízis és irodalomtudomány. Szöveggyűjtemény, (Budapest: Filum, 1998) 263.
+Az „abszolút”, azaz a kastély kijelenti önmagát, oly módon manifesztálódik, hogy az K. számára
+semmit sem, vagy éppen semmit jelent. „A tanúságban ott van az abszolút közvetlensége, mely
+nélkül nem volna mit értelmezni. Ez a közvetlenség úgy hat, mint eredet, mint initium; emögé
+nem mehetünk vissza.” Paul Ricoeur, „A tanúság hermeneutikája”, 201. Talán fölösleges hozzátennünk, hogy ez csak egy alternatív, lehetséges interpretáció, és elképzelhető, hogy még azok közül is meglehetősen esetleges.
+
+3
+
+sének és – egy másik megközelítésből – eljelentéktelenedésének lehetünk tanúi a per folyamatában.6 Josef K. mint tanú jelentős elsősorban: bár vádlottként hívatott el a tárgyalásra, ott is mindenek előtt önmagáról kellene vallania, amire azonban képtelen. Ha megvizsgáljuk a K. által a „kihallgatáson” elmondottakat, azt látjuk, hogy a helyzet racionális
+rendezésére törekszik, azonban teljesen elvéti az irányt, és félreérti a törvényszék, azaz
+a saját szituációjának, léthelyzetének a jelentőségét. Racionalizációs törekvése egy olyan létszituációból indul ki, amelynek alap-meghatározottsága a félreértelmezettség. Retorikája
+látszólag meggyőző és „korrekt”, legalábbis ő ezt hiteti el magával, mivel saját szerepét túlértékeli a racionalizáló szubjektum gondolkodását követve:
+– Kérdése, vizsgálóbíró úr, hogy szobafestő vagyok-e – vagy inkább, ön nem is
+kérdezte ezt, hanem a fejemre olvasta –, kérdése jellemző az egész ellenem indított
+eljárásra. Most közbevetheti, hogy hisz ez egyáltalán nem is eljárás, nagyon igaza
+van, mert ez csak akkor eljárás, ha én elismerem annak. De most, pillanatnyilag,
+elfogadom, hogy az, némiképp részvétből. Nem is lehet ezt másképp nézni, csak
+részvéttel, ha az ember egyáltalán figyelmére méltatja. Nem mondom, hogy léha
+eljárás, de ezt a megjelölést ajánlanám önnek önismeretül. […]
+– […] ami velem történt, csupán egy eset, s nem is nagyon fontos, mert én nem
+tartom súlyosnak, de jelzi milyen eljárás folyik sokak ellen. Értük állok itt helyt,
+nem magamért.7
+A tanúság félreértéséről van szó. „A logikai modellekre építő logika és retorika számára
+a tanúság az értelem elidegenedését jelenti, vagy ahogy Arisztotelész mondja a Retorikában egy olyan nem-technikai bizonyító eszközt, amely a szónok által kitalált érvekhez képest külsőleges.”8 A tanúság félreértéséből a szerep elvétése származik: K. az értelemadó,
+az igazságtalanság ellen harcoló „mártír” szerepét gondolja magáénak. (Bár a szerző ironikusan K. szájába adja a mondatot: „[n]em pályázom szónoki sikerre”9.) A „rétor” K. számára a tanúság eltávolítja az értelmet, eltakarja az ok-okozati összefüggéseket, hiszen az
+(a tanúság) képes volna egy olyan igazságról számot adni, amely a logikai összefüggéseken
+túlmutat, vagy pontosabban azokat megelőzve, prelogikus eredetként hatva, a személy
+eredeztethetőségét megalapozni volna képes.
+A törvényszék és a kastély a hatalmasok igazának szimbóluma, ez az igazság azonban
+nem megközelíthető, nem válhat értelmezés tárgyává, vagyis tulajdonképpen nincs jelen,
+üresnek tűnik, semminek tűnik. A kastély és A per törvényszéke így ugyanabba a szimbolikus mezőbe helyeződik. Ez a szimbólum a hiány szimbóluma (bár megközelítésünk szerint
+nincs kifejezetten egy értelemre utaló szimbólum, pontosabban: nincs kizárólagos értelmezés) – a szimbólum kettős (többszörös) értelméből, a konkrét és rejtett értelemből
+(mely rejtett értelem az interpretáció tárgya) kiindulva megállapítható, hogy ez esetben
+6
+
+7
+
+8
+9
+
+Az interpretációban elsődlegesen Paul Ricoeur tanulmányához, A tanúság hermeneutikájához fogunk fordulni, azt mintegy értelmezési támpontként próbáljuk használni.
+Franz Kafka, „A per”, ford. Szabó Ede in Franz Kafka összes regényei (Szeged: Szukits Könyvkiadó, 2001), 384–385.
+Paul Ricoeur, „A tanúság hermeneutikája”, 202.
+Franz Kafka, „A per”, 385.
+
+4
+
+a rejtett értelem az értelem-nélküliséget jelöli10. Erich Fromm szerint „[a] szimbolikus
+nyelven írott műalkotás kimagasló példája A per”11, amely megállapítást itt most nem is
+feladatunk részletesebben vitatni, azonban részben A kastély újabb ignorálására felhívva
+a figyelmet kiemeljük, hogy ama szövegben (A kastélyban) figyelhető meg talán a szimbólumképzés még erőteljesebb, vagy talán nyilvánvalóbb jelenléte, főként Klamm figurájában, aki a személyesség/személytelenség ambivalenciájának szimbóluma, sőt, egyáltalán
+az ambivalencia, meghatározhatatlanság személyes/személytelen szimbóluma. Klamm a személyes igazság „legfelsőbb” megtestesülésének reményeként jelenik meg K. percepciójában, de állandóan változónak, illetve még „differálásában”, azaz (személyes) valóságában is
+végképp bizonytalannak, teljesen kiszámíthatatlannak bizonyul. Klammról mindenki tud
+valamit (kivéve K.-t, de ő idegen; erre a mozzanatra később még visszatérünk), vagy legalábbis mindenki úgy tesz, mintha tudna valamit, de senki sem tud biztosat, és többször is
+úgy tűnik, mintha összevissza hazudoznának róla. Személye pillanatról pillanatra, (személyes vagy érdekközpontú) értelmezésről értelmezésre változik, és mintha e változékonyság,
+vagyis a változás állandósága adná lényegi vonását. Részben hasonló vonásokat emel ki
+Peter V. Zima Klamm figurája kapcsán:
+Valójában Kafka regényében a kastélybeli hivatalnok Klamm megfoghatatlan
+Próteuszként jelenik meg, aki még inkább változó, mint a róla terjedő hír: „Klammról azonban beszélünk néhanapján, én még sohasem láttam Klammot (…), de
+a faluban persze tudják, milyen, egyesek látták is, és mindenki hallott róla, így
+aztán közvetlen látásból, mendemondákból, meg bizonyos torzító hátsó szándékokból kialakult róla egy kép, mely alapvonásaiban hiteles is. De csak alapvonásaiban. Egyébként azonban változékony, és talán még csak nem is annyira, mint
+Klamm valódi mivolta.” Néhány lappal odébb ismét kétségbe vonják Klamm azonosságát és azonosíthatóságát: „Klammal beszél, de valóban vele beszél-e? nem
+csupán olyasvalakivel, aki valamennyire hasonlít Klammra?”12 (kiemelés tőlem)
+Zima továbbá Karel Kosík nyomán rámutat, „hogy csehül a ’klam’ ’csalás’-t, ’csalódás’-t
+jelent, és Kafka, aki tudott csehül, ennek minden bizonnyal tudatában volt” 13. Klamm
+alakja valóban illuzórikusnak tetszik, azonban ez nem implikálja azt, hogy nem is létezik,
+hiszen miközben minden jel arra mutat, hogy nem létezik, ezzel egy időben ugyanazok
+a jelek mutatnak arra, hogy létezik, így a létezés/nem-létezés kétsége esetében föloldhatat10
+
+11
+
+12
+
+13
+
+Természetesen itt is némiképp a ricoeur-i terminológiából indulunk ki, ld. Paul Ricoeur, „Nyelv,
+szimbólum és interpretáció”, ford. Martonyi Éva, in Bókay Antal, Erős Ferenc szerk., Pszichoanalízis és irodalomtudomány. Szöveggyűjtemény, 243–250.
+Erich Fromm, „Franz Kafka”, ford. Papné Bánfai Beáta, in Bókay-Erős szerk., Pszichoanalízis és
+irodalomtudomány. Szöveggyűjtemény, 159. Bár a szimbolikus mező hangsúlyozása jogosnak tekinthető, magát a regény nyelvét erős túlzásnak tűnik szimbolikusnak minősíteni. Ez és az ehhez
+hasonló megjegyzések is táplálhatják a Kafka-kultusz „misztérium”-gerjesztő játékát, amely
+akarva-akaratlan a tisztánlátás elködösítésére megy ki. Milan Kundera erős vitriollal beszél a Max
+Brodra visszavezethető Kafka-kultusz hívőiről és gerjesztőiről, ld. 17. jegyzet.
+Peter V. Zima, „Hašek és Kafka: ambivalencia, bírálat és válság”. Ford. Fried István, in Fried István szerk., Monarchia a századfordulón (Monarchia-irodalmak és irodalmak a Monarchiáról),
+(Szeged: JATE BTK Összehasonlító Irodalomtudományi Tanszék, 1991), 25.
+Ibidem.
+
+5
+
+lanná válik. Klamm ezáltal az elvesztett és megtalálni vágyott igazság személyes-személytelen jelképévé válhat.14 Valójában olyan jelképpé, amely nincs is jelen, vagyis hiányával jelez. Érdemes megfigyelnünk továbbá a kafkai szövegben azokat a kifejezéseket, amelyek
+a tanúság „hétköznapi” szemantikájához kapcsolhatók: a fentebb kiemelt szövegrészek
+a szemtanúságot, fültanúságot, valamint a tanúság intencionalitását hangsúlyozzák. Utóbbi
+mozzanat megkülönböztetett figyelmet érdemel: ad absurdum a „torzító hátsó szándékok”
+alapján megrajzolt kép „alapvonásaiban” hitelesnek minősíttetik: az igazság csűrés-csavarása, a hamis tanúság bűne a mindennapi beszélyben (Heideggerrel mondva: fecsegésben)
+relativizálódik. A jogi diszkurzus önmagát bontja le a köznapi nyelvben, hiszen itt olyan
+bűnről,
+[a] hamis tanúságról van szó, mely nem szűkíthető le a látott dolgok elbeszélésében elkövetett hibára. A hamis tanúvallomás a tanú szívéből fakadó hazugság. Ez
+a hamis szándék olyan végzetes a jogszolgáltatásban és az egész jogi diskurzus
+menetében, hogy minden erkölcsi kódex a legsúlyosabb bűnök közé számítja. Azok
+a szigorú szankciók, amelyekkel bizonyos törvények a hamis tanút büntetik, jól
+jelzik azt a mélységes felháborodást, amit a hamis tanúvallomás vált ki a köztudatban. Ebből fakad a kérdés: ki az igaz tanú, ki a hiteles tanú?15
+A hamis tanúság olyan szándékok által irányított hazugság, amelyek hatalomvágyból
+vagy olyan „elfojtott” szorongásból fakadnak, amely a társadalmi pozícióhoz való ragaszkodásból ered stb. Olyan hipokrita magatartás, amely A kastély világában mindennapos gyakorlat, így e világ keretein belül e magatartás képmutató volta föl sem tárul, azaz az a lehetőség, hogy a(z) (nem-)igazság (a kastély, Klamm stb.) valójában nem-igazság föl sem merül mint lehetséges alternatíva. Nemhogy „mélységes” közfelháborodás, de még észrevétel,
+felismerés (recognition) sincs. Azaz: a tanúság itt megfosztatik az autenticitás/inautenticitás, az igazság/hamisság dichotómiájától. Csak az idegen (K.) számára marad értelme
+a kérdésnek: „ki az igaz tanú, ki a hiteles tanú?” Számára azonban nemcsak hogy értelmes
+marad e kérdés, hanem egyenesen létkérdéssé válik. A saját percepciójában konstituálódó
+tanúságtételek esetleges igazság-tartalmának megértésével próbálja meg önmagát értelmezni és a kastélyi szituációban (azaz én és „világ” határhelyzetében, krízisében) elhelyezni, és ezáltal önmaga és a „világ” számára hiteles tanúságot adni saját létezéséről,
+mibenlétéről. Hogy ez a „quest” eleve kudarcra van ítélve, az azért van, mert K. nem találhatja meg a megfelelő kerülőutat önmagától önmagáig, mivel önmagán „kívül van”, és
+önmagán kívül keres, önmagáról mint olyanról elfeledkezik, azaz nincsenek meg az előfeltételek az őáltala keresett válaszhoz szükséges („heideggeri”) kérdés feltevésének a lehetőségéhez. Az „önmaga” így csak olyan töredékben maradhat, olyan töredékesen konstituálódhat, mint maga a narratíva, a kafkai szöveg; ha szerzői szándékról még van értelme beszélni, akkor azt is mondhatnánk, a szöveg töredékes szerkezete tanúságtétel a szerzői
+„önmagáról”; de ezt a feltevést meghagyjuk egy be nem igazolt (be nem igazolható) hipotézisként, sejtésként. K. személyiségének töredékessége azon kommunikációs szituációk ér14
+
+15
+
+Umberto Eco hasonló megfontolások alapján jegyezheti meg ironikusan, hogy a szemiotika tárgya
+a hazugság, az igazság pedig a leginkább effektívnek tekinthető a hazugságok közül. Vö. Umberto
+Eco, A Theory of Semiotics bevezető részével.
+Paul Ricoeur, i. m., 191.
+
+6
+
+telmezése során kibomló önértelmezés eredménye, amelyekben K. tevékeny résztvevő, és
+közvetve vagy közvetlenül „tulajdon önmagának”, jelenlétének az értelme e beszédszituációk tétje. A külső igaz-hamis tanúságok tűnnek egyedül bizonyító erejűnek K. számára
+ebben a perben, mely „már mindig” (always already) az életére és létére megy ki. Próbálunk egy szemléltető példát citálni a szövegből, hogy ne lógjon a levegőben ez az érvelés.
+A kocsmárosné próbálja ecsetelni K. számára annak a törekvésének a hiábavalóságát, amely
+a Klammal való beszélgetést tartja céljának, és eközben (a kocsmárosné) ad egy meghatározást K.-ról; K. ezt a meghatározást ugyanebben a társalgásban később mint érvet játssza
+ki – azaz „kritika” (de nem interpretáció) nélkül átveszi önmeghatározásként. Ezt a következő két szövegrész illusztrálja:
+Ide figyeljen, földmérő úr. Klamm úr kastélybeli úr, és ez már önmagában is igen
+magas rangot jelent, teljesen függetlenül Klamm egyéb rangjától. Mi ezzel szemben maga? Maga, akinek házassági beleegyezéséért oly alázatosan esedezünk itt?
+Nem való a kastélyból, nem való a faluból; egyszerűen semmi. […]
+Klammnak a Fridához való kapcsolatában az én személyem révén nem történhetett semmi változás. Vagy nem volt köztük semmiféle lényeges kapcsolat, ezt állítják tulajdonképpen azok, akik Fridától megvonják a megtisztelő „kedves” címet,
+és akkor nincs ma sem; vagy volt, s akkor hogy zavarhattam volna meg ezt én,
+éppen én, aki, mint az imént olyan találóan mondta, Klamm szemében senki és
+semmi vagyok.16 (kiemelés tőlem)
+Ne tévesszen meg bennünket a „Klamm szemében” kitétel, hiszen a regény világában
+a „valaki” státusza csakis Klamm vagy a kastély ítélete alapján nyer értelmet, így a „Klamm
+szemében senki és semmi vagyok” tulajdonképpen ugyanúgy a létezés jogának megvonása
+az önmagától, mint a kocsmárosné megjegyzése által bekövetkező megfosztatásában, azaz
+tulajdonképpen annyit tesz: semmi vagyok. Tehát: az önmeghatározás a meghatározás átvételéből születik, a kritikai stádium elmarad. Valóban elmarad? Figyeljük meg, hogy kritikai tevékenység ténylegesen van, sőt, szinte állandóan jelen van K. beszédében és spekulációiban, csak a kritika célt téveszt. Itt is az alapértelmezés már adott (K.=semmi) és alapértelmezettséggé válik, a kritika és a vita csak az értelmezés értelmezését érinti. Azaz a vita
+arról folyik, hogy mit is jelent K. számára ez a semmi-lét, semmitmondó lét, és nem arról
+a botrányról, hogy K. a semmivel van azonosítva.
+Mai szemmel nézve akár ironikusnak is tetszhet a hasonlóság a kastély és Klamm
+kafkai ábrázolása, némasága és a Max Brod által megalkotott Kafka-kép között (bár persze
+a nézőpont-eltolódás alapvető):
+Valamennyi bölcs és próféta közül, kiknek lába földünket tapodta, ő volt a leghallgatagabb… […] Hallgatott; azért vajon, mert mélyebbre hatolt a nagy rejtélyt
+keresve? Amire vállalkozott, kétségkívül még nehezebb volt, mint amit Buddha
+
+16
+
+Franz Kafka, „A kastély”, ford. Rónay György in Franz Kafka összes regényei, 192–193.
+
+7
+
+akart tenni, mert ha sikerrel járt volna, az egyszer és mindenkorra [sic!] szólt
+volna.17
+Valóban, a XX. században leginkább hallgathattak a „próféták” (azaz a „klasszikus” értelemben vett igazság-közvetítők/mediátorok), mert nemigen lehetett fellelni őket. (Vagy
+már a XIX.-ben is hallgattak? A Karamazov testvérekben Dosztojevszkij mondatja Szmergyakovval, az idős Karamazov fattyú (!) fiával, hogy ha van is egy-két szent ember a földön,
+azaz olyan, aki hitével hegyeket képes elmozdítani, azok biztosan elvonultak a sivatagba,
+örök magányra ítélve magukat.) Azért említettük meg a Brod által megálmodott idealizált
+vallásalapító Kafka (Grata) figuráját, mert bár annak inadekvát jellege teljesen nyilvánvalónak tetszik, a kafkai szövegeknek lehetségesnek tűnik egy teológiai, vagy kvázi-teológiai olvasata. Kafka kacérkodott a cionizmussal, nagyrészt Max Brod hatására, de végül
+eltávolodott az irányzattól, azonban Gustav Janouch feljegyzéseiből úgy tűnik, hogy mélyen foglalkoztatta a zsidó kinyilatkoztatás és a krisztusi tanítás. Regényeiben olyan problémákkal küzd, melyekre a zsidó vallás monoteizmusa és annak nyomán a kereszténység
+kínál autentikus, a tradíció és az európai kultúra által hitelesített válaszokat, tanúságtételeket. Kafkánál azonban pontosan e tradíció hitelessége, a logos „egyetemes” fejlődése vagy
+ricoeur-i terminológiában a Szellem archeológiája forog kockán. A kafkai világban ezek
+a fogalmak hajlamosak elveszíteni legitimitásukat azáltal és amiatt, hogy nem nyílnak meg
+végképp az értelem számára, főbb vonásaiban irracionálisnak mutatkozik az igazság vagy
+Törvény. Azért veszítik el legitimitásuk, mert ez a világ és a benne elsüppedt személy (K.)
+a kartéziánus ego parancsa értelmében minden fenomént racionalizálna. A racionalizáció,
+a „természetéből” fakadóan idealista (azaz: ideálokból kiinduló) „józan ész” nem ismer alternatív értelmezési stratégiákat – és úgy tűnik, ez az alap-attitűdje a racionalizáció intézményesített társadalmi modelljének, a végtelenített bürokráciának is, azonban pontosan
+ezzel ellentétes hatást vált ki: egyértelmű helyett végtelen értelmű, racionális helyett irracionális lesz az ember számára. Kafka szövegei világosan rámutatnak, hogy az értelmezés
+kisajátításából fakadó, azaz a priori és változhatatlan „értelem” értelmetlenné, totalizációs
+hajlamából származóan totálisan hozzáférhetetlenné válik az emberi interpretáció számára. Ennek a problémának a summázata a Törvény kapujáról szóló parabola és annak
+értelmezési kísérletei A perben. A pap rámutat, hogy a történet az önámításról szól (méghozzá „a Törvény bevezető irataiban”), a Törvény hajlékába való bebocsáttatás, az egyértelmű igazsághoz való eljutás reménye a vanitatum vanitas, ugyanis az értelmezés lépcsőfokait vagy kapuit az egyre félelmetesebb kapuőrök őrzik, akik végképp megrendítik az
+ember eltökélt szándékát az igazságra való törekvésre (hasonlót jelez a fenomenológus Rudolf Otto a vallási tapasztalat kapcsán: a tremendum numinosum meghátrálásra is késztetheti a személyt). A történetben szereplő férfi, aki Josef K.-val azonos és mégis más, az
+első kapunál leragad, azaz erőlködése, akarata ellenére nem jut közelebb az igazsághoz
+(a Törvény hajlékához), hiszen a kapuőr (i.e. az értelmezés „első” kapuja) minden racionalizáló törekvésének, stratégiájának (könyörgés, megvesztegetés) tökéletesen ellenáll. Ezek
+a manőverek értelmét kimerítik, szelleme meggyengül anélkül, hogy bármiféle eredményre
+jutott volna, azaz ezek az erőfeszítései (analóg módon K. hivatalnoki munkája, „élete”)
+17
+
+Max Brod, A szerelem elvarázsolt birodalma, idézi Milan Kundera, „Szent Garta kasztráló árnya”,
+ford. Réz Pál, in Sükösd Mihály, Franz Kafka – A per (Akkord Kiadó, 1999) 55.
+
+8
+
+üresnek, értelmetlennek bizonyultak. Végső pillanataiban, mintha a „sors” csúfot űzne vele,
+mégis megcsillan az értelem reménysége:
+Végül meggyöngül a szeme világa, s nem tudja, valóban sötétedik-e körülötte,
+vagy csak a szeme káprázik. Ám most egyszerre fényt lát a sötétben, kiolthatatlan
+fény árad a Törvény kapujából. Most már nem sokáig él. Halála előtt kérdéssé sűrűsödnek az agyában az itt töltött egész idő tapasztalatai; ezt a kérdést még sosem tette föl a kapuőrnek. Int neki, mert merevedő teste már fölegyenesedni sem
+tud. Az őrnek mélyen le kell hajolnia hozzá, mert a nagyságkülönbség nagyon
+megváltozott a férfi kárára. – Mit akarsz még most is megtudni? – kérdezi a kapuőr. – Telhetetlen vagy. – Mindenki a Törvényre törekszik – mondja a férfi –, mi
+az oka, hogy e sok-sok év alatt senki sem kért rajtam kívül bebocsátást? – Az őr
+látja, hogy a férfi már a végét járja, s hogy elhaló hallását még elérje a szó,
+üvöltve mondja: – Itt nem mehetett be senki más, mert ezt a bejáratot csak neked
+szánták. Most megyek és becsukom.18
+A férfi élete végén szembesül személyiségének hasadásával, annak a tudatosulásával,
+hogy az igazsághoz való közelebb férkőzés személyes, azaz reflektív szellemi tevékenységet
+kíván meg. Az igazság kizárólag személyes természetű ebben a „teológiában”, hiszen ezt
+a bejáratot csak a férfinek szánták. De ki szánta neki? A deus ex machina mozzanat kettősségét figyelhetjük meg, közvetetten a Törvény megközelíthetetlen uránál (urainál?), aki
+meghatározza a személy számára az igazság hozzáférhetőségét, és közvetlenül a kapuőrnél,
+aki instrukciókat ad, de csakis a kérdés-válasz dialektikája alapján, rákérdezés nélkül nincs
+útbaigazítás. A férfi számára csak az utolsó pillanatban válik világossá (ahogy K. számára
+is), hogy önmagáról, a „belső emberről” kellett volna tanúságot tennie annak érdekében,
+hogy nyilvánvalóvá váljon elkötelezettsége. „A tanúságban a tanú elkötelezettsége az a rögzítő pont, ahol az egész jelentéskör kibomlik, hiszen az elkötelezettség különbözteti meg
+a hamis tanút, valamint az igaz és hiteles tanút.”19 A férfi (és K.) esetében az elkötelezettség
+a félreértelmezés miatt nem válhat nyilvánvalóvá.
+Kérdéses persze a „kapuőr” „valóságos” egzisztenciája, de, tekintve a történet allegorikus nyelvhasználatát és a kapuőr attribútumait (abszolút determináció és végeredményben
+a semmivel egyenlő szabadság) valószínűleg nem személyként vagy jelenvalólétként egzisztál és funkcionál, hanem mint a heideggeri értelemben vett lelkiismeret (Gewissen) hívása, egyfajta értésreadás (már csak az őr kötöttségénél fogva is elfogadhatjuk ezt az interpretációt, hiszen nyilvánvaló: nem csak a kapu, de az őr is a férfinek van szánva). A hétköznapi „új” fecsegés lármájának és a lelkiismeret „kíváncsiságtól” mentes hívásának megkülönböztetéséről beszélve Heidegger olyan mozzanatokra mutat rá, amik az eddigiekhez
+mélyen kapcsolódnak:
+A lelkiismeret nem más, mint ami ily módon [a fentiek szerint] híván értésül ad.
+A hívást a beszéd móduszaként fogjuk fel. A beszéd az érthetőséget tagolja. A lelkiismeret hívásként való jellemzése semmiképpen sem „puszta kép”, amilyen például Kant elképzelése a lelkiismeretről mint bíróságról. Nem szabad megfeledkez18
+19
+
+Franz Kafka, A per, ford. Szabó Ede, (Budapest: Európa, 1986), 190.
+Paul Ricoeur, „A tanúság hermeneutikája”, 192.
+
+9
+
+nünk arról, hogy a beszéd, s így a hívás szempontjából a hangnyelvi megnyilvánulás lényegtelen. Minden kimondás és „kimondott hívás” eleve feltételezi a beszédet. Amikor a mindennapi értelmezés a lelkiismeret „hangját” emlegeti, akkor itt
+egyáltalán nem a hangnyelvi megnyilvánulásra gondol, hiszen az faktikusan így
+sohasem nyilvánul meg; a „hangot” úgy fogja fel, mint értésreadást. A hívás feltárási tendenciájában benne rejlik a lökés, a kimozdító felrázás mozzanata. A hívás a messzeségből a messzeségbe történik. A hívás azt érinti, aki vissza akarja
+hozatni magát.20
+A hangnyelvi megnyilvánulás funkcióját valószínűleg nem értjük teljesen félre, ha azt
+részben a „hívás” racionalizációjaként fogjuk fel, hiszen az artikulációhoz vezető úton
+a „hang” értelmének át kell esnie egy olyan értelmezési processzuson, amiben a ráció (is),
+már ha létezik olyan, mindenesetre az, amit mi rációként közelíthetünk meg (a „nyugati”
+„metafizikai” hagyomány nyelvhasználatát követve), az (is) komoly funkciót tölt be. A kanti
+hasonlat a lelkiismeretről mint bíróságról ugyancsak beszédes lehet e keretek között, hiszen a bíróság, a jogi nyelv „szociolektus”-a21 az ember kísérletezése az igazság racionalizálására, megragadhatóságának racionális megalapozására, tehát a lelkiismeret „hangjának”
+artikulálására. Kafka ezt a végső soron ideológiát reprezentáló beszélyt (belülről, önmagából) dekonstruálja, ezáltal A kastély és A per szövegvilága a kanti hasonlat inverzét adja.
+A Törvény képviselőinek beszéde sokszor abszurditásba fullad, persze figyelembe véve, hogy
+az csak (Josef) K. percepcióján keresztül jut el hozzánk. Azaz, csak a percepcióban mutatkozik meg abszurditása, hiszen úgy látszik – hogy egy paradox megszemélyesítő formával
+éljünk –, hogy ez a beszédmód önmagát rendnek gondolja. Egy kiragadott részlet A per
+ügyvédjének a bíróság működési mechanizmusát taglaló fejtegetéséből jól reprezentálja
+a fentieket:
+Lehetőleg mellőzni akarják [a bíróság] a védelmet, hogy minden magán a vádlotton múljék. Tulajdonképpen nem rossz álláspont, de elhibázott dolog lenne ebből
+arra következtetni, hogy ennél a bíróságnál a vádlott számára fölöslegesek az
+ügyvédek. Ellenkezőleg, nincs még egy olyan bíróság, ahol oly nagy szükség lenne
+rájuk, mint itt. Az eljárás ugyanis általában titkos, nemcsak a nyilvánosság, de
+a vádlott számára is. Természetesen csak annyira, amennyire lehet, de hát ez igen
+nagy mértékben lehetséges. (A per, 105.)
+Hellyel-közzel hasonló mederben folytatódik az érvelés, melynek persze az a célja, hogy
+meggyőzze K.-t az ügyvéd további foglalkoztatásának a szükségességéről. A szövegben kifejeződő „ideológia” önmagát bontja le, folyamatosan önmaga alól húzza ki az értelmezhetőség talaját. A végső jelölt (signified), a Törvény, igazából nem is végső, mert nincs ott,
+nincs jelenléte. Jacques Derrida szerint a törvényszék „lemond a lét lényegéről, amely
+
+20
+
+21
+
+Martin Heidegger, Lét és idő, ford. Vajda Mihály, Angyalosi Gergely, Bacsó Béla, Kardos András,
+Orosz István, (Budapest: Osiris, 2001) 315.
+Vö. Peter V. Zima, i. m. 4. végjegyzet: a szociolektus mint „lexikai és diszkurzív (szemantikai és
+szintaktikai) szinten strukturált nyelvi egység, amelynek struktúrái ideologémákként egy többé
+vagy kevésbé összefüggő ideológiát fejeznek ki.” 30.
+
+10
+
+a jelenlét volna. ’Igazsága’ a nem-igazság, amely Heidegger szerint az igazság igazsága.”22
+A törvényszék, a hatóság stb. nincs jelen vagy pontosabban nem-jelen-van. A hiányról, az
+értelemnélküliségről fentebb már beszéltünk. Most mementóként újra felírtuk őket ide,
+mert úgy gondoljuk, hogy a heideggeri „igazság igazsága” ironikusan pontosan a nyelv
+ilyen alkalmakkor fellépő értelem-fosztottságára mutat rá; meglehet, hogy ez az ironikus
+olvasat kissé önkényes, ez a kockázat azonban felvállalható. Az igazság igazsága következetesen végiggondolva – már amennyire és amennyiben ez lehetséges – szemantikai paradoxon.23 Így ebben a kvázi-jogi beszélyben az értelmezés tája folyamatosan képlékeny, az
+értelem és az „igazság” horizontja pedig egyre inkább ködössé és semmibe-veszővé válik.
+(Hasonló „szociolektus”-dekonstrukciót figyelhetünk meg az ezredvég orosz prózájában,
+például Juz Aleskovszkij Kengurujában, vagy Venyegyikt Jerofejev Moszkva-Petuskijában, ahol a Kreml válik a „végső” jelöltté és a szovjet „elit” marxista-leninista-sztálinista
+diszkurzusa van „hermeneutikai halálugrásra” kényszerítve. Bár náluk, főleg Jerofejevnél,
+a nyelvezet még inkább magában hordozza a tragikomikus ambivalenciát.)
+A tanúságok autenticitás-inautenticitás skálán való elhelyezése oly mértékben önkényes, hogy az ítéletalkotás értelmetlen; K. azonban ezt nem hajlandó elfogadni. Azért nem
+fogadja el, mert figyelmen kívül hagyja, vagy terminus technicusszal szólva: a személyiségén elterpeszkedő racionalizáló kartéziánus ego figyelmen kívül „hagyatja” vele, hogy az
+önmaga (személyének) hitelessége hiányzik a hitelesség megítéléséhez, az ítéletalkotáshoz.
+Ítéletalkotóvá csak az az elkötelezett tanú lesz, akinek bizonyságtétele bizonyító erőre
+emelkedik. Ilyen „történelmi archetipikus” alak Jézus. Könnyen tévútra vihet minket a kafkai szövegek értelmezésében, ha (Josef) K. alakját bármilyen értelemben Jézussal azonosítjuk (ami igazán csak egy rövid lépés akkor, ha „kafkológiánkban” már ráruháztunk Kafkára egy messiási-prófétai szerepet, amint arra Kundera citál néhány példát említett cikkében). Krisztus hiteles tanúként válhat egyszerre vádlottá és bírává.
+Krisztus a par excellence tanú, mert a világ cselekedeteinek „krízisét”, ítéletét idézi
+elő: „Én bizonyságot teszek felőle, hogy az ő (világ) cselekedetei rosszak” ([János]
+7,7). A tanú szerepe ezen a ponton a Végidő Bírájának szintjére emelkedik. A Bíró:
+a Világosság; ő hoz világosságot. Meghökkentő fordulat ez: a földi per vádlottja
+az eszkatológiai per bírája. Krisztusban, a tanúban a földi vádlott és a mennyei
+bíró két szerepe összekapcsolódik.24
+Josef K. nem lehet Jézus Krisztus: a per vádlottja itt nem válhat egy „fölsőbb” per bírájává. A kafkai regény megmutatja, hogy a személyiség hitelessége/hiteltelensége, azaz
+tanúságra való képessége többé nem rögzített, az autenticitás megítélése többé nem lehet
+egyértelmű, és ezzel egy olyan alapvető jogi és emberi dilemmára mutat rá, ami némiképp
+feledésbe merült: ti. az ítéletalkotás, a meggyőző bíráskodás lehetetlenségére. Úgy gondo22
+
+23
+
+24
+
+Jacques Derrida, „Préjugés” in Spiegel und Gleichnis. Festschrift für Jacob Taubes, idézi Peter V.
+Zima, i. m. 26.
+Még akkor is, ha nem „Egy” igazságban gondolkozunk, hiszen az adott szituációban, beszédhelyzetben, stb. az „igazság” mindig egy vagy egy sem, amely nem-nyelvi. Az a probléma, hogy „egy
+vagy egy sem” nem megtárgyalható e keretek közt, továbbá a tanulmány diszkurzív konzisztenciáját is megbontaná, illetve túl is mutat a jelen kereteken, nyilván minden kereten túlmutat.
+Paul Ricoeur, i. m. 199–200.
+
+11
+
+lom, felesleges példákat citálni annak illusztrálására, hogy ez „napjainkban” mennyire
+égető probléma, minthogy a példák képtelenek is kimeríteni azt.
+Még egy oldalról megpróbáljuk megközelíteni K. hermeneutikai problémáját: az idegenség, K. idegenségének és a kastély/törvényszék idegenségének a szempontjából. Szándékosan kerülni fogjuk az „elidegenedés” terminust, bár meglehet, hogy e „detour” oka
+szubjektív, ti. az, hogy úgy érezzük: a kifejezés olyannyira inflálódott, jelentésértéke oly
+mértékben devalválódott, hogy használhatatlannak érezzük. Ez igaz lehet más terminusokra is, de ennyi indokolatlan finnyásság engedtessék meg. Nyilván megvannak e finnyásságnak a jelenkori kultúrspecifikus („kelet-európai”) politikai okai.
+K. (ön)értelmezése azért sem lehet sikeres, mivel idegenként jelenik meg ezen társadalmi struktúra számára, jobban mondva idegenként jeleníti meg magát, és ennek értelmében idegenként kezelik. (E problematika felvetése is alátámasztja a kafkai irodalom érvényességét, gondoljunk csak a poszt-koloniális stúdiumokban, Edward W. Said és Homi
+K. Bhabha diszkurzusában az idegen, a Másik (Other, autre) tipológiájának hangsúlyaira.)
+A kastélyban ez egészen nyilvánvaló, a faluban K. elsődlegesen (kissé paradox módon)
+idegenségében van felismerve:
+– A kastélyt nézegeti? – kérdezte [a tanító], nyájasabban, mint K. várta volna, de
+olyan hangon, mintha nem nagyon méltányolná, amit csinál.
+– Igen – felelte K. – Idegen vagyok itt, csak tegnap érkeztem.
+– Nem tetszik a kastély? – kérdezte a tanító gyorsan.
+– Hogyan? – kérdezte K. is, kissé meglepetten, majd enyhébb formában megismételte: – Hogy tetszik-e a kastély? Miből gondolja, hogy nem tetszik?
+– Idegeneknek sosem tetszik – felelte a tanító.
+K., nehogy olyasmit mondjon, ami nem lenne helyénvaló, másra terelte a szót.
+(A kastély, 15.)
+Idegeneknek nem tetszik (nem tetszhet) a kastély, hiszen nem képesek (f)elismerni
+szimbolikus rendszerét, nem tudják értelmezni mibenlétét.
+[A kastély a]z erő, az oltalom, a hatalom, a test és a lélek szimbóluma. […] A misztikában a fekete kastély az örök, kielégíthetetlen vágy, a Pokol, a megváltoztathatatlan sors; a fehér kastély a beteljesülés, a spirituális tökéletesség. A kétféle
+kastély között a lélek kastélyai lépcsőzetesen helyezkednek el mint a lélek egymást
+követő lakhelyei a megigazulás útján. A lépcsők legfelsőbbikén áll a megvilágosodás kastélya, ahol a lélek eléri Istent […]. Az égő kastély a tudatalatti, a zavaros
+vágy, míg a sötétben világító kastély a céllal rendelkező tudat.25
+K. képtelen felismerni e gazdag szemantika lehetőségét, és így pontosan a szimbólum
+csapdájába esik. Ezúton teszi idegenné magát a kastély világa számára. A tanító (a falu,
+más példákat is hozhatnánk) idegenként ismeri fel K.-t, de ez K. idegenség-érzetéből fakad: K. „rutinosan” kezeli a szituációt, az ismeretlen fenyegetésétől meghátrálva másra te-
+
+25
+
+Pál József és Újvári Edit szerk., Szimbólumtár. Jelképek, motívumok témák az egyetemes és
+a magyar kultúrából (Budapest: Balassi Kiadó), 500.
+
+12
+
+reli a szót, hiszen arról nem is tud beszélni. K. idegensége, „mássága” nem pusztán abból
+fakad, hogy K. számára hozzáférhetetlen az igazság, mert az a „többiek” számára is az;
+K. abban különbözik, hogy nem lanyhuló törekvéssel fordul a szem elől tévesztett igazság
+felé, nem felejt el kérdezni, mint a „többiek”, de rákérdezni „elfelejt”, a kérdést magát nem
+találja, így csak nem-igazság(ok)hoz juthat el törekvése. De ide már eljutottunk mi is egyszer, tehát valószínűleg érdemes lesz az eddigi vizsgálódásaink eredményeit áttekinteni, és
+azokat az igazság, valamint a tanúság értelmezési problematikájához visszacsatolni.
+Az igazság előfeltételezettsége a gondolkodás és a beszéd sajátja. Azonban éppen
+a gondolkodás és a beszéd korlátozott lehetőségeiből adódóan a tudat kerülőútjain, a szimbólum, a példa és elsősorban a tanúság értelmezési kitérői (detour) révén „juthatunk viszsza”, azaz kerülhetünk közelebb az igazsághoz, vagy részesülhetünk (participáció) az igazságból, ez igazából csak megfogalmazás kérdése. K. ezen kitérői azonban hiábavalóak –
+a tanúság bizonyságtevő erejét nem tudja meglátni, hiszen az nem racionális és sohasemracionalizálható formát ölt, tehát az ő gondolkodása számára értelem-„elidegenülésként”
+(hogy csak ne tudjunk menekülni e szó elől) hat. A per befejezésében azonban megjelenik
+a remény felszabadító erejű fénye:
+Tekintete a kőbányával határos ház legfölső emeletére tévedt. Ahogy a fény villan
+fel, úgy csapódott szét egy ablak szárnya, vézna, szikár férfi hajolt ki a párkányon, távol a magasban, s karját még messzebbre tárta. Ki volt az? Barát? Jólelkű ember? Valaki, akiben részvét élt? Valaki, aki segíteni akart? Egyetlen ember volt? Vagy mindenki? Volt még segítség? Volt még valami elfelejtett ellenérv?
+Nyilván volt. A logika ugyan rendíthetetlen, de nem tud ellenállni annak, aki élni
+akar. Hol a bíró, akit sohasem látott? Hol az a felső bíróság, ahová sohasem jutott
+el? K. fölemelte kezét, s széttárta minden ujját.26 (kiem. tőlem)
+K. megsejti a másik ember „radikális másságát”, a másik megismerésének és felismerésének végtelen lehetőségét. Ugyanakkor önmagát is felismeri a másikban, a „vézna, szikár
+férfiben”, és „rituális” mozdulatát értelmezve „csatlakozik” hozzá e „rituáléban”. A logika
+önmagában valóban rendíthetetlen, azaz hogyha saját megközelítéseit és módszerét abszolutizálja, azonban az „élni akaró”, a kérdést feltenni képes, az önmagáról tanúságot tevő
+előtt meghajlik. Heidegger beszélyével kifejezve:
+A „tiszta én” és az „általában vett tudat” eszméje oly kevéssé tartalmazza a „valódi” szubjektivitás a prioriját, hogy átsiklik a jelenvalólét fakticitásának és létszerkezetének ontológiai jellemzői fölött, illetve egyáltalán meg sem látja azokat. Az
+„általában vett tudat” elutasítása nem jelenti az a priori tagadását, de éppoly kevéssé szavatolja egy idealizált szubjektum betoldása a jelenvalólét tárgyszerűleg
+alapozott aprioritását.
+Az „örök igazságok” állítása, akárcsak a jelenvalólét fenomenális megalapozott
+„idealitásának” összekeverése egy idealizált abszolút szubjektummal a filozófiai
+
+26
+
+Franz Kafka, „A per” in i. m., 478.
+
+13
+
+problematikán belül a keresztény teológia még korántsem radikálisan kiűzött
+maradványai közé tartozik.27 (kiem. tőlem)
+A logikai egyáltalán meg sem láthatja a prelogikait vagy nem-logikait. Az ember,
+a „személy” azonban nem logikai „tiszta én” (racionalizáció), nem objektumokat kimerítve
+megismerő szubjektum („eldologiasítás”), nem is a másiktól hermetikusan elszigetelt individuum (idegen). Mind Heidegger, mind Kafka a (keresztény, „nyugati”, „metafizikus”)
+hagyomány felelősségére és korlátozottságait nem-be- vagy -felismerő magatartásának
+a veszélyeire hívja fel a figyelmet, mindkettejük a saját kifejezési apparátusán belül. A hagyomány kritikusai azonban nemcsak „dekonstruktőrök”, hanem az értelemhez újra és új
+értelmezési kísérlettel „odafordulók”, „rekonstruktőrök” is.
+Ebből a rálátásból kerülünk vissza az embert tanúként és az életet (vagy művészetet
+stb.) tanúságtételként értő gondolati horizontba. Az ebben az értelemben vett tanúság hitelességének az eldöntése semmiképp sem tarozhat végleg emberi ítélet hatálya alá. Az
+ítéletet itt „eredeti” értelmében mint abszolutisztikusat, végsőt és visszavonhatatlant értjük, tehát egy „tisztán” „teoretikus” szempontból közelítjük meg, habár nyilván tudatában
+kell lennünk, hogy e gondolkodásnak megvannak a „gyakorlati”, azaz jogi és politikai következményei, de azok itt most ezen tudomásulvétel („nem-elfelejtődés”) szintjén maradnak.28 Jacques Derrida két olyan megfontolását (ami valójában lehet, hogy egy) emelném
+ki, amelyek megvilágosíthatják a fentieket:
+Egyetlen jelzést emelek és választok ki csupán, nevezetesen, hogy maga a tanúság
+lehetősége, a tanúság-tanúságé, a tanúságtételé, a „tanúság hordozásáé”, a bizonyságtételé (bearing witness, attestation) a becsületszóval és a tanúvallomással
+együtt szakítást jelent akár az érzékekből, akár a logikai-matematikai bizonyításból származó bizonyossággal. A bizonyosság, bármiféle bizonyosság felfüggesztődése nélkül sem szükség, sem lehetőség nem volna soha a tanúskodó tanúságra
+vagy bizonyságtételre általában. […]
+A tanúságtétel se nem észlelés, se nem bizonyítás. Ebből a nézőpontból a khiazma
+ott támad, hogy a tanúság (nem a tanú-tanúé – witnessing – hanem a tanúskodóé
+– bearing witness) csak attól a pillanattól kezdődhet, létezhet és nevezhető annak,
+amikor a kétely lehetségessé válik, amikor már nincs sem természetes és érzéki
+észlelés, sem bizonyíték.29
+A tanúság és így a tanú kérdése nem vonható be a tudat kategóriái alá, nem alátámasztható vagy előkészíthető észlelés-értelmezés vagy bizonyíték – logikai következtetés
+által. A tanú nem definiálható, a tanú mindig kicsúszik a kezünk közül, ha kizárólag a logikai közelít hozzá. Ennek a felismerése, ami felé K. törekszik, amely lehetőség „adódik”
+számára, de amelyet sohasem valósíthat meg, e felismerés a tanúsító tanú felismerése, ha
+
+27
+28
+
+29
+
+Martin Heidegger, Lét és idő, 267.
+Nyilvánvaló, hogy nem szétválaszthatóak ezek a szempontok, ezért idézőjelesek. Hogy mégis szétválasztódnak most, azt a tanulmány gondolati keretei és a „szerző” személyes kompetenciájának
+a korlátozottsága indokolja.
+Jacques Derrida, „Ki az anya? Születés, természet, nemzet”, in Jacques Derrida, Ki az anya?
+(Pécs: Jelenkor, 1997) 34–35, ill. 45–46.
+
+14
+
+úgy tetszik, a tanú „másságának” (egy újabb szemantikailag inflálódott kifejezés) meglátása és elismerése.
+Kafka jelentősége „tanúságának” hitelességében rejlik. K. problémája „már mindig”
+velünk és bennünk van. Hermeneutikai szituációja néha mintha kilátástalannak tűnne,
+felvillan a veszély, hogy az „értelmezések konfliktusában” a személy eljelentéktelenedik, elsüpped, a mindenkori másik „radikális mássága” elhalványul, az önmaga megszűnik.
+K. mint tanú nem vall tökéletes kudarcot mégsem, hiszen a remény, a szabadság választásának lehetősége, a hiteles tanúbizonyság „helyes” értelmezése, azaz az önmagáról, a belső
+emberről adott hiteles tanúságtétel lehetősége „adódik” számára – hiszen az igazság sosem
+az ítéletben van.
+
+FELHASZNÁLT IRODALOM
+Derrida, Jacques. „Ki az anya? Születés, természet, nemzet”. In Derrida, Jacques. Ki az anya? Pécs:
+Jelenkor, 1997, 7–58.
+Fromm, Erich. „Franz Kafka.” Ford. Papné Bánfai Beáta. In Bókay Antal, Erős Ferenc szerk. Pszichoanalízis és irodalomtudomány. Szöveggyűjtemény. Budapest: Filum, 1998, 159–164.
+Heidegger, Martin. Lét és idő. Ford. Vajda Mihály, Angyalosi Gergely, Bacsó Béla, Kardos András,
+Orosz István. Budapest: Osiris, 2001.
+Janouch, Gustav. Beszélgetések Kafkával. Ford. Tandori Dezső. Budapest: Gondolat, 1972.
+Kafka, Franz. A kastély. Ford. Rónay György. Budapest: Európa, 1979.
+Kafka, Franz. A per. Ford. Szabó Ede. Budapest: Európa, 1986.
+Kafka, Franz. Összes regényei. Ford. Kristó Nagy István, Szabó Ede, Rónay György. Szeged: Szukits
+Hönyvkiadó, 2001.
+Kundera, Milan. „Szent Garta kasztráló árnya.” Ford. Réz Pál. In Sükösd Mihály. Franz Kafka: A per.
+Akkord Kiadó, 1999.
+Pál József és Újvári Edit szerk. Szimbólumtár. Jelképek, motívumok témák az egyetemes és a magyar kultúrából. Budapest: Balassi Kiadó, 2001.
+Ricoeur, Paul. „A tanúság hermeneutikája.” Ford. Szabó István. In Fabiny Tibor szerk. A hermeneutika elmélete. Tanulmányok. Szeged: JATEPress, 1998, 185–208.
+Ricoeur, Paul. „Nyelv, szimbólum és interpretáció.” Ford. Martonyi Éva. In Bókay, Erős szerk. Pszichoanalízis és irodalomtudomány. Szöveggyűjtemény. Budapest: Filum, 1998, 243–250.
+Ricoeur, Paul. „Freud filozófiai interpretációja.” Ford. Deim Éva. In Bókay, Erős szerk. Pszichoanalízis és irodalomtudomány. Szöveggyűjtemény. Budapest: Filum, 1998, 253–263.
+Zima, Peter V. „Hašek és Kafka: ambivalencia, bírálat és válság.” In Fried István szerk. A Monarchia
+a századfordulón. Monarchia-irodalmak és irodalmak a Monarchiáról. Szeged: Összehasonlító
+Irodalomtudományi Tanszék, 1991, 23–29.
+
+15
+
+

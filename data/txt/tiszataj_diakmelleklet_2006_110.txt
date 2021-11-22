@@ -1,0 +1,626 @@
+A TISZATÁJ DIÁKMELLÉKLETE
+2006. JANUÁR
+
+110. SZÁM
+
+SÁGHY MIKLÓS
+
+A tekintet hatalma
+A FILMSZAKADÁS MINT REFLEXÍV FUNKCIÓ
+M ÁNDY IVÁN DIÁKSZERELEM CÍMŰ NOVELLÁJÁBAN
+Mándy Iván Diákszerelem című novellája egy filmszakadás miatt meghiúsult vetítés történetét beszéli el. Másképpen megfogalmazva: egy képi történet bemutatásának kudarcáról számol be nyelvi eszközökkel. Az utóbbi
+megállapítás – mely a megjelenítés médiumára utal –
+talán nem haszontalan, hiszen a történet létrejöttének
+képtelensége az ábrázolt világban elsősorban a mozgóképhez, vagy még inkább: a filmképet létrehozó apparátushoz kötődik. A megjelenítő, vagyis nyelvi, és a megjelenített, vagyis mozgóképi médiumok viszonyával kapcsolatban több kérdés is felmerülhet. Először is, hogy miért
+a film, vagy helyesebben a mozgóképet létrehozó feltételek
+(vetítőgép, vászon, nézőtér stb.) tematizálódnak a novellában, és nem például egy festmény, gramofon vagy telefon stb. Továbbá, hogy miért fontos a megjelenített médium önmagára mutatása, technikai megvalósulásának
+előtérbe helyezése; ugyanis a vetítőgépből sugárzó fénynyaláb, miután elszakad a tekercs, mintegy kirajzolja az
+illúziót létrehozó eszközök egyikét (üres vásznat), vagyis
+saját apparátusát. És nem utolsó sorban megválaszolásra
+vár, hogy milyen következtetéseket vonhatunk le az ábrázolt világban megjelenő történésekből a vizsgált Mándyszöveg működésmódjának tekintetében – vagy a történet
+motivikáját felhasználva másképpen: hogyan kerül az üres
+vászon elé az elnémult jegyszedőnő?
+A novella kezdő mondatai a filmszakadást ábrázolják:
+„Norman Wilson finoman remegni kezdett, akárcsak szét
+akarna foszlani, mint egy öreg felöltő, aztán egyszerre
+csak felpattant a levegőbe, és eltűnt. Vele együtt tűnt el
+a szőke Gloria is meg a kedves, öreg, kissé elhagyatott kert,
+
+MÁNDY IVÁN
+(1918–1995)
+A kamerával történő azonosulás egyben a látottak feletti
+uralmat is felkínálja a nézőknek, mégpedig a kameraoptika által biztosított perspektivikus látásmód segítségével. A kamera ugyanis
+(a fényképezőgéppel egyetemben) mint a szem metaforája, leginkább ahhoz a kiemelt nézőponthoz hasonlítható, melyet a reneszánsz,
+vagy más szóval centrális
+perspektíva enyészpontja
+határoz meg.
+
+ahol kart karba fűzve sétálgattak. Mindez eltűnt, és csak a mozi vászna világított bágyadt,
+derengő fénnyel.” Látható, a nyelvi történet kezdete a mozgóképi történet vége. A helyzet
+azonban nem ilyen egyszerű. A novella címe, a Diákszerelem ugyanis valójában az elszakadt filmre utal, annak a történetét, látványát jelöli. De mint a Mándy-szövegből megtudhatjuk, e történet nem jön létre, legalábbis eredeti (képi) formájában. Ebben az értelemben
+a cím üres helyet jelöl, hiányt, akárcsak az „üresen”, „bágyadtan, derengő” vászon, ahonnét
+a kerttel együtt eltűntek a filmszereplők. Mindemellett a Diákszerelem cím vonatkozhat
+arra a történetre is, amelyet a jegyszedőnő, korábbi filmélményei alapján – hogy a filmszakadástól felbőszült nézőket megnyugtassa – a vászon elé állított széken ücsörögve megpróbál előadni. A Diákszerelem szó tehát egyszerre jelöl hiányt, a kép hiányát, illetve a hiány pótlásának kísérletét, az eltűnt kép verbális megjelenítését, felidézését.
+A szöveg elbeszélője külső (optikai) képsorozatként írja le a filmszakadást megelőző
+jelenetsort. Ez a képleírás (ekphrasis) jól ismert esetének is tekinthető, azzal a különbséggel, hogy itt statikus helyett mozgókép a leírás modellje. Ezzel szemben a jegyszedőnő egy
+mentális (emlék) képet1 kíván nyelvivé tenni, annak a leírását kísérli meg a vászon előtt.
+Amennyiben összehasonlítjuk a két médiumváltó – vagy Boehm szavával: „fordítási”2 –
+aktust, akkor egy nagyon lényeges közös jellemvonást vehetünk észre, nevezetesen, hogy
+egyik verbalizálási folyamat sem jár sikerrel. A narrátor „szeme” elől eltűnik a mozgókép,
+a jegyszedőnőbe pedig – szinte szó szerint – belefojtják a szót az elégedetlenkedő és hitetlenkedő nézők. A párhuzam tehát jól látható a filmszakadás eseménye és a történetmesélés
+képtelensége között. Az általánosítás magasabb szintjére lépve pedig úgy fogalmazhatunk,
+hogy a megjelenítő, vagyis verbális médium, megismétli a megjelenített mozgóképi médium kudarcát.
+A mozgóképi történet befejez(het)etlenségének oka nyilvánvalónak látszik: a filmszalag
+elég vagy elszakad, és a vászonról eltűnik a kép. A nyelvi narrációval, a jegyszedőnő történetével azonban – amely a láthatatlanná vált filmkockákat igyekszik pótolni – már egy
+kissé bonyolultabb a helyzet. A filmszakadás után ugyanis az egyik jegyszedőnő korábbi
+látás élményeire hivatkozva („Láttam már egypárszor a Diákszerelmet”) mesélni kezdi
+a film végét. Ám ez a történet is félbeszakad, mégpedig egy nagyon árulkodónak látszó jelenetnél. A nézők ugyanis az igaztalanság vádjával éppen akkor fojtják az öreg jegyszedőnőbe
+a szót, amikor a történet női szereplője, mintegy az ópium őrületébe hullva nem ismeri fel
+korábbi szerelmesét, a háborúból hazatérő Norman Wilsont:
+„A lány sokszor már meg se ismerte azt, aki belépett a szobájába. Így történt aztán,
+hogy egy napon…
+
+1
+
+2
+
+Az „optikai” és „mentális” képek megkülönböztetésekor Mitchell kép-felosztását veszem alapul.
+(W. J. Thomas Mitchell: Mi a kép? Ford: Szécsényi Endre. In: Kép – Fenomén – Valóság. Szerk.
+Bacsó Béla. Kijárat Kiadó, Bp., 1997. 340.
+Boehm fordítási aktusnak nevezi a képleírást, mert a képet sajátosan nyelvi képződménynek tekinti, mely „néma”, és csak az értő fordítás által szólhat meg: „a sikeres fordítás […] az interpretáció fordítási teljesítményében azt az állandó önállóságot virtualizálja, amely a szó-jelentés és
+a kép-értelem sajátosságának tűnik.” Vagyis megőrzi mindkét médium eredendő jellemvonásait.
+(Gottfried Boehm: A kép hermeneutikájához. Ford: Eifert Anna. In: Athenaeum 1993/4. 96–99.)
+
+2
+
+A fejek előredőltek. Rémült suttogást lehetett hallani, mintha egymás közt beszélnék
+meg ezt az ügyet. Aztán a nénike kint állt a dobogó előtt. Ott állt félrebillentett fejjel és azt
+mondta:
+– Ez nem igaz.
+A jegyszedőnő nem is vette észre, ahogy folytatta:
+– A fiú az ágyánál állt, és belebámult abba a megkínzott arcba. Katonaruhában volt
+a fiú, úgy, ahogy hazajött a harctérről.
+Igen a fiúnak most már látni kellett, hogy a hírek, amelyeket a menyasszonyáról kapott,
+nem túloztak. Ő már nem a régi, ő már elszakadt mindentől, és mindenkitől – egy szenvedély rabja.
+– Nem igaz!
+A jegyszedőnő elhallgatott, majd kissé csodálkozva leszólt a sötétbe.
+– Mi nem igaz?
+Az meg belekapaszkodott a színpad szélébe. A fejét pedig akárcsak fel akarta volna
+tolni, mint valami batyut. – Olyat nekem ne mondjon, hogy azt a fiút nem ismerte meg!”
+Látható, azt nehezményezik a nézők, hogy a lány képtelen a felismerésre, az emberek
+azonosítására, mondhatni, mentálisan megvakult, és üres tekintete vakon pásztáz, mint
+egy film nélküli kamera. A nézőközönségből érkező további történetfolytatási javaslatok
+éppen ezt az állapotot akarják orvosolni, mind a lány kijózanítását és őrültségből kigyógyítását sürgetik, mégpedig azért, hogy a lány józan eszét visszanyerve felismerje végre korábbi szerelmesét, Normant, és újra egy pár legyenek. De vajon miért ennyire fontos a nézőknek, hogy a történet ilyen módon záruljon? Hogy megtörténjen végre a felismerés, és
+mintegy ennek előfeltételeként létrejöjjön a kigyógyulás?
+A magyarázathoz, meglátásom szerint, a belső, vagyis a verbális történet kezdeteihez
+érdemes visszatérni. A jegyszedőnő filmpótló történetéből ugyanis megtudhatjuk, hogy az
+állomáson, ahol a szerelmesek búcsúzkodnak, a lányt „rabul ejti” egy tekintet, mégpedig
+a katonatárs (és egyben volt iskolatárs), a „könnyelmű aranyifjú”, Walter csábító tekintete:
+„Walter (…) egyre csak a lányt nézte. (…) Az a tekintet! Walter tekintete… A híres ellenállhatatlan, szívtipró tekintete…
+– Rabul ejtette a tekintete – ingatta a fejét egy nénike az ötödik sorban.”
+Hogy végül már „nem tudott szabadulni attól a tekintettől.”
+Az idézett részben nyilvánvalónak látszik a „tekintet” szó fontossága, főként, ha hozzákapcsoljuk a „látás”, „nézés” fogalmakat, hiszen a jegyszedőnő történetének éppen azért
+vetnek véget a nézők, mert nem akarják elfogadni, hogy a lány nem látja, hogy a szerelmese áll előtte. Ugyanakkor az iménti idézetből az is jól kiolvasható, hogy az itt ábrázolt
+tekintet gazdája (vagyis Walter) egyben hatalmi pozíciót is a magáénak tudhat, ugyanis
+a „tekintet”: „rabul ejtő”, „ellenállhatatlan”, „szívtipró”, és „nem lehet tőle szabadulni”, egyszóval uralkodó, hódító és leigázó. Egy ilyen tekintettől, mondhatnánk, szinte egyenes út
+vezet abba az „ópiumbarlangba”, ahol Walter a főnök, és ahol a lány a kábítószer őrületébe
+hull. E hatalmi viszonyban, melyet a tekintet létesít, a férfi, vagyis Walter az úr, és a nő,
+Gloria az alávetett. Mindemellett, amennyiben Gloria – a szöveg tanúsága szerint – aláveti
+magát e tekintetnek, egyben fel is ismeri (vagy ha tetszik: el is ismeri) azt mint hatalmat, és
+ezáltal – mintegy oppozícióként létezve – szavatolja a tekintet leigázó erejét. Másképpen
+
+3
+
+fogalmazva: Walter a lány alávetettségében ismerheti fel saját hatalmát, a nő alávetettségéből következő passzivitásában hódító férfierejét.
+Ezzel szemben, mikor korábbi szerelmese, Norman Wilson hazatér a harcmezőről,
+Gloria nem ismeri fel mint rá irányuló tekintetet, ebből következően a férfi nem kerülhet
+vissza abba a hatalmi pozícióba, amit elutazása előtt birtokolt. Sőt, a tekintet létrehozta
+kapcsolat hiánya nemi identitását is megkérdőjelezheti, hiszen az őrületbe hullt nő nem
+csak mint hódítót (vagyis szerelmesét) nem ismeri fel Normant, de „vaksága” – lévén „elszakadt mindentől és mindenkitől” – a férfi nemi szerepére is kiterjed. Norman férfi tekintete ugyanis Gloria számára többé nem létezik. A nő nem tükör többé a férfi-tekintet
+számára, melynek szerepe e hatalmi viszonyban, hogy a férfira „reflektálva igazolja az ő
+szubjektumként való elégségességét, s közvetítőként szolgáljon a saját magával való tükörszerű viszonyban.”3
+A nézők, amikor értesülnek a férfi kudarcáról, miszerint a nő őt nem ismeri fel, a jegyszedőnőbe fojtják a szót. Pontosabban, felszólítják a történetmesélőt, hogy ezt a férfi-női
+viszonyt azonnal orvosolja, és mesélje úgy a történetet, hogy Norman a nőt őrültségéből
+menten kigyógyítsa: „De ugye a fiú magához térítette? – Ezt már egy férfi kérdezte.” Majd
+egy másik hang: „és később mind a ketten csak nevettek az egészen.” „Majd egy-egy hang,
+könyörögve: – …ugye, aztán a fiú beviszi valami korházba?” Ám mindezen javaslatokra
+a jegyszedőnő válasza a következő: a lány „Nem gyógyul meg”. Erre pusmogás a sötét
+nézőtéren. „Mintha egymás közt tárgyalnának valamit. Aztán egy éles és támadó hang:
+– Én tudom, hogy nem hal meg!” A nézők értelmezésében ugyanis a női őrültség, a vakság,
+mely a férfiak felismerését teszi lehetetlenné, a maszkulin tekintetek által uralt világban
+egyenes úton vezet a halálba.4 Az örültségből történő kigyógyulás azonban helyreállíthatná
+az uralkodó és az ezt felismerő (és egyben elismerő) tekintetek viszonyrendjét. E folyamat
+nem az őrült nő megismerésére törekszik, hanem – hangsúlyozom – felismerő és egyben
+elismerő képességének a visszaállítására. A kúra célja, hogy a férfiértelem tárgyiasítsa, és
+következésképp uralma alá vonja a női őrültséget. Újra tükörré kívánja tenni a nőt, hogy
+tekintetének hatalmát abban viszontláthassa. Ám ez a jegyszedőnő történetében nem valósul meg. Hallgatói éppen ezért kérdőjelezik meg történetmesélő (reprodukáló) médium
+voltát. Vajon miért fűződik a befogadóknak ilyen fontos érdeke a lány gyógyulásához. Miért nem képesek elviselni, hogy nem ismeri fel szerelmesét? Mi lehet e kínzó kívánságuk
+mozgatórugója?
+A jelenség magyarázatához érdemes a filmszakadás eseményét tüzetesebben szemügyre venni. Pontosabban azokat az emberi cselekvéseket górcső alá vonni, melyek a filmnézés folyamatát kísérik, hiszen a celluloidszalag elszakadása éppen ezeknek az automa-
+
+3
+
+4
+
+Shoshana Felman: A nők és az őrültség: a kritika téveszméje. Ford. Hódosy Annamária. In: Testes könyv II. Szerk. Kiss Attila et all. Ictus és JATE Irodalomelmélet csoport, Szeged, 1997. 400.
+Akárcsak a szemüveges nők a filmekben, ugyanis, amikor egy nő birtokba veszi a tekintetet, és ezt
+gyakran a szemüveg viselése jelöli, a nő aktív nézővé válik, és ő lesz az, aki lát, és nem ő az, akit
+látnak. „Az intellektuális nő, néz és analizál, és mivel a tekintetet bitorolja, fenyegetést jelent az
+egész reprezentáció számára.” (Mary Ann Doane: Film és maszk. Ford. Jakab Enikő. In: Metropolis 2000/4. 32.) Egyszóval: „a nő, mint a tekintet alanya egyértelműen lehetetlen jel”, ezért meg
+kell halnia. Kivéve, ha elveszti a látás hatalmi pozícióját, ekkor, vagyis a nézőből „látvánnyá való
+átalakulását rendszerint szemüvegének levetése jelöli.” (i. m. 33.)
+
+4
+
+tizmusoknak a létrejöttét akasztja, gátolja meg. Amit a nézők sérelmeznek a jegyszedőnő
+történetében az az uralkodó tekintetnek az elvesztése, Norman hatalmi nézőpozíciójának
+a megsemmisülése. Ám a vetített kép eltűnésekor – azaz néhány perccel korábban – ők is
+elvesztik film-néző pozíciójukat, kihullnak abból a megfigyelői (voyeur) helyzetből, melyet
+a kamera (mint a látvány enyészpontja) felkínál nekik. Milyen további veszteségekkel jár
+e pozíció megszűnése?
+A kamerával történő azonosulás egyben a látottak feletti uralmat is felkínálja a nézőknek, mégpedig a kamera-optika által biztosított perspektivikus látásmód segítségével.
+A kamera ugyanis (a fényképezőgéppel egyetemben) mint a szem metaforája, leginkább ahhoz a kiemelt nézőponthoz hasonlítható, melyet a reneszánsz, vagy más szóval centrális
+perspektíva enyészpontja határoz meg.5 A reneszánsz idején feltalált középpontos perspektíva ugyanis – melyet először Alberti foglalt rendszerbe (1435-ben) – „az észlelőt egy, a világon kívül eső pontban tételezi, olyan objektummá téve így a világot, ami látszólag ellenállás nélkül kiszolgáltatottja lesz a szemlélő kénye-kedvének.”6 Merleau-Ponty szavaival:
+a reneszánsz perspektíva feltalálása egy „uralt világ”7 megteremtését jelenti, ahol minden az
+emberi látásnak van megfeleltetve és egyben alárendelve.8 A szubjektum látvány-centrummal történő azonosulását segíti továbbá, hogy a középpontos perspektíva kidolgozásának
+célja nem más, mint hogy egy ábrázolt jelenetet éppen olyannak mutasson, ahogyan az az
+emberi szem számára a valós világban megjelenik. A centrális perspektíva ezen jellemvonásából következik, hogy az ilyen típusú megjelenítési technika (legyen az fotó, festmény
+vagy film) „letagadja önnön mesterséges voltát és arra tart igényt, hogy »természetes« reprezentációja annak, »ahogy a dolgok látszanak«, annak »ahogy látunk« vagy annak […]
+»ahogy a dolgok valójában vannak«.”9 A fent írtak alapján hozzátehetjük: ahogyan a hatalmunkban vannak. „Ráadásul” – folytatja Mitchell – „egy gép (a fényképezőgép) feltalálása,
+amely az ilyen kép [image] létrehozására készült, ikonikus módon csak tovább erősítette azt
+a meggyőződést, hogy ez [ti. a centrális perspektíva] a reprezentáció természetes módja.”10
+
+5
+
+6
+7
+
+8
+
+9
+10
+
+Vö. „a szem, melyet alberti a kép vonatkozási pontjává tett, merev és élettelen szem. Nem élő
+szervként, hanem optikai instrumentumként van csak figyelembe véve. Ugyanaz a funkciója, mint
+a fényképezőgép lencséjének.” (Karlheinz Lüdekin: Irányok között (Elmélkedés a „képek vitája”
+aktuális frontvonalairól). Ford. Német Andrea. In: Kép – Fenomén – Valóság. Szerk. Bacsó Béla.
+Kijárat Kiadó, Bp., 1997. 292.)
+I. m. 292.
+Maurice Merleau-Ponty: A közvetett nyelv és a csend hangjai. Ford. Szávai Dorottya. In: Kép –
+Fenomén – Valóság. 1997. 151.
+Vö. „A szubjektum saját maga alá rendeli az objektívet, ez viszont rögzíti a szubjektum helyét
+a szubjektum által rögzített enyészponthoz/nézőponthoz képest. A középpontos perspektíva által
+feltételezett, s vele együtt járó szubjektum-objektum viszony a reneszánsz általános én- és világértését tükrözi, amely a szubjektumot előfeltételezi a megismerés vonatkozási pontjaként”. Max
+Imdahl: Gondolatok a kép identitásáról. Ford. Babarczy Eszter. In: Athenaeum 1993/4. 116.
+Mitchell. 1997. 362.
+I. m. 363.
+Kérdéses lehet persze, hogy mennyiben beszélhetünk hasonlóságról, pontosabban két különálló
+entitás hasonlóságáról. Jóllehet a szakirodalomban egységesnek látszik az álláspont, hogy a geometriai projekció törvényeinek engedelmeskedő centrális perspektíva valójában egy „találmány”,
+egy tanult konvenciórendszer, mégis felvetődhet a kérdés: e szokásrendszer mennyiben befolyá-
+
+5
+
+A vetítőgépből – mint látvány centrumból – kivetülő filmkép szinte kifogástalan metaforája az ilyen típusú megjelenítésnek. A film-nézői tekintet a vetítőgép optikáján keresztül a vászonra vetülő fénysugárral mutat formai hasonlóságot. A néző a geometriai
+projekció centrumába helyezkedve a látvány fölött uralkodó tekintet birtokosává válik.11
+Ám a filmszakadás éppen ezt az azonosulási folyamatot szakítja meg, a néző elveszti hatalmát a látottak fölött. A kép eltűnése a vászonról értelmezhető úgy, hogy a látható megvonja magát az uraló pillantás elől, a tekintet centrumába helyezkedő szubjektum pedig elveszti pozíciója által meghatározott önazonosságát.
+Ezzel egy időben a tekintet metaforájaként magyarázható vetített fénysugár is projekciós központját veszti, hiszen a vetítőhelyiségben kialszik a fény („Üres, sötét lyuk volt
+a vetítőfülke”), és a nézőtéren „Alattomosan, váratlanul felgyulladt a villany.”12 A koncentrált, projektált fényforrást felváltja a teremben a több, azonosíthatatlan helyről érkező
+szórt fény. A nézők többé nem a látvány centrumában ülnek, hanem a látvány részévé váltak, hiszen szó szoros értelemben is látják egymást a nézőtéren. Nem elkülönülve, mintegy
+a látványból kioldódva léteznek többé, hanem egyként a többi test között.13 Tekintetük
+a filmszakadáskor elveszti nézői hatalmát, akárcsak Norman a lány, vagyis Gloria felett.
+
+11
+
+12
+
+13
+
+solja „tényleges” látásunkat, illetve, hogy egyáltalán az ember látási észlelése mennyiben írható le
+egy ilyen modell alapján. A szakirodalomban e kérdéskör kapcsán már kevésbé látszik a konszenzus. Vannak, akik különösen szerencsés véletlennek tartják centrális perspektíva modelljét, mely
+történetesen a leginkább megfeleltethető a látásészlelésünk felépítésének (Pl. Bernhard Waldenfels: A lét szétrobbanása (A tapasztalat ontológiai értelmezése a festészet vezérfonalán.) Ford.
+Pálfalusi Zsolt. In: Kép – Fenomén – Valóság. 1997. E gondolat kifejtése: 179.) Mások azonban
+nem annyira szerencsés véletlennek tekintik a tényleges látás és a reneszánsz perspektíva hasonlóságát, hanem inkább a több évszádon keresztül uralkodó konvenciórendszer hatását vélik felfedezni az ember vizuális észlelőrendszerében. (Pl. Marx W. Wartofsky: Kép, reprezentáció és
+megértés. Ford. Habermann M. Gusztáv. In: A sokarcú kép. Szerk. Horányi Özséb. Typotext, Bp.,
+2003. különösen: 236–239.) A probléma említésén túl azonban e dolgozatnak nem célja a centrális perspektíva antropológiai beágyazottságának (vagy éppen annak hiányának) részletesebb vizsgálata.
+Vö. „két [fény] nyaláb van a vetítőteremben: az, amelyik a vetítőhelyiségből, egyszersmind pedig
+a néző tekintetéből, mint projektívből a vászonra vetítődik.” (Christian Metz: A képzeletbeli jelentő.
+In: A képzeletbeli jelentő. Három tanulmány. Filmtudományi szemle 1981/2 67.) Továbbá a vetítőgép mellett a kamerával mint a látvány enyészpontjával is azonosul a nézői tekintet: „a nézőtér
+akkor, amikor önmagával mint tekintettel azonosul, nem tehet egyebet, minthogy azonosuljon
+a kamerával is, amely ő előtte nézte volt azt, amit most ő néz, és amelynek posztja (a képkivágás)
+meghatározza az enyészpontot.” (i. m. 65.)
+Majd a következő mondattal pontosít a szöveg: „Vaksin hunyorgó fáradt fény”. Az utóbbi idézetnél
+érdemes megfigyelni, ahogy a fény forrása metaforikusan összekapcsolódik az emberi látószervvel, vagyis a szemmel: ’a lámpa hunyorog, mint az erős fénybe került szem’. A ’tekintet centruma,
+mint fényforrás’ általánosított metafora körében értelmezhető e szövegrészlet is, mely a – már
+elemzett – fény és a tekintet hasonlóságára alapoz.
+Vö. „a látás eseménnyé válik, amely a »pillantás sugaraként« már nem belőlem indul ki, hanem
+»világsugárként« mutatkozik meg, mely többet tartalmaz, mint amennyit a pillantásom fölfogni
+képes” (Waldenfels. 1997. 186.). Ill.: „A festő testi mivoltában tapasztalja meg magát, egyként
+a többi test között, benne él a »világ húsában«” (Lüdekin. 1997. 292.)
+Forgolódnak, méregetik egymást: „Széles, lapos arc fordult hátra az első sorból. […] Elöl felállt egy
+nő, végignézett az arcokon” stb.
+
+6
+
+A jegyszedőnő által előadott történetben a befogadók mintegy saját filmnézői történetükre
+ismernek, és a lány kigyógyíttatásával azt a hatalmi rendet akarják visszaállítani, melyet az
+uralkodó tekintet viszonyrendszere alapoz meg, és amelyben ők a mozi apparátusa által
+kitüntetett (azaz hatalmi) szerepben voltak. A jegyszedőnő elbeszélése ebben az értelmezésben a filmszakadás következtében láthatóvá vált közönségről is szól, akik az azonosulási
+centrum megszűnésével nézői tekintetük hatalmát vesztik, akárcsak a belső verbálisan
+megidézett filmben a szerelmes főhős. Ilyen megközelítésben a fikcionalitás létrejöttének
+feltételeit feltáró, vagyis metafiktívnek tekinthető a jegyszedőnő története. Felmerülhet
+azonban a kérdés, hogy valóban ilyen egyirányú reflexív folyamatról van-e szó? Valóban
+a verbális történet mutat rá a mozgókép létrejöttének feltételeire? És nem éppen fordított
+a helyzet, miszerint a filmszakadás tárja fel inkább a verbális szöveg mediális sajátosságait?
+Vagy egyáltalán: tekinthető-e a vizsgált szövegben az egyik médium inkább metafiktív
+funkciójúnak, mint a másik?14
+A két médiumot ugyanaz a fény-metafora köti össze a vizsgált szövegben, nevezetesen
+a középponti centrumból projektált fényforrás. A mozgókép esetében e fényalakzat említése
+triviális – és talán önismétlő – megállapításnak tűnik, a jegyszedőnő történetmesélésekor
+azonban érdemes felidézni a megfelelő szövegrészt, hogy a hasonlóság világossá váljon.
+A jegyszedőnőre ugyanis, miután felmászik a színpadra, a vetítőteremből (a mozigépész jóvoltából) egy reflektorlámpa fénye irányul: „A jegyszedőnő a mozi vászna elé ült, és vajas
+kenyeret evett. Sötét lett. De csak azért, hogy a következő pillanatban már reflektorfényben
+üljön.” Mondhatni a két történetet a közös fényforrás és az abból kivetülő sugáralakzat
+metaforikusan összekapcsolja. És – ahogy már a dolgozat elején említettem – a műegész
+létrehozásának kudarca is közös a két szövegvilágbeli narratívában. Fontos különbség
+azonban, hogy míg a filmszakadást műszaki hiba okozza (nem valószínű ugyanis, hogy
+a mozigépész reflexív aktusnak szánta), addig a jegyszedőnő verbális történetének a befejezését a nézők elégedetlensége akadályozza. Pontosabban: az, hogy hazugsággal vádolják:
+„Ez nem igaz! […] Nem igaz!” – hangzik többször a nézőtérről, majd könyörögve kérik,
+hogy „mondja el a film végét, az igazi végét. [saját kiemelés: S. M.]”. A hazugság kérdése
+abban az utalásrendszerben jelenik meg, mely a szóbeli történet előzményéül szolgáló filmet veszi alapul. Többször azzal gyanúsítják a jegyszedőnőt, hogy „Nem is ezt a filmet
+mondta el!”, vagy felteszik neki a kérdést: „biztos, hogy ez ebben a filmben van?” Az igazság kérdésének ellenőrzése egy látás aktushoz kötődik, a jelen esetben a Diákszerelem
+című film vizuális érzékeléséhez. E rendszerben a verbális kifejezések igazságát/hamisságát egy olyan hozzárendelési függvény szavatolja, mely a nyelvi alakzatokhoz a neki megfelelő (múltbeli vagy jelenbeli) látási élményt társítja. (Vagy a logikai alapú szemantika fogalmaival megfogalmazva ugyanez: az igazságkritériumok meghatározását egy olyan hozzárendelési függvény irányítja, mely valójában egy látás aktusnak feleltethető meg.) E nyelvi
+modell – melyet a jegyszedőnőn számon kérnek –, az imént leírtakból következően, referenciálisnak tekinthető. E ponton levonhatnánk azt a következtetést, hogy a jegyszedőnő
+történetének azért kellett megszakadnia, mert a nézők képtelenek nem referenciálisan
+14
+
+Nem szabad azonban megfelejtkezni arról, hogy ez a reflexiós viszony – legalábbis a szövegvilágban – két különböző médium (sikertelen megformálódása) között jön létre, nevezetesen a mozgóképi és a verbális megjelenítésformák között, és ilyen értelemben intermediális reflexiós viszonyról beszélhetünk.
+
+7
+
+„olvasni” (befogadni) a hallottakat, és minduntalan a látás megalapozta valóságélményükre
+hivatkoznak. A szövegvilágban azonban a gondot az okozza, hogy a valóságreferencia, vagyis
+a filmkép eltűnt a vászonról a celluloidszalag elszakadásának következtében. A nyelvi kijelentések igazságát megalapozó látvány szertefoszlott, és az igazság, hamisság kérdésének
+eldönthetősége problematikussá vált. „A nyelv fő baja, hogy nem tudja hitelesíteni önmagát” – állítja Barthes,15 ám a vizsgált szöveg világában a látvány, a mozgókép sem tudja
+megalapozni önnön igazságát, hiszen olyan illúzióként van bemutatva, mely bármelyik pillanatban megvonhatja magát a rá irányuló nézői tekintetektől. A nézők a filmre hivatkoznak mint igazságmeghatározó alapra, ám a viszonyrendszert megalapozó látásélmény
+– éppen a szövegben bemutatott tünékenységéből adódóan – nem tekinthető biztosabb
+igazságértékekkel rendelkező rendszernek, mint maga a nyelv.
+Mindkét médium (mozgóképi és verbális) befogadói egy „igaz” történetet szeretnének
+látni, hallani. Ezen törekvésük azonban kudarcra ítéltetett. Első esetben a tekintet hatalmának elvesztése idézi ezt elő, a másodikban pedig – összefüggésben az elsővel – a referenciális bázis eltűnése kérdőjelezi meg a nyelvi állítások igazságát. Egyszóval a történet,
+mely az igaz és hamis értékek meghatározására törekszik nem tud megszületni. Legalábbis
+a vizsgált szöveg tanúsága szerint. Ellenben a szövegvilágbeli befogadók feltehetőleg másképp vélekednek erről. Ők éppen egy olyan tekintet hatalmi centrumát vásárolták meg
+a mozijeggyel, mely szöveg ábrázolta világban képtelen létrejönni, egészen pontosan megsemmisül a filmszalaggal együtt.
+Mi a helyzet azonban a vizsgált szöveg narratív struktúrájával? Vagyis azzal az átfogó
+szerkezettel, vagy ha tetszik, nyelvi megformáltsággal, melynek közvetítésében az eddig
+elemzett belső történetek megjelennek? És mennyire vonatkoztatható mindaz, amit a szövegvilág a történetmesélés lehetőségéről elmond (a téma szintjén) magára a vizsgált szövegre mint megjelenítő médiumra?
+A vetítőteremből érkező projektált fénysugarak a történetet átfogó tekintet hatalmát
+jelölik. Első esetben a mozgó képi médiumot (celluloid szalagot) rajzolják a vászonra,
+a második esetben pedig a jegyszedő nő alakját teszik a sötét teremben láthatóvá. Ám
+a projekciós centrumban nemcsak a szövegvilágbeli nézőket lehet elképzelni, hanem – egyet
+hátra lépve a szövegvilágtól – a filmszakadást és a jegyszedőnő történetmesélési kudarcát
+elbeszélő narrátor-hangot is, amely mintegy az egész nézőteret belátva tovább vetíti – nekünk olvasóknak – az elszakadt filmet; és a jegyszedőnő félbeszakadt története mellett
+a befogadók reakcióit is megjeleníti. És ez, a narrátorhoz köthető átfogó tekintet akkor sem
+szűnik meg, amikor metaforikus jelölője (a projektált fénysugár) eltűnik a vetítőteremből,
+és helyén a nézőtér „vaksin hunyorgó, sápadt fénye” jelenik meg. Ekkor ugyanis a narrátor
+tekintetének sugara úgy pásztáz a teremben, mint egy koncentrált reflektorlámpa fénye,
+a hang útját követve vándorol egyik emberről a másikra. Nem választ ki egyetlen filmnézői
+pozíciót, mint fokalizációs helyet, hanem elválik a nézőtértől, ahol a szórt fény az úr, és
+mintegy kioldódik a látványból, elkülönül attól.16 Rálátása van a nézőtérre – tekintete azt
+átfogja –, sőt még a nézők gondolataiba is belelát,17 és ennyiben létrehozza a narrátorpozí15
+16
+17
+
+Roland Barthes: Világoskamra. Ford. Frech Magdolna. Európa Kiadó, Bp., 1985. 98.
+Akárcsak a centrális perspektíva esetében, mint ahogy arról már volt szó.
+Ennek legszembeötlőbb példája, amikor a szövegben arról értesülünk, hogy milyen emlékek,
+gondolatok kavarognak a jegyszedőnő fejében: „A jegyszedőnő összekulcsolt kezét nézte, aztán le-
+
+8
+
+ciót mint kitüntetett, centrális helyet. Többet tud tehát a nézőtéren ülőknél, és ebben a helyzetében viszi mindig tovább az éppen el-elakadó nézőtéri (mindkét médiumot megjelenítő)
+történetet.
+Ha elfogadjuk az eddigiekben bemutatott értelmezést, akkor egy paradoxonnal kell
+számot vetnünk. Nevezetesen, hogy egy létrejött történetet olvasunk történetek létrejöttének lehetetlenségéről. És ezzel összefüggésben ellentmondásnak látszik, hogy az ábrázolt
+világban a történetek megszakadását a tekintet hatalmi, átfogó erejének az elvesztése idézi
+elő, miközben ezt a Mándy-novella narratív nézőpont formájában mintaszerűen létrehozza. Hiszen ha novella van – kommunikációs helyzetéből adódóan –, annak fiktív beszélője is kell, hogy legyen, narrátora, akinek a tekintete az eseményekre vetül.18 Mindez
+azt jelenti, hogy a szöveg, amely – több szinten is – az uralkodó tekintet elvesztéséről szól,
+saját medialitásából nem tudja száműzni azt a beszélőt, aki – a projektív technikai eszközöket (vetítőgép, kamera, reflektor fénysugara) metaforaként használva: – a látványt létrehozó tekintet középpontjában lokalizálható.
+Ugyanakkor, ha a szöveg optikai metaforáit a szöveg narratív megformáltságára kiterjesztjük, akkor – Kulcsár Szabó Ernő szavaival – a beszélő nézőpontját olyan „technologizált tekintetnek” nevezhetjük, amely a vetítőgép fénysugarához hasonlóan gépiesen rajzolja ki a befogadó elé táruló látványt. Egyszerre mutatja meg a médiumot és az információt, vagy ha tetszik, az észleletet és annak materiális hordozóját. Az üres fénysugarat és
+a képeket. A jegyszedőnőt és az ő szavai ábrázolta történetet. A technologizált tekintet metaforát alkalmazva azonban lényegében ugyanahhoz az ellentmondáshoz érkezünk, amit az
+imént vázoltam. Nevezetesen, hogy a vizsgált szöveg beszélőjének látás- és láttatásmódját
+technikai apparátusnak tekintetni két dolgot eredményez. Először is, hogy a szóban forgó
+optikai eszközök (fényképezőgép, kamera, vetítőgép stb.) a centralizált geometriai projekció elve alapján működnek, és ez az ábrázolási technika – mint fentebb már kifejtettem –
+a befogadó szubjektumot az enyészpontba illesztve annak hatalmi pozícióját is biztosítja az
+ábrázoltak, látottak felett. Vagyis a világban lét otthonosságát ígéri a technologizált tekintettel azonosuló szubjektum számára, az objektív világ uralhatóságát. Másfelől azonban
+a technologizált tekintet – és valójában Kulcsár Szabó Ernő a metafora csak ezen oldalát
+hangsúlyozza – egy olyan érzékelésmódként képzelhető el, „amely gépészt fedez föl »saját
+szerkezetének börtönében«.”19 Egy gépészt, aki nem látja, hogy mi zajlik a rögzítő appará-
+
+18
+
+19
+
+csúszott a tekintete az emelvény porondjára. Még sosem látta ilyen közelről. Por...csupa por. A vékony repedések tele porral, egy porréteg az egész. Egyszer itt lasszót dobtak egy nő nyakára.
+Cowboyruhában állta a nő, és egy férfi lasszót dobott a csuklójára, a derekára, végül pedig a nyakára. A szünetben léptek fel…”
+Vö. „bár a szerző bizonyos mértékig álruhát ölthet, teljesen sohasem tűnhet el” (Wayne C. Booth:
+The Rethoric of fiction. The University of Chicago Press, Chicago and London, 1961. 20.). Vagy
+még egyszerűbben: „ha nincs elbeszélő, akkor nincs elbeszélés sem” (Celestino Deleyto: Focalization in Film Narrative. In: Narratology: An Introduction. Ed. Susana Onega and José Angel García Landa. Longman, London and New York, 1996. 218.)
+Kulcsár Szabó Ernő e tekintet szerepét József Attila költészete kapcsán vizsgálja: Csupasz tekintet,
+szép embertelenség. In: Kortárs 2005/4. 34.
+
+9
+
+tus fekete dobozában.20 Ebből következően a tekintet otthonosságából kirekesztődik a szubjektum, hiszen a látvány centrumában ezúttal egy átláthatatlan automatikus „rögzítő program” található, mellyel azonosulni képtelen. A technologizált tekintet ezért – mondja Kulcsár Szabó – felszámolja a humán ént, és kizárja a tekintet biztonságából. Nem szabad
+azonban elfelejtkezni arról, hogy az utóbbi eset csak akkor állhat fenn, ha a befogadó képtelen azonosulni a technikai apparátus „fekete dobozával”. Ha ki van rekesztve az optikai
+tekintet centrumából. Ám ez a helyzet csak akkor következik be, amikor a „fekete doboz”,
+a „lélek szerkezeté”-nek átláthatatlansága láthatóvá válik. Mert mindaddig, amíg az apparátus jól működik, vagyis elrejti önmagát, az azonosulás – a kamerával pl. – minden további nélkül létrejöhet. A nézőt nem érdekli mi folyik a vetítőfülkében, amíg a vásznon
+minden rendben van. A mozigépész alakja (“saját szerkezetének börtönében”) csak akkor
+kezd el érdekes lenni, amikor pl. elszakad a film, és az azonosulás akadályokba ütközik.
+Ekkor ugyanis a néző kihullik az eltűnt látvány centrumából, és vaksin hunyorog a sápadt
+fényben. Ám beszélhetünk-e ekkor még „technologizált tekintetről”? Azonosulásról? Mikor
+a technikai tekintet, a mozgóképben megmutatkozó perspektíva – filmszakadás vagy bármiféle defektus által – éppen felszámolja önmagát?
+Az eddig megfogalmazottak tükrében az alábbi módon foglalhatjuk össze következtetéseinket. A vizsgált novellában a különböző mediális szintek egymásra utalásának, egymást
+felidézésének, de soha egymásba nem olvadásának egyik fontos funkciója meglehetősen jól
+kitapintható. Nevezetesen, a szöveg saját olvasási, olvashatósági feltételeire mutat rá
+e különös szinteződéssel. Az elbeszélő megnémul, mikor nyelvi kijelentéseit a látás igazságához akarják rendelni, mikor referencializálhatatlanságát egy hozzárendelés-függvénnyel
+akarják megszüntetni. Az ellenőrző aktust az emberi tekintet hatalma szavatolná, az a pozíció, mely a humán szemet a látvány centrumaként jelöli ki. A Mándy-szöveg által bemutatott nézők, hallgatók – értelmezői és szubjektumvédő stratégiáikat egy pillanatig sem
+kockára téve – ennek a tekintetének hatalmát szeretnék kiolvasni a szövegből. A művet redukált egészként kívánják birtokolni, kívülről és egyben távolról szemlélni. A szöveget tükörnek és nem beszélgető társnak tekintik; nem megismerésre, hanem elismerésre törekszenek, mégpedig saját tárgyiasító törekvéseiknek az elismertetésére. Ám amennyiben
+a befogadói tekintet valóban a maga hatalmát akarja felismerni a szövegben, úgy jár, mint
+Norman Glóriával az ópiumbarlangban. A szöveg ugyanis megragadhatatlan, tárgyiasíthatatlan és maradéktalanul kiismerhetetlen entitásként jelenik meg a vizsgált novellában.
+„Megszelídítése”, tárgyiasítása, amit nézők követelnek a jegyszedőnőtől, a szubjektum-tükröző funkció visszaállítására törekszik, és egyben a szöveget mint kérdését akarja megszüntetni.21 Az ilyen szándékkal történő műfogyasztás nem találkozik az értelemadás di-
+
+20
+
+21
+
+A „fekete doboz”, pontosabban: „black box” fogalmával Vilém Flusser jellemzi a techniaki apparátusok közül a fényképezőgépet. (Vö. Vilém Fusser: A fotográfia filozófiája. Ford. Veress Panka és
+Sebesi István. Tartóshullám – Belvedre – ELTE BTK, Bp., 1990. különösen: 24–25.)
+Vagy más szavakkal: ki akarja kerülni a feleletkényszert, „amely egy valódi dialogikus szituációban
+a Másikkal szemben az Énre nehezedik.” (Tarnay László: Etika és irodalomtudomány. In: Irodalom az ezredvégen. Szerk. Ármeán Otília – Fried István – Odorics Ferenc. Pompeji – Gondolat,
+Budapest–Szeged, 2002. 267.)
+
+10
+
+lemmájával, és ezért nem is kényszeríti a szubjektumot, hogy önmagát kérdőre vonja. 22
+Amennyiben a befogadók – hiszen erre fizettek be a mozijeggyel – csak saját humán én pozíciójuk megszilárdítását akarják kilátni/kiolvasni a művek világából a jelenvalóvá tevő
+médium önmagába zárul. Nem láttat, hanem elvakít, nem beszél, hanem süketté tesz. A türelmetlen nézők sürgetése („Mondja már!”, „Mondja…”), egyben a tükröző funkciót megtagadó szövegbe is beléfojtja a szót, és beszélője, akárcsak a jegyszedőnő a pódiumon, még
+mindig reflektorfényben, vagyis a hatalomvágyó tekintetek kereszttüzében: „lehetetlenül
+összezsugorodva” ül „a hatalmas, fehér vászon előtt”, és hallgat.
+
+*
+
+Mándy Iván: Diákszerelem
+Norman Wilson finoman remegni kezdett, akárcsak szét akarna foszlani, mint egy öreg
+felöltő, aztán egyszerre csak felpattant a levegőbe és eltűnt. Vele együtt tűnt el a szőke Gloria is meg a kedves, öreg, kissé elhagyatott kert, ahol kart karba fűzve sétálgattak.
+Mindez eltűnt, és csak a mozi vászna világított bágyadt, derengő fénnyel.
+Ők még csöndben maradtak. Nem kezdték el mindjárt a fütyülést, a kiabálást, a székek
+nyikorgását. Csöndben maradtak, mint akik el se hiszik, hogy Norman és Gloria így eltűnjön előlük. Nem, ez képtelenség! Vissza kell hogy térjenek. Egy pillanat, és megint ott állnak majd az öreg kertben, ahol a diáksapkás Norman éppen azt mondta Gloriának: „A diáksapkát katonasapkára cserélem fel, de senki és semmi nem szakíthat el bennünket egymástól.” Gloria Colman közelebb húzódott a férfihoz, de azért az arcán látszott a félelem.
+És aztán eltűnt a félelmével együtt.
+Vártak, még mindig vártak.
+Talán, hogy Norman Wilson a vászon mögül bújik elő, kijön a kis színpad szélére, és továbbjátssza a filmet. Gloria is megjelenik onnan hátulról meg a többiek, és továbbjátsszák
+a filmet.
+Alattomosan, váratlanul felgyulladt a villany. Vaksin hunyorgó, sápadt fény.
+Ott ültek a fekete zsöllyében. Egy néni lelógatta kezét a mélybe, egy fiú átfogta a lány
+vállát. Széles, lapos arc fordult hátra az első sorból.
+Senki se szólt semmit. Ültek a sápadt fényben, szemben az üres vászonnal
+Egy jegyszedő surrant el a fal mellett, el is tűnt mindjárt, mint egy ijedt, megriasztott
+kis állat.
+Elöl felállt egy nő, végignézett az arcokon, aztán visszaült. Kövérkés férfi hátrahajtotta
+a fejét, akárcsak az orra vérezne és elbődült:
+– Mi lesz?
+Akkor aztán kitört a füttykoncert. Káromkodtak, szitkozódtak. (– Ebben a moziban
+mindig történik valami! Tudtam, hogy ide nem szabad jönni! – Egyszer ülök be, és akkor
+
+22
+
+Vö. „a realista kritikus […] a maga módján megöli a nőt, s vele a szöveg kérdését s a szöveget mint
+kérdést.” (Shoshana Felman. 1997. 404.)
+
+11
+
+is… Adják vissza a pénzt!) Dobogtak, a székeket nyikorgatták, fütyültek. A kövér férfi pedig
+hátrahajtott fejjel bőgte, mint egy hajókürt:
+– Mi lesz?!
+Egy éles női hang az igazgatót követelte. Hogy maga az igazgató jöjjön ide, és jelentse
+be, mi történt.
+– Látni akarom! – sivította. – Látni akarom!
+– Nem érdekel – mondta egy férfi. – Folytassák az előadást.
+Tapsolni kezdtek. Surrogás hallatszott a fal mellől, de jegyszedőt nem lehetett látni.
+– Valaki menjen be az irodába!
+– Ők jöjjenek ki…
+– Legalább egy jegyszedő jöjjön!
+De mintha már a jegyszedők is elhagyták volna a mozit. Eltűnt az igazgató, a pénztáros
+és aztán a jegyszedők.
+Üres, sötét lyuk a vetítőfülke.
+Csak ők voltak.
+Egy kockás sálas férfi fölkelt, és zsebre tett kézzel, elnyújtott léptekkel sétálni kezdett
+a széksorok között. Volt, aki cigarettára gyújtott. Egy pillanatra se szűnt meg a fütyülés és
+a dobogás.
+– Mi lesz?!
+Mintha csak a süllyesztőből emelkedett volna fel – egy fekete ruhás nő állt elöl. Szőke
+nő, zavart mosollyal.
+– Kedves vendégeink…
+– Mi van, pofi?!
+A nő elhallgatott, mint akinek papírgalacsint dobtak az arcába. Állt, és az ujjait ropogtatta.
+– Ki ez a nő? – kérdezte egy tiszta, átható hang.
+– Abban a patikában láttam.
+– Ezt? Dehogy! A Terike cukrászdában. – Semmi esetre se az igazgató! Jöjjön ide az
+igazgató!
+– Ő az igazgató.
+– Mit képzel?! Az először is egy férfi, én nagyon jól ismerem.
+A fekete ruhás nő újra próbálkozott. – Kedves vendégeink, azt a sajnálatos eseményt
+kell közölnöm önökkel, hogy a film elszakadt…
+Dühös nevetés: – Elszakadt! Ne mondja?!
+– …a jegyek természetesen érvényesek a holnapi előadásra. – Elhallgatott. Várakozva
+nézett a közönségre. „Még mit csináljak? Teát és süteményt osszak szét közöttük?”
+Tea és sütemény. Mintha ők is erre vártak volna. Nem mozdultak. Egy férfi a tenyerébe
+dűtötte az állát, lábát előrenyújtotta.
+– Adják vissza a pénzt – mondta a tenyeréből. Hátrafordult. – Holnap megint lesz valami.
+A fekete ruhás nő sértetten: – De kérem, itt még soha… – Nyelt egyet. – És ilyesmi bárhol megtörténhet! Bárhol.
+Lágy, dallamos fütyülés.
+Egyre többen kiabáltak és egyre makacsabbul, hogy: adják vissza a pénzt!
+– Ad-ják visz-sza! Ad-ják visz-sza!
+
+12
+
+Akárcsak a kedvenc csapatukat biztatnák. Senki se mozdult. Mintha azt várnák, hogy
+ide helybe hozzák be a pénzt.
+Egy idősebb férfi felállt, karonfogta a fekete ruhás nőt.
+– Arról nem is szólva, hogy most már végképp lemaradunk erről a filmről. – Csöndesen
+beszélt, de azért várható volt, hogy lekever egy-két családi pofont. – Azt mondja, hogy
+a holnapi előadásra érvényesek a jegyek…
+– A holnapira.
+– Csakhogy holnap műsorváltozás van, ha nem tudná, kedves. – Ez már igen szigorúan
+hangzott. Nem eresztette el a nő karját, ahogy a többiekhez fordult. – Holnap műsorváltozás van.
+Döbbent moraj.
+– Ki tudja, milyen vacakot játszanak!
+– Ezt pedig már nem adják sehol.
+És akkor egy hang:
+– Azért megtudhatják, hogy mi a vége.
+– Minek a vége? – A férfi elengedte a nőt és megfordult.
+– A film vége. – Kék köpenyes jegyszedőnő állt mögötte. Fölemelte szikár, csontos arcát, ahogy azt mondta: – Én elmesélem.
+Pillanatnyi csönd, aztán zajongás támadt. Valaki fölállt és előrehajolt.
+– Mit akar a mamus?
+– Mit mesél el?
+– A film végét. – A férfi ott elöl szédülten megrázta a fejét.
+– Hát ez jó! – nyerített valaki.
+– Maga nekem ne meséljen semmit.
+Csönd lett, a jegyszedőnőt bámulták. Most már csak ő állt előttük. A feketeruhás eltűnt,
+és az idősebb férfi is visszaült a helyére.
+– Láttam már egypárszor a Diákszerelmet, és azt hiszem, el tudom mondani.
+Még mindig nem szóltak egy szót se. Aztán egy szék nagyot reccsent!
+– A pénzünkért!
+– Az igaz! A pénzünkért akár kétszer is elmondhatja, meg hátulról visszafelé.
+A jegyszedőnő középre jött. Kék köpenyében, akár egy tűpárna. Meg lehetett volna rá
+esküdni, hogy tele van tűzdelve apró kis gombostűvel. Vajas kenyeret húzott elő a zsebéből, beleharapott.
+– Azt hiszem, ott hagytuk abba – kezdte csöndes, távoli hangon.
+Nem folytathatta.
+Egy férfi (talán a gépész) odaszaladt hozzá, és felvezette az emelvényre, a vászon elé.
+Széket is adott.
+A jegyszedőnő a mozi vászna elé ült, és vajas kenyeret evett. Sötét lett. De csak azért,
+hogy a következő pillanatban már reflektorfényben üljön.
+– Ó!… – hallatszott egy elnyújtott hang.
+A jegyszedőnő hunyorgott az éles fényben. Eltette a vajas kenyerét. Kicsit kihúzta magát.
+Figyelték a hunyorgását, figyelték a kék köpenyét, a barna cipőjét, az arcát, azt az elmosódott arcot, ahogy majd megelevenedik rajta a régi kert Norman Wilsonnal és Gloria
+Colmannel.
+
+13
+
+Megelevenedett a régi kert és ott állt a kedves, derék fiú (Norman Wilson alakítása), és
+átfogta a lány vállát (Gloria Colman alakítása), megnyugtatta, hogy most ugyan be kell vonulnia csapattestéhez, de majd visszatér a háborúból, és akkor ismét eljönnek ide, ebbe
+a kertbe. Még valami olyasfélét is hozzátett, hogy nem kell félni, rossz pénz nem vész el.
+„Azt pedig megtiltom neked, hogy kikísérj a vonathoz!”
+– De meg lehet tiltani egy szerető szívnek? (A jegyszedőnő feje megrezzent.) Lehet ilyet
+kívánni egy fiatal lánytól, hogy ne kísérje ki hadba vonuló kedvesét a pályaudvarra? (A jegyszedőnő előrehajolt.) És ez lett a veszte, mert a pályaudvaron megismerkedett Walterral.
+A közönség előtt megjelent Walter, a könnyelmű aranyifjú. Igen, mást aligha lehetne rá
+mondani, mint hogy aranyifjú. Meg aztán kalandor, aki kábítószerek csempészésével foglalkozik. Katonaruhában volt ő is, mint Norman. Úgy üdvözölték egymást, mint régi barátok.
+– Régen láttalak, pajtás!
+Az egyetem, ó, az egyetem! Walter persze abbahagyta tanulmányait, és most hanyag fölénnyel néhány professzor után érdeklődött.
+– Megvan még a vén sakál? – Nevetett. – Meddig nyúz még benneteket? No, pajtás, hát
+annál aztán a háború is jobb!
+Ilyeneket mondott Walter, és közben egyre csak a lányt nézte:
+– Irigyellek, pajtás, szavamra, irigyellek.
+Az a tekintet! Walter tekintete… A híres, ellenállhatatlan, szívtipró tekintete…
+– Rabul ejtette a tekintete – ingatta fejét egy nénike az ötödik sorban.
+Férfihang hátulról: – Egy ilyen lányt nem kell félteni.
+A jegyszedőnő felemelte a fejét.
+– A lány vergődött.
+A jegyszedőnő száraz, lesikált arcán megjelent a lány, ahogy vergődött. „Tudta, hogy
+a vőlegénye mellett a helye, de nem tudott szabadulni attól a tekintettől.”
+Lent a széksorokban dermedten figyelték ezt a küzdelmet. A nénike az ötödik sorban
+aprókat sóhajtott. Egy férfi gúnyosan bólogatott, hogy na, na, ezek a viharzó érzések! – de
+azért majd leesett a székről, amikor Walter egyszerre csak hazaérkezett a frontról, és beállított a lány otthonába.
+– Üzenetet hoztam a vőlegényétől.
+Walter éppen csak kidugta az orrát a frontra, és már otthon is volt. Bizonyos összeköttetések révén egykettőre hazakerült, hogy London utcáin grasszáljon ellenállhatatlan uniformisában.
+Egy asszony a balközépből: – Én nem vesztettem el a fejemet, amikor a férjem kint volt
+a fronton.
+Pisszegtek, de azért nem hagyta abba. A fűszeresről beszélt, aki mindenféle ajándékokat küldözgetett neki.
+– Nem érdekel a fűszerese.
+– Annak is jó ízlése lehetett…
+Aztán megint csak a jegyszedőnőt lehetett hallani.
+– Legalább egy hétre hazajött volna a vőlegénye! Legalább egy napra! Hogy erőt tudott
+volna meríteni azokból a jóságos szemekből.
+Conrad Nagel! Egy öregasszonynak eszébe jutott Conrad Nagel, aki olyan megnyugtatóan tudott nézni. És az is eszébe jutott, amit akkoriban olvasott róla. „A mostanában fel-
+
+14
+
+tűnt Conrad Nagel népszerűsége Rudolph Valentinóéval vetekszik. Ezt mi sem bizonyítja
+jobban, mint hogy egyszerre három film főszerepére kapott szerződést.”
+Mi lett Conrad Nagellel?
+Rabnec bácsi kihúzta magát a széken. „Rongy dolog, hogy valaki éppen a barátja menyasszonyát akarja elcsábítani, és éppen akkor, amikor a barátja kint van a fronton. Ha én
+akkor kikezdek Fiore Sárival…
+– A férjemet holttá nyilvánították, de én még mindig vártam.
+– A temetőben ismerkedtünk meg.
+– A temetőben… kivel?
+– Azzal a lánnyal, amikor érettségire készültem…
+– Aha.
+Hallgattak és figyeltek.
+A jegyszedőnő összekulcsolt kezét nézte, aztán lecsúszott a tekintete az emelvény porondjára. Még sosem látta ilyen közelről. Por… csupa por. A vékony repedések tele porral,
+egy porréteg az egész. Egyszer itt lasszót dobtak egy nő nyakára. Cowboyruhában állt a nő,
+és egy férfi lasszót dobott a csuklójára, a derekára, végül pedig a nyakára. A szünetben léptek fel…
+– Mi az! Elaludt?!
+A jegyszedőnő közben már folytatta… és a lány mindennap együtt volt Walterrel. Walter színházba vitte, szórakozni jártak, és közben a lány anélkül, hogy észrevette volna, elmerült az alvilági életben.
+– Nem féltem. – De a hang most már aggodalmas volt.
+A többiek se tudták, hogy mi lesz ezzel a lánnyal. Nem is válaszol a vőlegényének? Már
+fel se bontja a leveleket, amelyek a frontról érkeznek?!
+– Majd hazajön a fiú, és akkor helyrerázza!
+Ebben reménykedtek. Hogy majd egyszerre csak megjelenik a fiú, az igazi (Norman
+Wilson, az az édes pofa!), és akkor majd megint úgy lesz, mint régen.
+– Mit szív a lány?
+– Ópiumot, egy barlangban.
+– Barlangban?
+– Hát ópiumbarlangban, de maradjon már csöndben!
+A nénike nem is tudott volna szólni. Istenkém, az a lány egy ópiumbarlangban! És ott
+csak ülnek, és szívják az ópiumot, és nagyon előkelően van berendezve a barlang, mélyen
+a föld alatt, tompa fények jönnek a falból, csak suttogva szabad beszélni, és ez a Walter a főnökük.
+– Borzalmasak voltak az ébredések – mondta a jegyszedőnő. – A lány sokszor már meg
+se ismerte azt, aki belépett a szobájába. Így történt aztán, hogy egy napon…
+A fejek előredőltek. Rémült suttogást lehetett hallani, mintha egymás közt beszélnék
+meg ezt az ügyet. Aztán a nénike kint állt a dobogó előtt. Ott állt félrebillent fejjel, és azt
+mondta:
+– Ez nem igaz.
+A jegyszedőnő nem is vette észre, ahogy folytatta:
+– A fiú az ágynál állt, és belebámult abba a megkínzott arcba. Katonaruhában volt a fiú,
+úgy, ahogy hazajött a harctérről.
+
+15
+
+Igen, a fiúnak most már látni kellett, hogy a hírek, amelyeket a menyasszonyáról kapott, nem túloztak. Ő már nem a régi, ő már elszakadt mindentől és mindenkitől – egy
+szenvedély rabja.
+– Nem igaz!
+A jegyszedőnő elhallgatott, majd kissé csodálkozva leszólt a sötétbe.
+– Mi nem igaz?
+Az meg belekapaszkodott a színpad szélébe. A fejét pedig akárcsak fel akarta volna
+tolni, mint valami batyut. – Olyat nekem ne mondjon, hogy azt a fiút nem ismerte meg!
+Azt még elhiszem, hogy a leveleit nem bontotta fel, de amikor ott áll az ágya előtt…
+– De ugye a fiú magához térítette? – Ezt már egy férfi kérdezte.
+Majd megint egy újabb hang: – És végül is kilökték azt a Waltert?
+– …aztán később mind a ketten csak nevettek az egészen!
+Már többen álltak a színpad előtt. Homályos, elmosódott arcok. A dobogó szélét püfölték.
+– Az esküvőt mondja el!
+– Milyen esküvőt? – A jegyszedőnő hátradűtötte a fejét. – Nincs esküvő.
+Csönd. Mélységes, döbbent csönd. Majd egy hang a terem végéből:
+– De hát, amikor a lány meggyógyul…
+– Nem gyógyul meg.
+– Csak nem azt akarja mondani, hogy… – Székreccsenés, a férfi előrejött.
+A jegyszedőnő kezét zsebre dugta, könyökét hátrafeszítette. Pusmogást hallott odalentről. Mintha egymás közt tárgyalnának valamit. Aztán egy éles, támadó hang:
+– Én tudom, hogy nem hal meg.
+– Honnan tudja? – A jegyszedőnő elképedve ingatta a fejét.
+Ácsorogtak a széksorokban. Úgy ácsorogtak, mintha megint fütyülni és kiabálni akarnának. De csöndben voltak.
+– Kérem szépen – mondta egy öregember –, biztos, hogy ez ebben a filmben van?
+Fáradt, szomorú hang. De mégis ez volt a jeladás. Ordítoztak, a székeket recsegtették,
+mintha szét akarnák verni a mozit.
+– Nem is ezt a filmet mondta el!
+– Pofára ejtett bennünket…
+A jegyszedőnő olyan gyenge volt, hogy egy szót se tudott szólni. Dermedten ült, várta,
+hogy felrohanjanak, és lerángassák a színpadról.
+Csönd támadt körülötte. Majd egy-egy hang, könyörögve:
+– …ugye, aztán a fiú beviszi valami kórházba?
+– …és korcsolyáznak? Én láttam kint egy képet, ahol egymás karjába kapaszkodva korcsolyáznak.
+Kérték, egyre csak kérték, hogy mondja el a film végét, az igazi végét.
+– Mondja már!
+– Mondja…
+A jegyszedőnő lehetetlenül összezsugorodva ült a hatalmas, fehér vászon előtt és hallgatott.
+
+16
+
+

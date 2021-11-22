@@ -1,0 +1,450 @@
+A TISZATÁJ DIÁKMELLÉKLETE
+171. szám
+
+FOGARASI GYÖRGY
+
+A ballada a brit hagyományban:
+a romantikától napjainkig
+A	romantikus	műballada	
+Az ún. műballadákat, melyeket Scott gyűjteménye a régi balladák „utánzatainak” nevezett,
+a mai angol szaknyelv a „népi” (popular,	folk) vagy „hagyományos” (traditional) balladákkal
+szemben legtöbbször „irodalmi” (literary) balladaként említi. A jelző alapvetően e művek
+utánzott jellegére, egyéni szerzőségére, személyesebb hangvételére és írásban rögzített formájára utal, de nem feltétlenül jelenti azt, hogy e művek egytől egyig puszta fikciók volnának,
+mint ahogy azt sem, hogy tisztán az írás és olvasás néma világába utalnák a népballadák
+hangzó formáját. Megtörtént eseményeken alapuló műballadákkal éppúgy rendre találkozhatunk, mint énekelt balladákkal, melyeknek olykor a dallamát is maga a balladaköltő szerzi,
+aki éppen ezért művét éppannyira tekinti zeneműnek, mint irodalmi alkotásnak. A XX. században pedig az is gyakran előfordul, hogy a szerző előadóművész is egyúttal, s így nem is
+pusztán alkotóként tekint magára.
+A modern műballadák nagyjából három fázisban jelentek meg az angol irodalomban
+a XVIII. század utolsó évtizedeiben. Ezek a fázisok időben egymásra torlódva, de tendenciájukban mégis egyfajta törvényszerű egymásutániságot mutatva épültek egymásra. Az első fázisnak a mímelt vagy szimulált régi balladákat tekinthetjük, melyek utánzatok voltak ugyan,
+de ezt álcázták. A ballada alkotója – mint korábban láthattuk1 – olykor egy régi, eredeti mű
+közreadójának vagy fordítójának tüntette fel magát, egy hajdan volt (valós vagy kitalált) költő maszkjába bújva. Második fázisként tekinthetünk mindazon esetekre, melyekben a szerző
+ugyan nem tünteti fel magát másik szerzőként (avagy népként), egyszerűen csak anonimitásban, inkognitóban marad. A névtelenséget – ahogy talán már a színlelést is – vagy annak
+érdekében választja, hogy megóvja magát publikációja nem kívánatos következményeitől,
+vagy még inkább talán azért, hogy nevével, kilétével ne befolyásolja kedvezőtlen irányba az
+olvasást, művének megítélését. Az anonim közzététel természetesen azt az eshetőséget is
+magában rejti, hogy az olvasó egy régi ismert vagy ismeretlen szerző műveként vagy kollektív kultúrkincsként tekint majd a műre, így az anonimitás jótékony homályába burkolózó
+szerző anélkül jelentkezhet másnak tulajdonított alkotással, hogy csalással vagy hamisítással
+vádolhatnák. Ilyenkor a szerző nem mond valótlant, csupán elhallgatja a valóságot; s mivel
+
+1
+
+Az előzményekről lásd „A ballada a brit hagyományban: a középkortól a XVIII. századig” című tanulmányt (Tiszatáj, 2019/április, 98–112, Diákmelléklet). A szövegben később is erre az írásra utalok vissza.
+
+2019. május
+
+125
+
+„
+
+– Rousseau-val szólva – egy haszontalan igazságot hallgat el, hallgatása nem tekinthető hazugságnak.2 A harmadik fázisba akkor érkezünk el, amikor a balladaszerző immár nyíltan
+vállalja szerzőségét, s ezzel nemcsak magát teszi ki kockázatos következményeknek, hanem
+mindenekelőtt balladáját teszi ki annak, hogy az előítéleteik fogságában vergődő olvasók
+esetleg negatív véleményt formálnak róla, olvasását félbehagyják, vagy egyáltalán meg sem
+kísérlik az olvasást, meg sem veszik a művet.
+A balladaíró lépcsőzetes „előbújásának” iménti második és harmadik fázisát látványosan
+járta be az angol romantika nyitányának, költői színrelépésének legfőbb dokumentumaként
+számon tartott verseskötet, a Lírai	 balladák	 (Lyrical	 Ballads).3 Az első, 1798-as kiadáskor
+még névtelenül megjelentetett kötet szerzői, William Wordsworth és Samuel Taylor Coleridge, a későbbi változatokat (1800, 1802, 1805), melyek előszóval kiegészülve és némileg
+átalakított verstartalommal jelentek meg, immár névvel vállaltan publikálták.4 A kezdeti
+anonimitás mögötti motiváció jól kibontható a kötetnyitó Figyelmeztetésből (Advertisement)
+és a versek elé illesztett későbbi Előszóból (Preface).5 Ezekben Wordsworth, aki e prózaszövegek szerzője volt, mindenekelőtt az olvasás és ítélkezés lassítására kéri a balladák olvasóját. Az óvatosságra minden oka meg is van, mert Sidney, de még inkább Addison vagy Burke
+elismerő gesztusai ellenére a balladaköltészet még a XVIII. század végén sem tartozott az
+irodalmi kánonhoz. A kötött klasszicista eszméket csak lassanként oldották a sorra megjelenő, egyre szaporodó balladagyűjtemények, a más nyelvről fordított utánzatok s az azok nyomán átalakuló ízlésvilág. Így még a század legvégén is jó oka volt Wordsworthnek aggódnia,
+nehogy a fennkölt stílus eszményén nevelkedett olvasók elforduljanak majd ezektől a kísérleti daraboktól. A lírai balladák sem témaválasztásukban, sem formájukban nem illeszkedtek
+a klasszicista elvárásokhoz (a nemes tárgyakhoz és az azokhoz illően emelt beszédmódhoz,
+az ún. „költői dikcióhoz”), sőt valójában a megszokott balladagyűjteményekből is kilógtak
+volna. Tartva attól, hogy az olvasót majd az „idegenkedés és furcsállás érzései” (feelings	 of	
+strangeness	and	aukwardness, „Advertisement”, LB 7; vö. „Bevezető megjegyzés”, 146) szállják meg, Wordsworth már előre óva inti közönségét az elhamarkodott ítélettől, és arra kéri,
+szenteljen kellő időt a költészetben való elmélyülésnek. Mint írja, csak a versekben való
+„hosszan tartó elmélyedés” (long	continued	intercourse) képes „mérsékelni a döntés gyorsaságát” (temper	 the	 rashness	 of	 decision)	 („Advertisement”, LB 8; vö. „Bevezető megjegyzés”,
+147–148).
+A klasszicista poétikával való nyílt szembefordulásként értékelhetjük azt, hogy Wordsworth és Coleridge a népballadákat tekintik költői mintának. Ezzel nemcsak a hétköznapok
+történéseit vagy a népi babonás hitvilágot hozzák be verseikbe, de azokhoz kapcsolódva „az
+
+2
+
+3
+
+4
+
+5
+
+Jean-Jacques Rousseau, A	 magányos	 sétáló	 álmodozásai, ford. Réz Ádám (Európa, Budapest, 1997),
+53.
+A kötetről a ballad	revival kontextusában lásd John Blades, Wordsworth	and	Coleridge:	Lyrical Ballads	(Palgrave Macmillan, Basingstoke, 2004), 231-233.
+William Wordsworth és Samuel Taylor Coleridge, Lyrical	 Ballads, szerk. R. L. Brett és A. R. Jones
+(Routledge, London – New York, 2005 [1991]); további hivatkozások a főszövegben: LB, oldalszám.
+A Figyelmeztetés részleges magyar fordítása: „Bevezető megjegyzés a Lírai	balladákhoz”, ford. Mohay
+Béla, in A	romantika, szerk. Horváth Károly (Gondolat, Budapest, 1965), 146-148. Az Előszó szemelvényes magyar fordítása: „Előszó a Lírai	balladák 1802-es kiadásához”, ford. Péter Ágnes, in Angol	
+romantika, szerk. Péter Ágnes (Kijárat, Budapest, 2003), 147-160.
+
+„
+
+126
+
+tiszatáj
+
+emberek valódi nyelvét” (the	 real	 language	 of	 men) is költői rangra emelik („Preface”, LB
+233; vö. „Előszó”, 147). Wordsworth elismerően szól a régi balladák „művészietlen” (artless)
+verseléséről (uo. 252). Másutt, a Prelude című önéletrajzi költeményének könyvekről szóló
+5. könyvében egyenesen meg is áldja a madártrillázásra hasonlító „alacsony” (low), „balladás
+dallamok” (ballad	 tunes) ismeretlen szerzőit. A Lírai	balladák előszavában védelmébe veszi
+az	 egyszerű emberek nyelvét, melyet Dr. Johnson – Garrick nyomán – szellemes, ámde
+Wordsworth szerint szűklátókörű gúnyverssel karikírozott (uo. 255). Az	erdei	gyerekek	balladáját idézve foglal állást a hétköznapi nyelv gyakran nem is sejtett költői és bölcseleti értékei mellett, melyek épp a tárgy túlontúl ismerős voltánál fogva maradnak legtöbbször észrevétlenek. Ám pontosan ez az, amiben segíthet a költő: képzeletével és kifejezőkészségével sajátos színben láthatja és láttathatja a mindennapi jelenségeket (helyszíneket, alakokat, történéseket), miáltal azok újszerűen, a meglepetés erejével hatnak, és talán némi tanulsággal is
+szolgálnak majd az olvasók számára.
+Másfelől viszont – épp az iméntiekből következően – a balladahagyomány sem marad
+érintetlen. Mi sem hangsúlyosabb ennél, hiszen már a kötet címe is arra irányítja a kortársak
+figyelmét, hogy itt nem egyszerűen balladák, hanem lírai balladák várnak az olvasóra. Többről van itt szó, mint pusztán ilyen-olyan formai átalakításokról, amilyenekre maga a balladahagyomány is számtalan példával szolgál, vagy amire maga Wordsworth saját balladája,
+a Goody	Blake	és	Harry	Gill (Goody	Blake	and	Harry	Gill) kapcsán hívja fel a figyelmet, amikor
+annak szokatlan verselésére utal (253). A líraiság a balladáktól megszokott – mint korábban
+láttuk: inkább drámai, mint narratív – cselekményességgel szemben egy sajátos költői látásmódra, a mindennapi életből vett „incidensek” különleges, poétikus láttatására utal, arra,
+amiről épp az előbb esett szó. A kötet balladái – legalábbis a Wordsworth által szerzettek –
+részei egy olyan kísérletsorozatnak, melyben a költő nem egyszerűen arra törekszik, hogy
+pergő eseménysorokat, kuriozitásokat, csiricsáré látványosságokat mutasson – akár a mindennapi életből is véve ezeket –, hanem arra, hogy kiszállva a hatásvadászatnak ebből a spiráljából a képzeletet (saját magáét és az olvasóét) hívja segítségül az érzelmileg felfokozott
+állapot előállításához. Wordsworth meglehetősen szenvedélyes képet fest arról, miként uralkodik el a „rendkívüli esetek utáni sóvárgás” (craving	for	extraordinary	incident, 240) a szürke hétköznapokba beleunt városlakók tömegein, s hogy korának irodalmi és színházi termése miként próbálja kiszolgálni ezt a már-már állatias ínséget a fantázia féktelen ingerlésével.
+Az elme és az érzékek erőteljes ingerlésének addiktív gyakorlata szakadatlanul újratermeli
+ezt a „lealacsonyító szomjúhozást az őrületes izgatás után” (degrading	thirst	after	outrageous	
+stimulation, uo.), Wordsworth ezért inkább a képzeletre bízná a testi-szellemi izgalmak előidézését. Törekvése határozott elmozdulást jelez nemcsak a korabeli sajtó szenzációhajhász
+termékeitől, s nem is csupán az egykorú regény- és drámairodalom (vagy akár színházművészet) hasonló irányultságú darabjaitól távolodik el, hanem részint magától a balladai hagyománytól is. Bírálatának fő célpontját az „őrjítő regények”, valamint a „beteges és ostoba német tragédiák” mellett a „mindent elöntő üres és féktelen verses történetek” képezik (uo.).6
+6
+
+Ezzel a véleményével Wordsworth korántsem volt egyedül. A rémtörténetek ekkortájt tetőző divatja
+másokat is kritikára serkentett, gyakran parodisztikus gesztusok formájában. Horace Walpole (The	
+Castle	 of	 Otranto, 1764) és Clara Reeve (The	 Old	 English	 Baron, 1777) művei nyomán az 1790-es
+években sorra jelentek meg a tömegeket vonzó rémregények (Ann Radcliffe, The	Romance	of	the	Fo‐
+rest, 1791, The	Mysteries	of	Udolpho, 1794; Matthew Lewis, The	Monk, 1796), valamint rémdrámák,
+
+2019. május
+
+127
+
+„
+
+Korábban szó esett róla, hogy a XVI–XVII. századi broadside balladák – köztük megannyi népi
+eredetű ballada is – afféle bulvárfunkciót láttak el. Most Wordsworth mintha korának kommersz balladaterméséről állapítana meg hasonlót. Olyan stimulációs elvet követnek, melyet ő
+épp elvetni látszik a „közvetlen külső izgatás nélkül” (without	externel	excitement) kialakuló
+felindultság, az emlékek fantazmatikus megidézésén vagy a jelenvaló dolgok imaginatív átlényegítésén keresztül előálló szenvedélyesség javára. A képzelet elidegenítő hatása Wordsworthnél fontos kritikai funkciót kap – mely később az orosz formalisták defamiliarizációs
+irodalomfelfogásában vagy Brecht elidegenítés-elvű színházpoétikájában köszön vissza –, ám
+ez a kritikai működés egyúttal újabb vakfoltot is termel, mert miközben a kulturális beidegződések kibillentésére, a „második természet” ideologikus leplének lerántására vállalkozik,
+a „természetességre” és „közvetlenségre” való hivatkozással egy mindennél hatékonyabb
+ideológiát erősít. A stimulációtól megtisztított ballada egyszerre ígéretes ideológiakritikai
+fegyver és önmagát már-már tökéletesen álcázó ideológiai csapda.
+Az alcíme szerint egy konkrét hétköznapi „incidensről” szól Simon	 Lee,	 az	 öreg	 vadász
+balladája. Ebben Wordsworth előbb hosszú versszakokon át az egykor daliás és erőtől duzzadó, később fél szemére megvakult, idős korára pedig teljesen elgyöngült és elszegényedett
+férfi sorsát és nehéz helyzetét ecseteli, majd hirtelen váltással olvasójához szól, aki az alcím
+alapján joggal egy konkrét eset „elmesélését” is várja a műtől:
+O	reader!	had	you	in	your	mind	
+Such	stores	as	silent	thought	can	bring,	
+O	gentle	reader!	you	would	find	
+A	tale	in	every	thing.	
+What	more	I	have	to	say	is	short,	
+I	hope	you’ll	kindly	take	it;	
+It	is	no	tale;	but	should	you	think,	
+Perhaps	a	tale	you’ll	make	it.	
+	
+[Ó	olvasó!	ha	volnának	elmédben	
+Tartalékok,	amiket	a	néma	gondolat	előhozhat,	
+Ó	nyájas	olvasó!	akkor	
+mindenben	mesét	találnál.	
+Mi	mondandómból	hátravan,	rövid;	
+Remélem,	szívesen	veszed;	
+melyek olykor épp e regényeket adaptálták színpadra (Henry Siddons, Sicilian	Romance;	or	the	Ap‐
+parition	of	the	Cliff, 1794; James Boaden, Fontainville	Forest, 1794; Matthew Lewis, The	Castle	Spect‐
+re, 1797). Ipari mennyiségük és elsöprő népszerűségük szellemes reakciókat váltott ki a kortársakból: Ismeretlen szerző, „Terrorista regényírás” (Terrorist	 Novel	 Writing, 1797), ford. Fogarasi
+György, Tiszatáj 2019/április, 60–61; Jane Austen, A	klastrom	titka (Northanger	Abbey, 1803/1817);
+Thomas Love Peacock, Nightmare	Abbey, 1818. A „gótikus” hullám, melynek hátterében Shakespeare
+vérdrámái mellett a népballadák babonavilága is ott volt, pár éven belül a balladagyűjteményeket is
+elérte. Efféle balladaválogatást tett közzé fordításokból, valamint Robert Southey és John Aikin verseiből szemezgetve Walter Scott (An	Apology	for	Tales	of	Terror, 1799), valamint ugyancsak vegyesen fordításokból, illetve saját és mások, például Scott és Burns alkotásaiból Matthew Lewis (Tales	of	
+Terror, 1799; Tales	of	Wonder, 1800; Tales	of	Terror	and	Wonder, 1801).
+
+„
+
+128
+
+tiszatáj
+
+Nem	mese,	de	ha	úgy	tartja	kedved,	
+Majd	te	talán	mesévé	teszed.]	
+A ballada elbeszélője végül teljesíti az olvasói elvárást, és megoszt az olvasóval egy konkrét történést. Egy alkalommal, amikor Simon Lee egy korhadt fatuskót próbált kicsákányozni,
+s ereje fogytán már épp feladni készült a küzdelmet, az arra járó elbeszélő besegített neki, s
+egyetlen csapással átvágta a földbe kapaszkodó kusza gyökereket. Az idős vadász könnyes
+szemmel köszönte meg a segítséget, mire a narrátor zárásul megjegyzi: mindig búskomorsággal tölti el az emberek hálája. Vagyis, noha olvasóként megkapjuk az ígért incidens történetét, ez azonban Wordsworth szerint nem maga a „mese” (tale). A mese ugyanis az előbb
+idézett részlet szerint olyasmi, ami mindenben megtalálható, de csakis akkor, ha az olvasó
+mozgósítja a maga „tartalékait” (stores), emlékezeti és képzeleti forrásait, és ezek segítségével fedezi fel magának az elmondottakban a mesét mint tanulságot hordozó történetet, mint
+valamiféle fabulát. Vagyis ha ő maga – képességeinek bevetésével – mesét „csinál” (make) az
+olvasottakból. A szöveg elbeszélője sugalmazza, hogy van tanulság, maga meg is fogalmaz egy
+záró gondolatot, de kifejtett magyarázattal nem szolgál, ekként késztetve olvasóját a mese
+megalkotására.
+A sugalmazásnak ez a mozzanata visszatérő gesztus Wordsworth balladáiban. Elég talán
+két olyan darabra utalni, melyekben a gyermek alakja jelenik meg a természethez hasonló
+tanítómesterként,7 vagy – ahogy másutt, A	szivárvány (The	Rainbow) című versében fogalmaz
+a költő – „a férfi apjaként” (father	 of	the	man). Az egyik példa a széltében ismert Heten	va‐
+gyunk (We	 Are	 Seven) lehet, mely még Wordsworth életében broadsheet formában terjedt,
+ám népszerűsége később visszaütött, szatirikus támadások céltáblájává téve a szöveget (például Karinthy Frigyes számára). Ez egy tanyasi kislány sajátos fantáziavilágával ismertet meg
+minket, aki szerint eltávozott testvérei (függetlenül attól, hogy városba mentek, tengerre
+szálltak vagy sírba költöztek) továbbra is együtt élnek vele, elevenen élnek benne, s távollétükben vagy holtukban is élőként, jelenvalóként tartja számon őket. Mivel a vers elbeszélője
+nem fűz magyarázó kommentárt a kislány gondolkodásához vagy képzeletvilágához, itt is az
+olvasóra marad, hogy kimunkálja a maga számára – akár például Wordsworth sírfeliratokról
+írt esszéinek (Esszék	sírfeliratokról, Essays	upon	Epitaphs, 1810) kontextusában,8 a holtak továbbélésének archaikus hitével összefüggésben, akár egyéb módon –, hogy miféle burkolt
+költői felismerés indokolhatja e látszólag jelentéktelen találkozás részletező taglalását.
+Hasonlóképpen, de még ennél is hangsúlyosabban jelenik meg a visszatartott vagy kidolgozásra váró tanulság gondolata Wordsworth apáknak szóló anekdotájában (Anecdote	 for	
+Fathers), melynek utolsó versszakában az elbeszélő apa pusztán azt közli, mennyi minden
+tanulnivaló van a vele és fiával történt minapi esetben, s hogy milyen jó volna a szerzett belátásoknak akár csak töredékét is továbbadni. Ám az elbeszélő semmilyen kísérletet nem tesz
+arra, hogy kimondja, megfogalmazza akár a maga, akár mások számára, hogy mit is tanult ő, s
+tanulhatunk mi az elmesélt incidensből.
+
+7
+
+8
+
+A természet mint könyveket felülmúló tanítómester a témája a Szemrehányás	 és	 felelet (Expostu‐
+lation	and	Reply), valamint a Visszaadva	a	kölcsönt (The	Tables	Turned) című párbeszédes verseknek.
+Vö. William Wordsworth, „Esszék sírfeliratokról”, ford. Fogarasi György, Pompeji 1997/2–3, 68–92.
+
+2019. május
+
+129
+
+„
+
+Oh	dearest,	dearest	boy!	my	heart	
+For	better	lore	would	seldom	yearn,	
+Could	I	but	teach	the	hundredth	part	
+Of	what	from	thee	I	learn.	
+[Ó	drága,	drága	fiú!	szívem	
+Jobb	tan	után	aligha	áhítozna,	
+Bár	csak	századát	is	taníthatnám	annak,	
+Mit	tőled	tanulok.]	
+Így igazi enigmaként áll előttünk az apa által előadott, más apák számára elgondolkodtató példaként megverselt eset, melynek anekdotikus jellege egyszerre utal a történet mindennapiságára, de utal humoros-szellemes, azaz bizonyos tekintetben fölöttébb tanulságos voltára is. Ahogy erre a versre, úgy az előzőekre és Wordsworth sok más szövegére is igaz, hogy
+inkább a cselekmény narratív bemutatása jellemzi őket, kevésbé a népballadákban uralkodó
+drámai, párbeszédes jelleg. A hézagosság e darabokban nem a narráció minimalizálásából és
+a párbeszédes részek uralmából fakad, inkább abból, hogy az elbeszélt eseménysor mögötti
+személyes motivációkról, érzelmi-gondolati folyamatokról nem számol be az elbeszélő, csupán hangsúlyosan utal azok fontosságára, ezzel éppen arra serkentve az olvasót, hogy próbálja kinyomozni ezeket az indítékokat és összefüggéseket. Az az olvasó például, aki végigköveti a szóban forgó anekdotát, s kellő időt és analitikus figyelmet szentel neki, akár az aszszociáció gépies működését, a szenvedélyes nyelvhasználat figuralitását vagy a „nemmorálisan” felfogott hazugság Nietzschét megelőlegező gondolatát is kiolvashatja a szövegből, különösen, ha enged az alcím sokat sejtető invitálásának, mely szerint a szöveg „azt mutatja be, hogyan tanítható a hazudás művészete” (showing	how	the	art	of	lying	may	be	taught).
+Ha egy pillanatra formai oldalról tekintjük az iménti két balladát, azt is megfigyelhetjük,
+hogy némi átalakítással ugyan, de nagyjából érvényesül a népballadák formavilága. A Simon	
+Lee nyolc soros versszakainak első négy sora 4-4-4-3, második négy sora 4-3-4-3 hangsúlykiosztású jambikus darab (a második négy sor egy az egyben a balladastrófát mutatja, abcb
+rímeléssel), a négy soros strófákból építkező Anekdota	apáknak pedig az enyhén módosított
+4-4-4-3 változatot követi. Tényleges balladastrófát (4-3-4-3, abcb) Wordsworth a Heten	va‐
+gyunk és a Visszaadva	a	kölcsönt (The	Tables	Turned) című versekben használ, vagy például a
+kötet 1800-as kiadásában közreadott Lelkem	álom	béklyózta	le (A	Slumber	Did	My	Spirit	Seal)
+című rövid darabban. E strófa egy sorral kibővített változatát (4-3-4-4-3, abccb) kínálja A	fél‐
+eszű	fiú (The	Idiot	Boy). Megjegyzendő, hogy Coleridge a Rege	a	vén	tengerészről (The	Rime	of	
+the	Ancyent	Marinere) című költeményében sűrűn alkalmazza a balladastrófát, de meglehetősen szabadon bánik vele, és a vers egyes szakaszaiban szinte versszakról versszakra módosít rajta.
+Bűn és bűnhődés jellegzetesen balladai színterébe visz A	 tövisbokor (The	 Thorn) című
+hosszabb Wordsworth-költemény. A leírt helyszín meghatározó elemei – a tavacska, a mohás
+földhalom és a tövisbokor – egy gyanított bűntett (csecsemőgyilkosság) díszleteiként szimbolikus hordozókká válnak. A bűntények tetthelyéhez hasonlóan olyan nyomhalmaz lesz belőlük, mely képzeleti úton történetté olvasható, a bűnelkövetés eseménysorává narrativizálható. Szimbolikus jelentőségük, látens összefüggésük vagy értelmük azonban mindvégig fel-
+
+„
+
+130
+
+tiszatáj
+
+függesztett marad a babonás képzelet bizonytalan sejtelmei között. A vershez fűzött hosszú
+jegyzetében (Note	 to	 „The	 Thorn”, 1800) Wordsworth a babonás hit képzeletgazdagságáról
+beszél. A képzelet azonban nem stabilizálja a mögöttes jelentést, s így nem helyezi szilárd
+alapzatra a színtér szimptomatikus olvashatóságát. A leírások nyomán türelmetlenné váló és
+az elbeszélést tudakolózással félbeszakító olvasónak azzal felel a narrátor: „Ha azon a helyen
+jársz, talán / felfedezed majd történetének nyomait” (Perhaps	when	you	are	at	the	place	/	You	
+something	 of	 her	 tale	 may	 trace). A teherbe ejtetten elhagyott, s így akarata ellenére leányanyaságba kényszerített nő (Martha Ray) előtörténete, feltételezett tragikus tette (megszült
+gyermekének talán vízbefojtása, talán felakasztása, végül elhantolása) mind sejtelem csupán,
+s ekként csak valamiféle lebegtetett, de biztosra nem vehető értelmet sugall a leírt helyszín
+három kulcseleme (a tó, a bokor és a halom), valamint a vélelmezett tetthelyre visszajáró nőalak borzongató jajongása mögött.
+A babonavilághoz tartozó átok a meghatározó témája Wordsworth már említett, Goody	
+Blake	és	Harry	Gill című balladájának, ahogy Coleridge Rege	a	vén	tengerészről című, szürreális elemekben bővelkedő, a fantázia világába vivő hosszú elbeszélő költeményének is. A természetfölötti erőkkel szembeni súlyos kihágás – az előbbi versben a tűzifát lopó szegény aszszony megtámadása, az utóbbiban az albatrosz megölése – életre szóló csapást mér az elkövetőre, aki ezzel mementóvá válik környezete számára, s élete hátralevő részében eleven
+traumatikus tanújelként hirdeti a felsőbb metafizikai törvények áthághatatlanságát. A romantikus költészetben Coleridge Christabel című töredékes alkotása mellett John Keats La	
+Belle	Dame	sans	Merci című rejtélyes, románcos verse egyaránt a nőiség és a természetfeletti
+hatalom összekapcsolásával, a boszorkányság vagy a végzetes női varázserő toposzának újjáélesztésével viszi tovább a babonás képzelet gondolatkörét.
+Tragikus életutak jelennek meg a többi balladában is: kitaszított, elmagányosodott, sorsukra hagyott anyák (The	Female	Vagrant,	The	Mad	Mother,	The	Complaint	of	a	Forsaken	In‐
+dian	Woman), fényesebb időket látott, szinte mindenüket elveszített, de erkölcsi tartást mutatni próbáló férfiak (The	 Last	 of	 the	Flock,	Old	Man	Travelling, vagy például az 1800-as kiadásba felvett Michael), de előfordul az is, hogy egyszerre több nehéz sorsú karakterrel találkozunk egyetlen történetté összekombinálva. Ez a helyzet A	féleszű	 fiúban, ahol az éjszakában tévelygő fiú (Johnny) és annak aggódó anyja (Betty Foy) mellett a beteg szomszédaszszony (Susan Gale) is belép az együttérzést kiváltó karakterek sorába. Sőt, belép e sorba a fiút vivő póni is, a „gondolkodó ló” (a	horse	that	thinks), mely a fiúval szorosan összenőve, annak ellenpárjaként, egyszersmind hasonmásaként, éppúgy félúton van animalitás és humanitás között, mint maga a fiú, csak míg a fiú az emberiből csúszik le, addig a ló a puszta állatiból
+lép feljebb a „humanimális” bizonytalan, átmeneti létformájába. Végül társadalmi helyzetük
+szomorú következményeinek elszenvedőiként jelennek meg bizonyos versekben – Wordsworth A	 fegyenc (The	 Convict) című balladisztikus alkotása mellett Coleridge A	 tömlöc (The	
+Dungeon) című rövid meditatív darabja említhető – egyes elítélt, börtönben senyvedő bűnözők, ami a jog visszásságainak és a társadalmi igazságosság igényének romantikus megfogalmazódásaként előrevetíti számos posztromantikus ballada hasonló irányultságát.9
+9
+
+Efféle témát versel meg az a későbbi szonettciklus is (Sonnets	Upon	the	Punishment	of	Death, 1841),
+melyben Wordsworth a halálbüntetés jogszerűségéről gondolkodik, legtöbbször kerülendőnek, bizonyos esetekben (hazaárulás, gyilkosság) azonban indokoltnak látva, sőt az erkölcsi megtisztulás
+lehetőségének biztosításaként értelmezve a legsúlyosabb büntetés kiszabását. A sorozat 12. darab-
+
+2019. május
+
+131
+
+„
+
+Utóélet:	a	posztromantikus	balladák	
+A társadalomkritika nem egyértelmű eleme a műballadák XIX. századi hagyományának. Rudyard Kipling Kaszárnyaballadái (Barrack‐Room	Ballads, 1892) a távol-keleti szolgálatból hazatért brit katona nosztalgikus emlékképeit verselik meg, a gyarmati és birodalmi gondolkodás jellegzetes toposzaival, amilyen például a „burmai lány” alakja a Mandalay című darabban. Találkozunk ugyan a katonaélet sötét oldalával is, a kolera (Cholera	Camp) vagy a fosztogatás (Loot) képeivel, ám utóbbi vers például épp azért okoz fejtörést az irodalomtörténészeknek, mert örömittasan zengi az „angol morál” kötelmei alól felszabadult katonák gátlástalan zsákmányszerzési szokásait, sőt egyfajta gyakorlatias módszertant is felkínál a sikeres
+szabadrabláshoz. Ám ha szerepversként, a katonalélekbe tisztán a hiteles ábrázolás kedvéért
+belehelyezkedő, de egyébként pártatlan újságírói beszámolóként olvassuk – ami azért kétséges lehetőség –,10 talán még ebben a darabban is felfedezhetjük a balladaköltészet társadalomkritikai élét, metsző iróniává fokozva.
+Egészen más a helyzet A	readingi	fegyház	balladájával (The	Ballad	of	Reading	Gaol, 1898),
+melyet Oscar Wilde a kétévi börtönből való szabadulásakor írt, de nem saját büntetése kapcsán – homoszexualitás vádjával ítélték el –, hanem egy épp ez idő tájt felakasztott feleséggyilkos, bizonyos Charles Thomas Wooldridge esetére reflektálva. A hatsoros versszakokban
+írt, 4-3-4-3-4-3 hangsúlykiosztású és abcbdb rímelésű vers sokáig csak a rejtélyes „C.3.3.” álnéven jelent meg (Wilde cellájának jelzetére utalva), s egészen a hetedik kiadásig kellett várni, mire a szerző tényleges neve is a címlapra került. Ez persze, a vers népszerűsége folytán,
+már 1899-ben elérkezett. Wilde a törvényen kívüliek megalkuvás nélküli viselkedését helyezi a vers középpontjába. Lenézően szól arról, hogy bár „mind megöljük kedvesünk” (each	
+man	kills	the	thing	he	loves), a kultúra képmutató abroncsai közt ezt a nagy többség alig észrevehető szimbolikus aktusokkal követi el, és csak kevesen vannak, akik szörnyű tettük következményeit felvállalva az egyenes, gátak nélküli viselkedés útjára lépnek: „A gyáva fegyvere a csók, / A bátoré a kard!” (The	 coward	 does	 it	 with	 a	 kiss,	 /	 The	 brave	 man	 with	 a	
+sword!).11 Ebben a betyárromantikát továbbvivő és a XIX. századi alkotók közül leginkább talán Dosztojevszkij regényvilágával rokonítható versben Wilde a jól neveltség kultúráját „az
+emberiség gépezeteként” (Humanity’s	machine) láttatja, és a társadalmi kötöttségekből való
+kilépés szorgalmazása mellett elemi erővel kérdez rá az igazságszolgáltatás és büntetésvégrehajtás modern intézményrendszerének alapjaira.
+A XIX. század utolsó évtizedeiben ismét erőre kapó balladaköltészet XX. századi nyomait
+olyan modernista költők munkáiban fedezhetjük fel, mint Thomas Hardy, William Butler
+Yeats, Dylan Thomas vagy Wystan Hugh Auden. A brit balladahagyomány kutatói 1957-ben
+mégis e műfaj vagy versforma fokozatos kiszorulásáról, sőt eltűnéséről adtak hírt („az utcai
+ballada mára teljességgel eltűnt”), mivel a populáris regiszterből csupán olyan kortárs példákat tudtak felmutatni, amelyek szélsőségesen egyszerű formájukkal, profán témaválasztásukkal és trágár nyelvezetükkel legfeljebb a kimúlás előtti „degeneráció” bizonyítékaiként
+
+10
+
+11
+
+jában a meggyónt elítélt „Jer, halál!” (Welcome	death!) felkiáltással egyenesen sóvárogja a megváltó
+halált.
+Lásd Andrew Lycett bevezető jegyzetét. In Rudyard Kipling, Barrack‐Room	Ballads (New York: Signet Books, 2003), 26.
+Oscar Wilde, „A readingi fegyház balladája”, ford. Kosztolányi Dezső, Nyugat, 19. évf. 1926/10.
+
+„
+
+132
+
+tiszatáj
+
+voltak felhozhatók.12 Ám épp a XX. század derekán, amikor lesújtó látleletüket kiadták, a balladaköltés újabb lendületet vett az ún. folk	revival keretében, olyan énekes zenészek jóvoltából, akik tradicionális népballadák előadása mellett számtalan saját szerzeménnyel is előálltak, köztük jó néhány olyannal, amely nyíltan szerepet vállalt a nyugati társadalmak modern
+átalakításában, emancipációs megreformálásában. Igaz, ez az újjáéledés leginkább a tengerentúlon ment végbe, például – Martin Luther King oldalán – az amerikai feketék szegregációja ellen folytatott küzdelemben, vagy általában a perifériára szorult néptömegek jogaiért vívott harcban.
+Az 1960-as évek polgárjogi és pacifista mozgalmainak Bob Dylan lett az ikonikus amerikai dalnoka. Az eredetileg Robert Zimmerman névre hallgató ifjú énekes 1959-től a walesi
+költő, Dylan Thomas iránti tiszteletének jeleként kezdte el használni a „Dylan” nevet. Ebben a
+szimbolikus gesztusban a brit és az amerikai balladahagyomány közti sokrétű kapcsolat
+újabb példáját fedezhetjük fel. Dalainak hátterében a modern európai költészeti hagyomány
+mellett a bevándorlók nyomán a XVIII–XIX. században megsokasodó amerikai népköltések is
+fontos helyet foglalnak el, a törvénykerülőkről szóló történetektől a szegény sorsúakat megéneklőkön át az egyéb társadalmi furcsaságokkal foglalkozókig. Változnak	az	idők (The	Times	
+They	 Are	 A‐Changing) című, forradalmi hatású 1964-es albumának címadó darabját az énekes – jellemző módon – kottával együtt a kor befolyásos szaklapjában, a folkzene egyik fő orgánumának számító Broadside magazinban publikálta. Erről a lemezről két másik jellegzetes
+szerzeményt is érdemes megemlíteni.13
+A szegénység és törvényen kívüliség nyers összekapcsolását hajtja végre a Hollis	Brown	
+balladája (Ballad	of	Hollis	Brown). Egy dél-dakotai farmerről szól, aki a nélkülözés és kilátástalanság miatti végső elkeseredésében utolsó megmaradt dollárját hét töltényre költi, s végez
+feleségével, öt gyermekével, végül magával is. A szöveg a befejező sorokban a hét halál mellett hét új életről is szót ejt, mintha a babonás hit az elhunytak lelkét a halál beálltakor új testekbe költöztetné át (uo. 88). Az azonban nem tudható, hogy ez reményteli új kezdet-e, vagy
+csak szakadatlan ismétlődése ugyanannak a sorsszerű tragikumnak.
+Egy gyilkosság áldozatául esett fekete nő tragédiáját és a szégyenletesen részrehajló
+igazságszolgáltatást énekli meg a Hattie	 Carroll	 magányos	 halála (The	 Lonesome	 Death	 of	
+Hattie	Carroll) című darab. Az 1963-ban Baltimore-ban történt bűncselekmény során egy részegen dühöngő hotelvendég, a 24 éves William Zanzinger mért halálos csapást – a ballada
+szövege szerint „minden ok nélkül” (for	no	reason), csak mert „történetesen épp olyanja volt”
+(just	happened	to	be	feelin’	that	way) (uo. 99) – a szálloda bárjában dolgozó 51 éves családanyára, aki nem sokkal később a kórházban belehalt sérüléseibe. A fehér és nem mellesleg
+jómódú férfit a bíróság végül gyilkosság helyett csak súlyos testi sértésben találta bűnösnek,
+így hat havi elzárást és 500 dollár pénzbüntetést róttak ki rá, ami érthető módon közfelháborodást váltott ki, és nem csak a fekete lakosság körében.
+
+12
+
+13
+
+Vivian de Sola Pinto és Allan Edwin Rodway, „Introduction”, in The	 Common	 Muse:	 Popular	 British	
+Ballad	Poetry	from	the	15th	to	the	20th	Century, szerk. Vivian de Sola Pinto és Allan Edwin Rodway
+(Penguin, Harmondsworth, 1965 [1957]), 49; vö. uo. 591–598.
+Bob Dylan, The	Lyrics:	1961–2012 (Simon and Schuster, New York, 2016, e-könyv), 84. A The	Times	
+They	Are	A‐Changing magyar fordítását lásd: Bob Dylan, Lyrics/Dalok (Európa, Budapest, 2017), 19–
+21. Az itt idézendő többi dalszöveg fordítása nem szerepel ebben a válogatásban.
+
+2019. május
+
+133
+
+„
+
+Egy évvel korábban, 1962-ben játszotta először a rádió a szintén megtörtént eseten alapuló Donald	White	balladáját (Ballad	of	Donald	White), melynek alacsony sorból származó
+hőse elítélt gyilkosként, akasztásra várva, mintegy az „utolsó szó” (final	words) jogán mondja
+el élete alakulását (uo. 41). Beszámol róla, hogy árván és iskolázatlanul, egyéb lehetőségek
+híján hogyan lépett a bűn útjára, s hogyan vált már fiatalon otthonává a börtön, ahol övéi
+közt nyugalomban érezhette magát. A dupla balladastrófákból építkező vers éles paradoxonokban éri el megrendítő pillanatait: egyrészt akkor, amikor a börtönök zsúfoltsága miatt
+szabadlábra helyezett fiú érzi, hogy számára a legfőbb veszélyt maga a társadalom (a szabad
+élet) jelenti, s azért könyörög, hogy inkább csukják le megint, másrészt akkor, amikor halálra
+ítélten annak örül, hogy se szülei, se barátai nincsenek, akiknek most fájdalmat okozna életének ily gyalázatos lezárulása. Befejezésül elbúcsúzik mindentől és mindenkitől, ám búcsúztában azért odaszúr egyet a hallgatóságnak. A kérdés, melyet nyomatékosan kívülállóként,
+törvényen és társadalmon kívüliként intéz hozzájuk, úgy szól: az efféle gazfickók, amilyen ő
+is, „vajon ellenségei vagy áldozatai a ti társadalmatoknak” (Are	they	enemies	or	victims	/	Of	
+your	society)? Az időbeli, térbeli, sőt nyelvi távolság ellenére ez a kérdés Villon egyik történetét idézheti az olvasóban. A Nagy	Testamentum elején, a kalóz Diomedesről szóló epizódban
+olvasunk arról, miként látja be Nagy Sándor makedón király, hogy a szegénység szükségszerűen törvénykerüléssel jár, s e belátás nyomán miként kegyelmez meg a „lator” (larron) kalóznak, sőt hogyan emeli jólétbe, ellenség helyett áldozatnak tekintve őt. „Éhségében gyilkol
+a vad, / Embert bűnbe a kényszer űz” (Necessité	fait	gens	mesprendre	/	Et	faim	saillir	le	loup	
+du	bois)14 – hangzik a végső determinisztikus bölcsesség a villoni műben, melynek képsora
+szerint, ahogy a farkast csalja elő az erdőből és készteti gyilkolásra az éhség, úgy teszi az embert, ezt a szelídnek látszó – agresszív késztetéseit szublimáló – lényt ismét vaddá, „farkassá”
+a túlélésért folytatott mindennapi küzdelem. E középkori háttér előtt szemlélve tűnik elő igazán Dylan balladájának aktualitása, az, hogy a Donald White-féle modern „latrokat” kitermelő
+szűkölködés milyen mértékben marad kívül a társadalom látókörén, avagy hogy a társadalom milyen mértékben nem is akarja látni a szegénység és a bűnözés lehetséges kapcsolatát.
+1955-ben nagy médiavisszhangot váltott ki egy 14 éves fekete fiú története, akiről Dylan
+szintén 1962-ben költött balladát Emmett	Till	halála (The	Death	of	Emmett	Till) címmel. A fiút brutális kegyetlenséggel kínozta halálra két fehér férfi mondvacsinált okokból – ahogy
+Dylan fogalmaz: „merő szórakozásból”, a fiú „lassú halálában” lelve örömet (just	for	the	fun	of	
+killing	 him	 and	 to	 slowly	 watch	 him	 die, 29). A törvényszék sokak döbbenetére elfogadta a
+gyilkosok érvelését, akik azzal védekeztek, hogy a fiú molesztálta egyikük feleségét, és a bíró
+végül felmentette a két férfit a vád alól. A ballada egyfajta figyelemfelkeltés vagy „emlékeztető” (reminder) kíván lenni. Narrátora a hírhedten feketeellenes XIX. századi „Jim Crowtörvények” szellemének és a Ku-Klux-Klan fajgyűlölő hagyományának továbbélését látja a bí-
+
+14
+
+Franςois Villon, Összes	versei (Budapest: Európa, 1992), 29; Franςois Villon, Oeuvres (Paris: Champion, 1992), 17. Diomedes meséje emellett a szuverenitás premodern fabulája is, mely – Marc Redfield
+megfogalmazását előrevetítve – mintha azt demonstrálná, hogy „szuverén az, aki a [latorságról, kalózságról] dönt – aki képes a másikat [latornak, kalóznak] nevezni és ezt a nevet a másikra ráragasztani” (vö. Marc Redfield, A	terror	retorikája:	töprengések	9/11	és	a	terror	elleni	háború	kapcsán, ford.
+Fogarasi György, Szeged: Americana e-könyvek, 2019, II. rész., 1. fejezet, http://ebooks.americanaejournal.hu/hu/, megjelenés alatt).
+
+„
+
+134
+
+tiszatáj
+
+rói döntésben.15 Dallamát Dylan – amint erről egy 1962. március 11-i rádióműsorban maga
+beszélt – egy zenésztársától, Len Chandlertől „lopta”, aki eredetileg egy másik akkori tragédiát, egy húsz gyermekáldozatot követelő coloradói buszbalesetet énekelt meg vele.16
+A modern balladaéneklés emblematikus női képviselője a szintén amerikai állampolgárságú, egyébként mexikói és skót felmenőktől származó Joan Baez, aki Dylannel nagyjából egy
+időben, 1960-ban indult, és Dylannel együtt lépett fel az élelemért és munkáért meghirdetett
+1963. augusztus 28-i washingtoni tömegtüntetésen, melyen Martin Luther King Van	egy	ál‐
+mom (I	Have	a	Dream) beszéde is elhangzott. Noha Baez inkább előadóként, mint alkotóként
+vált jelentős énekessé, mégis fontos említést tenni róla, egyrészt azért, mert lemezeire az
+évek során számos népballadát is felénekelt, melyeket 1972-ben külön albumon jelentetett
+meg The	Joan	Baez	Ballad	Book címmel, másrészt azért, mert az általa népszerűvé tett szerzemények éppúgy társadalomkritikai irányultságúak voltak, mint Dylan balladái. Ilyen például a feleségét és annak szeretőjét meggyilkoló féltékeny férjről szóló dala, A	9‐es	számú	fo‐
+goly (El	preso	número	9), 1960-ból, mely eredetileg Roberto Cantoral alkotása, és sok tekintetben Oscar Wilde börtönballadájának hasonmása. De ilyen még inkább a Sacco	és	Vanzetti	
+balladája (La	ballata	di	Sacco	e	Vanzetti) 1971-ből, mely az 1920-ban ártatlanul perbe fogott,
+halálra ítélt, majd többszöri fellebbezések után 1927-ben villamosszékbe küldött két olasz
+bevándorló – Nicola Sacco, cipész és Bartolomeo Vanzetti, halárus – balsorsáról emlékezik
+meg. Koholt vádak alapján találta őket bűnösnek a bostoni törvényszék, rablás és gyilkosság
+bűntettében, holott valójában anarchista nézeteik és szakszervezeti aktivitásuk miatt szúrták
+a hatalom szemét. Kivégzésüket a San Franciscótól Londonig fellángoló tömeges tiltakozások
+sem tudták megakadályozni. Történetükről 1971-ben készült játékfilm Giuliano Montaldo
+rendezésében, melyhez Woody Guthrie 1947-es balladáitól (Ballads	 of	 Sacco	 and	 Vanzetti)
+inspiráltan Ennio Morricone írt zenét, s a két tragikus hős balladáját Joan Baez adta elő, három részben. Az angol nyelvű dalszövegeket maga Baez írta az áldozatok leveleinek felhasználásával. Baez ebben egyébként a Guthrieval összedolgozó Pete Seegert követte, aki a század közepén Szép Margaret, Barbara Allen vagy Jesse James története mellett nemcsak a Titanic 1912-es katasztrófáját énekelte meg, hanem – Saccónak fiához írt levele alapján – a két
+anarchista elleni pert is dalba öntötte. Az 1950-es évek második felében ugyancsak Seeger
+tette népszerűvé az erőszakmentesség és a polgárjogi mozgalmak himnuszává vált Győzni	fo‐
+gunk (We	 Shall	 Overcome) gospelt is, melyet Joan Baez az 1963-as tömeggyűlésen háromszázezer emberrel énekeltetett, maga Seeger pedig 1964-es Broadsides:	 Songs	 and	 Ballads
+című albumára is felénekelt.
+
+15
+
+16
+
+A Ku-Klux-Klan mozgalom közelmúltbeli filmes bemutatásaként Quentin Tarantino XIX. századba
+visszatekintő balladisztikus műve, a Django	 elszabadul (Django	 Unchained, 2012) említhető, míg a
+mozgalom XX. századi továbbélését – az 1970-es évekbe, a polgárjogi mozgalmak közegébe helyezve
+– Spike Lee Csuklyások (BlacKkKlansman, 2018) című munkája ábrázolta.
+Daniel Karlin, The	Figure	of	the	Singer (Oxford University Press, Oxford, 2013), 191. Az illető rádióműsorban debütáló ballada, melyet Dylan csak tíz évvel később, 1972-ben a Broadside	Ballads 6. kötetében adott ki lemezen a Donald	 White	 balladájával együtt, azonnal elnyerte a műsorvezető,
+Cynthia Gooding tetszését, aki azért dicsérte, mert a dalszöveg „a legkevésbé sem kelti azt az érzést,
+hogy meg van írva” (it	doesn’t	have	any	sense	of	being	written), mivel nincsenek benne „nyakatekert
+költői frázisok” (poetic	contortions). Mintha csak Wordsworth jó másfél évszázaddal korábbi, költői
+dikcióval szembeni szólamait hallanánk.
+
+2019. május
+
+135
+
+„
+
+Mindebből látható, hogy a romantikus műballadák örökségén túl a broadside balladák
+hagyománya – akár a vándorló („lopott”) dallamokat, akár a tragikus esetekre kihegyezett
+hírközlő funkciót tekintjük – is elevenen él tovább a XX. század második felében, igaz, javarészt a tengeren túl. S nem pusztán magányos dalnokok alkotásaiként, hanem zenekarok kollektív szerzésében és előadásában is, „rockballadák” formájában. Sőt, talán napjaink történetmondó rapzenéjét és street	 art	 alkotásait is idevonhatjuk. E példák tárháza minden korábbinál látványosabban veti fel a „népballada” és a „műballada” kezdettől problematikus
+megkülönböztetésének kérdését, mint ahogy a ballada irodalmi státusának kérdését is. Amikor 2016-ban az irodalmi Nobel-díj friss elnyerőjeként köszönetet mondó Bob Dylan saját
+szerzeményeinek zenei oldalát hangsúlyozta, annak adott hangot, hogy korántsem magától
+értetődő egyáltalán „irodalomnak” tekinteni ezeket az alkotásokat. Ahogy Shakespeare sem
+olvasásra, hanem színpadi bemutatásra szánta műveit, úgy a balladaköltő is előadásban,
+énekes-zenés produkcióban gondolkodik, a modern hang- és mozgókép-rögzítési technikák
+megjelenésével pedig hang- vagy filmfelvételben is.17 A ballada története egyebek mellett arra figyelmeztet bennünket, hogy a kimondott vagy írott szó művészete – énekléssel, zenével
+vagy akár tánccal is kiegészülve – gyakran olyan formát ölthet és funkciót hordozhat, amely
+nem könnyen szorítható az irodalomról mint írásról és néma olvasásról, illetve mint fiktív
+szövegről alkotott szokványos elgondolásaink keretei közé. A balladák szerzői-előadói mintha személyükben is hordoznák ezt a komplexitást. Ha a Mr.	 Tambourine	 Man alkotójában
+meglátjuk ezt a sokféleséget, akkor talán a Tamburás	 öregúréban is megpillantjuk majd, és
+akkor a ballada nem annyira letűnt korok népi vagy népieskedő történelmi relikviájaként fog
+állni előttünk, mint inkább a „populáris kultúra” próteuszi módon átalakuló, velünk változó
+és mindig kortárs elevenségének talán legtanulságosabb példájaként.
+
+17
+
+Bob Dylan, „Nobel Prize acceptance speech”, The	 Independent, 2016. december 11. Ez a gondolat
+Dylan néhány hónappal későbbi Nobel-előadásának is alapmotívuma lett: The	Nobel	Lecture (Simon
+and Schuster, New York, 2017).
+
+

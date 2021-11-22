@@ -1,0 +1,475 @@
+—
+
+^
+
+r
+
+Szekér Endre
+
+A mai magyar költészet
+. stílusáról
+
+A tiszatáj diák-melléklete
+
+17.
+
+1994. május
+
+A stíluson fordul meg minden. De a stíluson az egész embert kell érteni: nemcsak
+a szavak megválogatását, a mondatok kötését, hanem azt az erőt is, amely a szavak és
+mondatok mögül sugárzik az olvasó felé.
+Benedek Marcell
+
+A mai magyar költészet stílusának néhány fontos jellemzőjét szeretnénk vizsgálni
+a következőkben: időben főleg az elmúlt évtizedekben született versekét, térben pedig
+a magyarországi és a határainkon túl élő költőkét - a mai magyar irodalomtörténeti
+felfogásnak megfelelően. Mindenekelőtt azt nézzük meg, hogy mit értünk stíluson.
+Maga a stílus szó görög, ill. latin eredetű: az írásmódot, az írás fajtáját jelentette. A stílus
+maga az ember, mondta Buffon, de azt is hozzátette, hogy a gondolatok közötti rend
+és mozgás is lényeges. Kárpáti Aurél szerint a stílus mindazon ismertetőjegyeknek az
+összessége, amelyekben egy művészi egyéniség, kor vagy műfaj kifejeződik, másoktól
+elkülönül, felismerhetővé és megkülönböztethetővé válik. A költők sokszor vallanak
+a stílusról. Igaza van Arany Jánosnak, aki az Aisthesis című versében arról ír, hogy a
+nyelv törvényeiről többet tudnak a nyelvtudósok, de a költők mindig jobban érzik
+e rejtett nyelvi szépségeket. Arany János örökérvényű gondolatokat fogalmaz meg
+a Vojtina ars poétikájában a „hűtlen hívségről", Babits Mihály a szavak erejéről ír levelet
+fogarasi diákjainak, Kosztolányi Dezső a tíz legszebb francia és magyar szót méregeti
+stb. Illyés Gyula a stílus hitelességéről vall, s azt emeli ki, hogy „nem stílus az, amely
+mögött nincs ember". Fejtegetését úgy kezdi, hogy a művészet területére nem jut be a
+jellegtelen mű. Mindig éreznünk kell az igazi műben a stílus mögött lévő embert, tekintetét, homlokráncolását, szemszűkítését, karlendítését, lépésrakását. Ekkor válik a
+mű hitelessé, ekkor érezzük a jellemét. Illyés naplójegyzeteiben gyakran szól a stílusról: elutasítja a nagyképű stílust, a gondolatokat helyettesítő stílust, nem szereti a fölösleges szavakat, azt, akinek nincs stílusa. Máshol pedig az illetőt leleplező stílust mutatja be, többször visszatér az egyéniség középponti szerepére.
+A stílust általában „nyelvi stílusként" használjuk. Nem mindegy, hogy a nyelvi
+kifejezőeszközök közül melyeket választja ki az író. A stílus tehát mindenféleképpen
+választás kérdése is. Milyen szavakat, mondatokat, szöveget stb. alkot, mennyiben tér
+el a megszokottól, milyen meglepő szókapcsolattal él, melyikben fejezi ki leginkább a
+maga egyéniségét (kulcsszó, szóstatisztika). Olykor azonban éppen a hiány válik stílusértékké: a megszokott mondatból hiányzik valami, így válik eredetivé. Természetesen
+a túlzott eredetiség, eredetieskedés nem erény: valamilyen különös egyensúlyban kell
+lenni a köznyelvinek és az attól eltérőnek. A stílus kapcsán számos kérdés vethető fel:
+van korstílus, stílusirányzat (impresszionizmus), egyéni stílus (Babits Mihályé), a műfajoknak stílusa (verses regény). Beszélhetünk stílusrétegekről (társalgási), stílusárnyalatokról (ironikus), stíluseszközökről. Fábián Pál-Szathmári István-Terestyéni Ferenc
+A magyar stilisztika vázlata című munkájukban főleg a különböző nyelvi elemek stílusértékét vizsgálják. Szabó Zoltán Kis magyar stílustörténet című munkájában a kódex-
+
+3
+
+irodalom stílusától jut el az avantgárd stílusokig és a tárgyias-intellektuális stílusig.
+A stíluselemzés főleg egy-egy mű, alkotó vagy korszak jellegzetes nyelvi kifejezőeszközeit vizsgálja (pl. Fónagy Iván: Füst Milán: Öregség — dallamfejtés). Napjainkban például
+a költői nyelvben jelentős szinesztéziával foglalkozott P. Dombi Erzsébet az Őt érzék
+muzsikája című munkájában, Zsilka Tibor A stílus hírértékét kutatta, a szövegtani vizsgálatokban is kiemelkedő szerep jutott a stilisztikának (Békési Imre, Szathmári István).
+Jelentős a strukturalizmus hatása (Hankiss Elemér: Az irodalmi mű mint komplex modell). Természetesen e rövid áttekintésben nem tudunk minden jellemző stílustörekvésre, stilisztikai jelenségre utalni (mint Török Gábor A pecsétek feltörése, mai líránkat olvasva című munkájában). De a bevezetésben már figyelmeztetnünk kell az olvasót arra,
+hogy a hagyomány és újítás nyelvi küzdelmében sem az egyik, sem a másik nem tekinthető győztesnek. Egy-egy mű értékét valamilyen eredeti stílussajátság még nem határozza meg. Lehetséges maradandó értékű vers - hagyományos formában, semmiféle
+különösséget magában nem rejlő stílusban, és elképzelhető egy vizuális eszközökkel,
+a szövegköltészet értelmetlenségig elmenő eszközeivel megformált, kimondottan
+eredetinek tűnő mű - hatástalan. S még egyet: nagy költőink, például Illyés Gyula,
+Weöres Sándor, Pilinszky János, Nagy László, Kányádi Sándor, Szilágyi Domokos és
+mások jelentős költészetet tudtak létrehozni olykor rejtett, csaknem észrevétlen stíluseszközökkel, máskor pedig különösebb, kevésbé megszokott nyelvi eszközökkel. Talán őrájuk is illik Ignotus híres mondata a Nyugat indulásakor, hogy a költőnek minden szabad, amit meg tud csinálni. Ez a stílusra is vonatkoztatható.
+Anyanyelvünkhöz, a magyar nyelvhez költőink gyakran írtak vallomást, mint
+a szerelmesek. Illyés Gyula Koszorú című versében szól a „szél-kaszabolta magyar
+nyelvről", a hajszálgyökerek „kőharapó erejéről". Faludy György korábban írt verset
+A magyar nyelvhez, mely neki a „vándorutakon kísérő", „bőröm, bérem, bírám, borom, míg bírom...". Az emigrációba kényszerült Márai Sándor - az ősi nyelvemléket és
+Kosztolányi verscímét idézve - Halotti beszédet ír: „Nyelvünk is foszlik, szakadoz és a
+drága szavak / Elporlanak, elszáradnak a szájpadlat alatt." A magyar nyelvbe fogódzás
+erejéről szól az erdélyi Kányádi Sándor: „egyetlen batyunk botunk / fegyverünk az
+anyanyelv". Hiszen „aki megért/ s megértet/egy népet / megéltet" - írja a Játszva magyarul c. versében.
+A következő jellegzetes stílussajátosságokat vehetjük észre, a mai magyar verseket
+olvasva:
+1. Az evokáció, a költőtársak idézése
+Az evokáció annyit jelent, hogy a mai költő versében idéz egy korábbi ismert
+műből néhány szót, verssort, szakaszt. Ezzel tudatosan fordul a hajdani mesterhez, baráthoz: felidézi a korábbi mű és kor hangulatát. így egyszerre hathat ránk, az olvasóra
+az idézett költő és a mai lírikus, a távolabbi idő és a mai kor. Az idézet lehet cím, de
+előfordulhat bárhol. Elkülönítheti a költő más betűtípussal a saját szövegétől. Stílushatása ebben a különös többszínűségben, „többértelműségben" rejlik. Lehet olyan
+evokáció, mely a régi magyar költészetből idéz, a másik a közelmúltban elhunyt költőbarátra hivatkozik, a harmadik típus pedig külföldi költők magyar fordításaiból emel
+ki pár sort. Illyés Gyula A Helyőrségi Templom előtt című versében, mely A Semmi közelít c., hátrahagyott verseit tartalmazó kötetében jelent meg, hirtelen Kisfaludy Károly Mohácsinak híres sorával kiált fel („él magyar, áll Buda még!"). Az evokatív erő fokozza az Illyés versében lévő nyugtalanságot, az előző sorok izgatott felkiáltásait
+
+4
+
+(„A tornyok, a tornyok! / A zálogok!"), melyek aztán a keserű kijelentő mondatokkal
+folytatódnak („Már csak ez tartja őrhelyét, / templom nélküli omladék..."). Találkozhatunk azonban olyan versekkel is, melyeket kis túlzással „evokatív típusú" verseknek
+nevezhetnénk, melyekben a más költőtől átvett, idézett szavak, verssorok végigvezetnek az egész költeményen. Simonyi Imre Rendületlenül című verse evokatív jellegét
+már a címével is sugallja, és a vers egészét átszövi az idézett szó, újra meg újra Vörösmartyra hivatkozva: „De aztán - rendületlenül! / Ezt aztán - rendületlenül! / Hogy
+e-kívül, hogy e-kívül: / nincs más belül, nincs más belül". Másfajta evokációs megoldással él Simonyi Imre a Vallomás az utolsó szó jogán című versében. A gondolatjellel és
+idézőjellel elkülönített evokációs mondatokat megszakítja, a folytatást három ponttal
+jelzi. így az idézett sorok, az elhallgatások és az új vers önálló verssorai különös módon állnak össze, alkotnak egységes verset. A vers egységét még azzal a megoldással is
+érzékelteti, hogy a megszakított mondatok, az egymás utáni tárgyak a vers végén lévő
+állítmánnyal válnak teljessé. („Én már csak a zsoltárokat: / - 'Te benned bíztunk...' / És
+már csak a hazát:/-'Kárpátoktól le az Al-Dunáig...' .../Igen én bizony már csupán
+az / imádkozásra érdemes / dallamokat / dúdolgatom.") Érdemes felhívni a figyelmet
+arra, hogy a mai magyar költők igen gyakran élnek az evokációs stílushatással. Néhány
+érdekes megoldás: Utassy József versébe Radnóti sorai épülnek be - különösen kiemelt
+nagybetűkkel („IM ITT E KŐ, / hidege csontodé."); Rónay György átveszi Berzsenyi
+verscímét („A közelítő tél"); Rákos Sándor nagy verskompozíciót épít evokatív elemekből, a Hódolat az Ómagyar Mária-siralomnak címmel.
+2. Másfajta idézés: a stílusparódia
+A költői egyéniség határainak kiterjesztése - az idegen költő alakjába való rejtezés, a különböző modor, stílusöltözet kipróbálása és kigúnyolása. A magyar irodalom
+klasszikus alkotása Karinthy Frigyes így írtok ti című stílusparódiái. Az őt követő költőnemzedékek újabb és újabb kötetekkel, stílusparódiákkal jelentkeztek. Ezekben az irodalmi-stilisztikai görbe tükrökben különböző elemek jelenhetnek meg: felnagyítja a
+modort, eltúlozza a gyakori stíluselemeket, felhasználja az avantgárd túlzásokat, kigúnyolja a nyelvi modo.rosságokat. Benjámin László Kis magyar antológia, Bárány Tamás ...és így írunk mi, Tímár György Nem én írtam, Reményi József Tamás-Tarján
+Tamás Irtok ti így? és Mindent hét lapra című köteteikre gondolunk többek között.
+Szalay Károly Nevető Parnasszus című munkája régi és új irodalmi paródiákat tartalmaz. Benjámin László így mutatja be torz tükörben Weöres Sándort: kisdedóvónő és
+nirvanológus. Harap utca három alatt született a panyigai járás U községében. A lakcíme pedig Budapest, VII. kerület, Hallgatás tornya, a fogak tornácán rögtön balra. Ez
+a néhány soros bevezetés utal Weöres gyermekverseire (Harap utca...), A hallgatás
+tornya kötetének címére, aztán A Fogak Tornáca pedig versének a címe. A Benjámin
+László által írt Mélybölcs röpkék Weöres híres egysoros verseit gúnyolják ki: „Feneketlen fenék." „Csiperkegombát csipeget a csiga". A tömörítő versjátékot parodizálja ki
+Szalay Károly Por-rongyszőnyeg címmel. Ilyen egysoros verseket ír Weöres-módra:
+„Patkányáhítat." „Mosdótálbál." „Hokkedlijárvány." A megmosolyogtató vidám művek mellé illesszük az eredeti Weöres Sándor-verset: „Szárnysötét." „Tojáséj." „Liliomszörny." „Szemednek szegzett lándzsák: csillagok." A következőkben kiemelünk
+néhány jellegzetes stilussajátságot, melyeket a kritikus szellemű írók, költők tollhegyre tűztek. Benjámin László megmosolyogja Fodor József erőltetetten rövid szavait
+(„Izz"), Hidas Antal szavait szótagnyi verssorokba tördeli („te / ké / ré- / szé- / letű /
+
+5
+
+tetű!"). Másutt Simon István népies egyszerűségén tűnődik el („Együtt repültem a rigókkal, / mert volt biciklim, nagyfiús"), A halál gombja címmel pedig Pilinszky János
+kedvenc szavait keveri össze stílusparódiájában („Kiürül estére a semmi. / Ami nincs,
+a hold világít."). A Benjámin-paródiaversben lévő felkiáltás („Béna nyelvek a háztetők!"
+„Sírjatok értem, ereszek!") a következő Pilinszky-sorra épül az Utószó című verséből:
+„Segítsetek hófödte háztetők".
+Egy érdekes „kettős" paródiát figyeljünk meg. Kálnoky László Shakespeare XIX.
+Henrik címmel műfordítás-paródiát ír, melyben az emelkedett drámai stílust keveri a
+félig halandzsa, félig csinált nyelv elemeivel. Cs. Szabó László állapította meg egyszer,
+hogy még Shakespeare is szívből mulatna, ha élne, s tudna magyarul — Kálnoky versét
+olvasva. Az anyakirálynő szavai talán a Hl. Richárd Margitját, az őrjöngő anyát idézik
+elénk: „A Vérgonyasztón? O, süh! Pém! Piha! / Szotykon vatyorgó, páhás veckelem! /
+Süly rá, ki vity-váty cselkesek közin / ennhorja ellen ily pórén pocáz!" Tímár György
+Nem én írtam című kötetének ezt az alcímet adta: irodalmi karinthkatúrák, melyben
+Kálnoky Lászlóról is ír. „Hála" a személyi kultusz éveinek, Kálnoky legkitűnőbb műfordítóink egyike lett. S a műfordításokban gyakran stílust váltó Kálnoky műfordításparódiáját így parodizálja Tímár György: „Zubámra! Itt, e mörnye kálnokon. / Ha nem
+köhend csüsz s karba nam toháll, / Megböllen mind a gács pahony a nyérben / S csicsog, mint retepajd gulácsa." Az eredeti paródiában például a cölöpmadár „pityog",
+Tímárnál pedig „csicsog".
+3. A költői egyéniség teljesebb kiterjesztése: maszkok, álarcok
+Weöres Sándor egyik interjújában arról beszélt, hogy a XIX. században túlzottan
+előtérbe került az egyéniség, a költői egyéniség. Az ókori, a középkori, a barokk lírában azonban kisebb volt az egyéniség szerepe. Lényegesebbnek tartja az általános, az
+egyéniségfölötti vonásokat. Eliot egyik tanulmányában az elzárkózásról, a személyiség
+visszafojtásáról ír, Pound pedig az Isteni Színjátékkal rokon művében, a Cantókban a
+különböző korok és civilizációk mögé bújik. Pessoa meg „többarcú" költő, különböző
+önálló költői életművekből áll össze munkássága: a „saját maga" verseit egészíti ki
+Alberto Caeiro néven írt pásztori egyszerűségű vagy Ricardo Reis mögé rejtező ódaköltészetével. A modern magyar költészet egyik legnagyobb teljesítménye Weöres Sándor Psychéje. A költő belebújt a múlt századi képzelt költőnő, Lónyay Erzsébet stílusöltözékébe, így egyszerre archaizál, késő rokokó, korai biedermeier irodalmi világot
+idéz fel. Kortársa Kazinczynak, Csokonainak, eljut Goethéhez és Hölderlinhez. Psyché
+kalandjainak hátterében ott élnek a XIX. század elején a magyar nemesek udvarházaikban, és közben az irodalmi világ is ott kavarog: alakok, művek, stílusok. Olykor népies
+elemek jelennek meg: Psyché rózsában, rozmaringban, ezerjófűben mosakszik, „harmatos a teste". Máskor a pásztoridillek világát idézi - a Nimpha, Faun, Phyllidia, Mopsus
+emlegetésével. Valóságos versekkel teszi hitelesebbé ezt az elképzelt világot: Ungvárnémeti Tóth László, Kazinczy és mások verseivel. 1811-ben, Tállyán írta ezt a szerelmes
+dalt: „Kis kertemet tiprod, féktelen lovatskám, / Tiéd vagyok, érts-meg, légy óvatos
+hozzám. / Nem örömest mondám, / De gonoszok / Szája morog / Reám vádaskodván." Régies például a határozói igenév: „vádaskodván", az igeragozás: „mondám".
+A mai magyar költészetben gyakori a költői alakváltoztatás, amely természetesen
+stílusváltással is jár. Kálnoky László Homálynoky Szaniszló néven költői emlékiratot
+ad ki, a „magánzó" mögé rejtezkedik, különböző történeteket mond el ironikus stílusban. Részben teljesen önéletrajzi élményeket mesél, harmadik személyben, kívülről
+
+6
+
+nézve önmagát és korábbi életét (pl. igazolóbizottság, könyvtárosság, „váralja", azaz
+Eger). Részben lírai önéletrajzában az irodalmi élet jeles személyiségeit bújtatja el (pl. a
+hivatalához görcsösen ragaszkodó N. Egon csaknem kafkai világát rajzolva meg). Groteszk, ironikus, szellemes, derűs verseit hadd jellemezzük az Egy magánzó emlékirataiból című kötet Mi vagyok? című versének részletével: „Zongora a süketnémák intézetében, / kőkorszakbeli táskarádió, / csillagászati távcső egy szénbánya mélyén, / szélmalom teljes szélcsend idején..." - Rákos Sándor Társasmonológ címmel jelentette meg
+egyik verseskötetét, melyben különös módon szólalt meg Catullus és Berda József
+alakja mögé bújva. Catullusként vall Lesbiáról és a szerelemről („mikor ölelünk Lesbia /
+két partján állunk Lesbia / az óceánnak Lesbia"). Eredeti módon Berda-kultuszt teremt
+Rákos Sándor: elődeiről szól Anakreontól Villonig, fordításokat, filológiai magyarázatokat fűz hozzá. Majd Rákos Sándor Berda-szerű versekben vall: „Te csak / a zabáló-emésztő-ürítő szerkezetet / látod bennem, s nem a végsőkig / elszánt s örökösen
+csalódó altesti / hőst, akivé lettem gyomor és belek / drámájában, Tantalusz távoli rokonaként." Sohase felejtsük el, hogy a költői maszk, álarc használata - kitűnő költői
+lehetőség, stílusgazdagítás. Pl. Juhász Ferenc A tékozló országban mint vándorköltő
+idézi fel 1514-ből a Dózsa-parasztlázadás utáni világot; Kormos István szívesen jelentkezett szegény Yorick álarcában; Jékely Zoltán Ráfogások Ovidiusra, Tornai József
+Veres Péter-énekek címmel ír verset. S hogy milyen „komoly" dolog a szerepvállalás,
+a költői álarc használata, arra jó példa Veress Miklós verse, melyben az álarc levetéséről
+és felöltéséről ír. Vagy Rákos Sándor vallomása, amikor azt fogalmazza meg, hogy
+„az arcunk is álarc - s arc az álarcunk is".
+4. Verstáviratok, töredékek, körömversek
+Napjaink magyar költészetének egyik legjobban elterjedt jelensége: a versek terjedelmének csökkenése, töredékessé válása. Ez a jelenség csak távolról függ össze a
+romantika töredék-kultuszával, az avantgárd fragmentarizmusával. Török Gábor A pecsétek feltörése című munkájában ír az „elhallgatás beszédességéről", a tudatosan befejezetlenül hagyott versekről, a tömörítés különböző lehetőségeiről. Egy sajátos következménye lehet a töredékességnek: az olvasó megállhat a rövid vers néhány sorát
+olvasva, eltűnődhet, hozzátehet valamit, egyéni módon kiegészítheti azt. A költők maguk is elkülönítik rövid, töredékes verseiket, más-más címet adva nekik. Illyés Gyula
+abbahagyott verseket, verstáviratokat, töredékes verseket ír. A Semmi közelít című
+hátrahagyott verseit tartalmazó kötetében találhatjuk például a Törmelékről törmelékre,
+Töredékről töredékre, Tördelékről tördelékre című ciklusokat. Keresztury Dezső szilánkoknak, Garai Gábor töredéknek, Rába György torzóknak, Veress Miklós miniatúráknak, Vidor Miklós cserepeknek, Kálnoky László és Görgey Gábor verstöredékeknek, Kiss Dénes versmagoknak, Ladányi Mihály és Szepesi Attila vázlatoknak, Tamás
+Menyhért emblémáknak, Tóth Endre miniatűröknek, Ágh István elvetélt verseknek
+nevezi ezeket a töredékes verseket. A versek megírásának körülményeire is utalnak a
+költők: Kiss Anna „álmatlanul" írta e verseket, Hervay Gizella „világhuzatban" fogalmazta meg töredékes verseit, Kalász Márton „próbafüzetébe" ír néhány sort, Tandori
+Dezső „talizmánt" ír, Simonyi Imre „bagatelleket", Kányádi Sándor „körömverseket".
+Simonyi Imre verskötetének címe árul el sok mindent: Forgácsok egy fakeresztről.
+A töredékes versek stílusát is befolyásolja a terjedelem. A versmondatok lerövidülnek, hiányossá válnak, olykor csak szószerkezetek állnak egymás mellett. A szó
+szerepe különösen megnő. Illyés Gyula egy eredeti műfajt alakított ki: táviratoknak
+
+7
+
+nevezte őket, verstáviratoknak. Ezekből a verseiből külön kötetet is jelentetett meg.
+A távirat műfaja valamiféle hivatalosságot lop a lírai versbe, műfaja hagyományos értelemben az epigrammához, a gnómához közelít. Ezekben a versekben gyakori az ellentét, a csattanó. Pl. Egy tábort-váltó ítésznek című verses táviratában így üzen: „Egy kikötés. Töröld meg nyelvedet, / mielőtt itt nyalsz alfelet." Különböző stíluselemek
+keverednek ebben a parányi versben: az „ítész" gúnyos-régies színezetét az eufémisztikus szóhasználat („alfél") és a drasztikus „ajánlat" váltja fel. A Széchenyi szellemének
+című verstáviratát mottóval kezdi: „Honfinak lenni nehéz, de nem lehetetlen" (Széchenyi). Ebből indul ki, erre felel a vers: „így keverül ma a jaj s nevetés / »hív s hő« kebelekben: / magyarnak lenni nehéz, / de nem lehetetlen." Ebben a verstáviratban a kulcsszóként szereplő magyarságérzés, hazafiság eredeti módon felesel Széchenyi szavaival,
+az ellentétes megfogalmazással. Pilinszky János későbbi versei közt gyakori a vázlatosabb, a pár sorra szűkülő. Maga a költő többször vallott valamiféle „nyelvnélküliségéről", nyelvi szegénységről, a „kopárság szépségéről". Verséből kidobja a ballasztnak,
+feleslegesnek tűnő szavakat, s így tud felfelé szállni. Például az Életfogytiglan című verse
+csaknem a szó nélküliség költeménye: „Az ágy közös. / A párna nem." Nem több a
+vers: két sor, két mondat, hat szó, nyolc szótag. S mennyi mindent magában rejt! Az
+összetartozás reményét és reménytelenségét. Pilinszky négysorost, kétsorost ír, pár sorba tömöríti a Végkifejletet, a Betűk, sorok, a Mégis, a Trónfosztás, a Summa és más verseit. Olykor filozofikus magasságokba tud emelkedni (Pascal), máskor az emberi kapcsolat kihűlését tudja néhány sorba sűríteni: „Micsoda csönd, ha itt vagy. Micsoda /
+pokoli csönd. / Ülsz és ülök. / Vesztesz és veszítek." Először a csöndre figyel, ezt fokozza a pokoli jelzővel. A felkiáltásnak tűnő mondat érzelmi telítettségét visszafogja:
+csak kijelentés, megállapítás marad. Utána két ige, két mondat, három-három szó. Két
+személy ül ott, és két személy veszít emberi kapcsolatából. A fájdalom itt nem válik
+elégikussá, hanem csupán megállapít egy helyzetet, mely változtathatatlan. Ez is a nyelvi kopárság szépsége.
+Simonyi Imre Forgácsok egy fakeresztről című verskötetében számos töredékes vers
+olvasható, a költő szavát idézve ún. „forgács-vers". Például: „de szép is lenne a világ /
+ha hagynánk hogy szép legyen" - írja a Sóhaj című versében. Igen, ebben a vers-sóhajban eltűnik a hosszabb fejtegetés, és marad csak a végkövetkeztetés. S az is egyszerűen,
+az élőbeszéd fordulataival. Más jellegű töredékek Zelk Zoltán öregkori vers-sóhajtásai
+(„Most fogja meg most engedi el / Kezem az Isten?"), Berda József kórházi ujjgyakorlatai a kórházban csuklótörés után, vagy más típusúak Kányádi Sándor „körömversei".
+Vannak teljesebb rövid versei (pl. Hunyadi), és ismerjük a pársorosra, csaknem körömnyire szűkített verseit. Általában három sorból állnak a körömversek, a verssorok szótagszáma öt-hat-hét. Ezekben a versekben több a kijelentő mondat, csak néhányszor
+kiált fel a költő („Itt a körömvers / ideje, Kosztolányi!"). Majd ezt a két sorba tördelt
+mondatot így zárja le a harmadikkal: „Körömszakadtáig." A „körömversre" rímelő, azzal összecsengő befejezés konok következetességet, alkotói küzdelmet fejez ki. Kányádi
+körömversei pl. egy-egy szóösszetételbe („szögesdrót-eső"), felkiáltásba („Nyeld le a
+nyelved!") versnyi közlendőt sűrítenek. A költő két körömre is ír verset, ezekben két
+versszak, hat sor van egymás után. Az erdélyi magyarság sorsa is ott lappang a hangzók
+életét figyelve: „Áthasonulnak / lassan a hosszú hangzók: / janicsárulnak, / de a csé,
+a gyé / s még jónéhányan, akár / az egri védők."
+
+8
+
+5. Kommunikáció-élőbeszéd
+Napjaink - a kommunikáció kora. Mindig valamilyen tájékoztatás hangzik el,
+hírt közlünk vagy fogadunk be, az információk cseréjéről van szó. A legtágabb értelemben vett kommunikációt leszűkíthetjük az irodalmi kommunikációra, a költészet
+sajátos üzenetére, a képek és jelképek rendszerére, a kódolásra stb. (vö. Balogh László:
+Irodalom és kommunikáció). A kommunikáció kapcsán beszélhetünk modellekről,
+a kép nyelvi jellé transzformálásáról, a költői üzenet többértelműségéről. Stilisztikai tekintetben is sok mindent árul el a vers címe: utalhat a versírás alaphelyzetére, a költő és
+az olvasó kapcsolatára, ajánlhatja valakinek a versét, az alkotó megszólíthatja önmagát
+is. (Tanulságos lenne hosszabban idézni Németh G. Béla tanulmányát az önmegszólító
+verstípusról.) Illyés Gyula verscíme fontos megszólítást tartalmaz: Óda a törvényhozóhoz, Vas Istváné könnyedebb: Oda a tegnapi asszonyokhoz. Önmagát szólítja meg és biztatja Benjámin László: Ne szégyenkezz, ne legénykedj! S a csúnya, „hivatalos" szóval valóban többrétegű kommunikációs kapcsolat rejlik Kányádi Sándor Koszorú című verse
+mögött. Egyrészt az alcímben Simon Bolivarnak és San Martinnak, az ő emléküknek
+ajánlotta a költő ezt a verset - a Dél keresztje alatt című, dél-amerikai véreinek küldött
+ciklusban - , másrészt nagyon személyesen ő maga szól kiszemelt sorsáról, stációiért a
+„megkorbácsolt Krisztusért", de a többiekért is. S ha kommunikációról van szó, akkor
+nem felejthetjük Kányádi Sándor versmondását 1990. március 20-án a Hősök terén,
+amikor tiltakoztak Sütő András marosvásárhelyi megtámadása miatt.
+Gáldi László A legújabb magyar költészet stílusproblémáiról írt tanulmányában szól
+a költői nyelvbe benyomuló élőbeszédről, pl. Szabó Lőrinc versét idézve. Fodor András Rembrandt még egyszer megnézi az Éjjeli őrjáratot című versében a párbeszédes megoldás, az élőbeszédben gyakori szavak őrzik a lényeget: „- Mit vigyorogsz öregember? /
+- Rájöttem valamire. / - Ugyan mire, bolond? / - Hogy nem éltem hiába." Thinsz
+Géza Variációk egy ismert témára című verse valóságos élethelyzetet idéz: „Ön ugye
+nem svéd? / Nem / svéd?? / Ugye!"... Tóth Bálint Bűntudat című versében is a kommunikációs kapcsolat közvetlenségét érezzük: „- Hallottad? Meghalt. / - Igen. Már kora reggel." Csukás István versének ez a címe: Miért cigarettázol annyit? Simonyi Imre
+Pár pohár rizling egy régi bormérésben című versében Tímár Józseffel való beszélgetését
+örökíti meg ( Utoljára még Krúdyról beszéltünk... csak arról, hogy okos fejjel nehéz
+boldogan megöregedni...") A költő a folyamatos, hosszan tartó beszélgetést a versszakokon átívelő, be nem fejezett összetett mondattal érzékelteti.
+6. Vers-kérvény — azaz a hivatalos stílus hatása
+A költő gyakran félreteszi „líraiságát", nem akar annyira személyes lenni, ezért a
+vers külsejét, stílusát is átformálja, hivatalossá teszi. Ez az objektivitás, ez a hivatalosság
+már észrevehető a vers címében is: kérvényt ír, jegyzőkönyvet fogalmaz, leltárt készít,
+használati utasítást ír, űrlapot tölt ki a költő. így alakul ki egy különös feszültség: az
+én-központú lírai költő látszólag hivatalos, objektív lesz. Ez általában nem valóságos
+ellentét, hanem inkább a költő lírai kifejezési eszközeinek gazdagodása, újfajta stíluslehetőségek megragadása. Szilágyi Domokos Kérvény című versét a hivatalos irat megszokott szavaival kezdi („Alulírott... lakos"), de azonnal átszínezi a maga bizonytalan
+sorsának érzékeltetésével: „Alulírott, ideiglenes / lakos a X X . / század negyedik, ötödik, / hatodik s hetedik emeletén..." S ezt a képzeletbeli vers-kérvényt nyújtja be Elmúlás őfelségéhez, olykor a végítélet trombitáját hallgatja, amely talán Honegger-dallam
+
+9
+
+volt. Hervay Gizella verscíme: Űrlap. Hivatalos iratot készít versben, leltárt ír, tárgyilagos akar lenni („Kérem a másolatot"). Határ Győzőt talán a gyakran megkövetelt önéletrajzok írása ibiette meg, és Életrajz címmel ír verset („apám Gyomán nyomdászkodott, de katlan / elméjére Doberdó ráborult / s én kötetszám százszorszép kéziratban /
+maradtam kötetlen-nyomatlanul"). S még inkább hivatalos jellegű az 1958-ban írt Felfolyamodvány című verse, melyet Gerő Ernőnek, a volt magyar kommunista párt első
+titkárának küld el „Carszkoje Szjelóba". A megszólításban a látszólagos udvariasságot
+elnyomja a gúny és irónia: „Osztálynélküli, osztályunkon-kívüli, osztályfölötti Kegyelmes Herceg! Felséges Választófejedelem!"
+Baránszky László Közérdekű közlemények címmel ír verset („többnyire már az első
+dózis megteszi"); Gömöri György Közleményt fogalmaz („Az Adács-Karácsond-Ludas
+menetirányú..."); Rónay György Jelentés című versében főnévi igeneves mondatokban elvégzendő teendőket jegyez fel („Elhordani a törmeléket."). Thinsz Géza a Hírügynökségünk jelenti című versében szellemes ötlettel össze nem tartozó dolgokról ír,
+másutt meg komolyan „Minden külön értesítés helyett" fogalmaz meg valamit. A felirat, a falragasz, a plakát, a figyelmeztető utcai tábla - versekben is megjelenik. Pl.
+Szemlér Ferenc versében: „AZONNAL VÉGREHAJTANDÓ! NINCSEN KEGYELEM!" (Haladék)
+7. „Akarsz-e játszani?" Költők és a játék
+A játék és a költészet elválaszthatatlan egymástól. Kosztolányi az egész életet átfonja a költői játékkal (pl. rímjátékokkal), és verscímével fordul mindenkihez: Akarsz-e
+játszani? Szilágyi Domokos Játékok című versével talán még többet árul el: ő „életesdit"
+szeretne játszani, meg Európát, mert azt kellene játszani, ami nincs. Keserű, komoly
+játék ez, teli álmokkal. De a költői játék azért vidámabb is lehet ennél, hisz farsangi játékban álarcot ölthet, másnak mutatja magát. Kimeríthetetlen játéka pedig a nyelv.
+Weöres Sándor Hangcsoportok című versében a puha, forró hangok mellett a gyors, vidám hangokat is észreveszi. Játszik az egyszótagos, mély hangrendű o-kat tartalmazó
+szavakkal (Hold). A Fabula című versének szavait így rakja egymás után: Egy / hegy /
+megy. A Keresztöltés egyszavas, négysoros és négyoszlopos elrendezése vidám játékra
+hívja az olvasót: függőlegesen és vízszintesen is olvashatja a verset:
+kövér béka tavon hintáz
+árnyék moccan akác ágán
+habos virág szirom ezer
+csillag mellett felhőfátyol.
+Weöres költői játékvilága szinte határtalan: gyerekverset ír, halandzsa szöveget
+fogalmaz, falfeliratokat, kéziratos „kódexet" ír stb. A furcsa faluneveket verssé formálja
+(„Csempeszkovács / Kajószentpéter / Taktaszada"), a Téma és variációk című versében
+az alapszavak keverésével mosolyra derít („Ma szép rabkocsi van, csupa töltés, sugárzik
+a remek napba és kutyás árokszélek hangzanak a futkosásba, még az idő is nótázva
+mindenkizik."). Kisfiúk témáira ír verset: „KARESZ HŰJE / GYÖNGYI HŰJE /
+csak én vagyok okos / énnekem a segembe is felyem van."
+Lukácsy András Kiment a ház az ablakon című munkája majdnem 600 oldalon
+foglalkozik a költészet és játék kapcsolatával. Vargha Balázs Játsszunk a szóval! című
+könyve szeretné elcsábítani az olvasókat pl. intarzia- vagy eszperente-játékra. Végh
+
+10
+
+György félbemaradt verskezdeteket, „csacsizmusokat", gyerekverseket - Weöres-módra - , rímjátékokat, sírfeliratokat, verstant ír: versben. Egyik ciklusát versfricskáknak
+nevezi („miktől kinyílik a bicskád"), máskor meg Rím Elekként ír aforizmákat („Bezár a bazár, / ha főnöke Baltazár"). Buda Ferenc Mese című verse nemcsak játék a „kő"
+előtagú szavakkal, hanem komoly tanulságot is elrejt benne. („Kőország / kővilág /
+kofákon / kő az ág...") Sziveri János verscíme sem játék, hanem szomorú valóság:
+a „Balkánon" lakik, ahol a „soros tirannus markában" vannak. S a játékos versforma,
+sorelrendezés és rímválasztás sem fedi el a Szívintarzia fagyos hangulatát, keserűségét
+(„Vésd eszedbe, csontba, kőbe: / hagy- / ma szíved tépd ki!"). S az utóbbi évtizedek
+egyik legnagyobb vitát kiváltó verse: Nagy Gáspár Öröknyár: elmúltam 9 éves című
+költeménye, mely 1984-ben jelent meg. Az utolsó versszak három sorának befejező
+szótagjait nagybetűvel emelte ki. Ez „játékos" ötletnek tűnik, de a háttere komoly,
+elfedett valóság. Nagy Imre kivégzéséről, mártírhaláláról, gyilkosairól nem lehetett
+beszélni, írni. Nagy Gáspár verse bátran figyelmeztetett az N. I. monogrammal Nagy
+Imre tragikus sorsára: „egyszer majd el kell temetNI / és nekünk nem szabad feledNI /
+a gyilkosokat néven nevezNI!" S itt utalhatunk a tartalom és forma különös egységére,
+a nyelvi kifejezőeszközök erejére.
+8. A műfajok és a stílus
+Weöres Sándor A vers születése című tanulmányában ír a versszöveg és dallam
+összefüggéséről, a próza és a vers sajátos megkötöttségeiről. Benedek Marcell Az olvasás
+művészete című könyvében többek között a dal, az elégia, az óda, a rapszódia, az epigramma sajátosságait elemzi. Természetesen a műfajok befolyásolják a stílust. A mai
+költők ritkán írnak pontosan valamelyik régi műfaj szabályai szerint, gyakran átformálják, kitágítják a műfaji kereteket. Weöres Sándor szívesen ír dalt (Barbár dal), Bella
+István Himnuszt, Nagy Gáspár Mai zsoltárkivonatot, Bartalis János Kései bukolikát,
+Rónay György is a címben jelzi a műfajt: Elégia a Hangli hársfáiról („Hanem a lomb,
+a régi lomb, / itt bólong bennem, és e dalban"). Jékely Zoltán egész költészetét az „idősárkánnyal" folytatott fájdalmas küzdelem jellemezte pl. az Elégia egy rabhoz című
+versében is („de adtam-é valóban kínjaidra / akár egy pillanatra balzsamot..."). Napjainkban gyakori a hajdani episztola valamilyen kötetlenebb formája, egy újfajta költői
+levél. Vas István például Kegyetlenül döcögő levelet ír Zelk Zoltánnak: „Zoltán, egy
+szó, mint száz: nem kell azzal beérni, / Hogy jobb részed amúgyis halhatatlan." Különös korjelenség a következő: a legkülönbözőbb nem lírai műfajok - az emlékirattól a
+drámáig - valamiféleképpen megjelennek a versben. A költők - ezt a stílust is befolyásoló hatást - a művek címében is bevallják. így Somlyó György Regényrészleteket, Orbán Ottó Magyar emlékiratokat, Lakatos István Három elbeszélő költeményt, Marsall
+László Apokrif részletet ír Casanova emlékirataiból. Elég gyakori az esszé-vers. Kálnoky László Eszmefuttatás a költészet mikéntjéről című versében így vall: „A fenségest,
+a magasztosat / ma már egyensúlyozni illik." Vas István folytatja Arany János Vojtina
+ars poétikáját, Páskándi Géza A papírrepülő eltérítése című kötetében vall a mimézisről,
+a metaforákról stb. S az esszéíró Cs. Szabó László A cbartres-i rózsa című versében
+esszéisztikus elemeket találunk („lelkesedő fény kísér a kőbe szentelt Madonna
+szivéig... ).
+
+11
+
+9. „A megmozdult szótár" (Weöres Sándor)
+Weöres Sándor A megmozdult szótár című versében írja: „csillag és rózsa násza /
+csilrólagzsa / asztal felszekrényedő / asztrény / borjúból birka berúgsz belőle / borjuh"... Valóban a költői nyelvben minden megváltozhat: új szóösszetételek keletkezhetnek, régi szavak élővé válhatnak, szokatlan szóhangulat alakulhat ki stb. Ratkó
+József „halóföldjén" jár, Illyés a „törzs szavait" keresi, Kiss Dénes a „szavak kengyelfutójának" nevezi magát, Bella István „szanaszét szócsonkokat" talál, Takács Imre
+„versmondatokat" ír. Sumonyi Zoltán Értelmező szótár című versében „rejtett alanynak" nevezi szerelmesét, „állítmány" a tudod, a „mellékmondat" az, hogy szeretlek. Itt
+a nyelvtani fogalmak kaptak új jelentést és szóhangulatot. Iszlai Zoltán gyerekeknek
+való házi feladatot ír az azonos alakú szavak gyakorlására. Thinsz Géza Szórakás című
+verse gúla alakú. Gömöri György a birtokos személyragozás alkalmazásával - Petőfi
+emlékét őrizve - külön hangsúlyt ad a szabadság szónak és személyragjainak. Gál
+Sándor metaforikus szókapcsolatai sokat kifejeznek, önmagukba sűrítenek: a vers
+lávaömléseiről, Nagy László harangszaváról, Szilágyi Domokos sziromszaváról ír.
+Tamás Menyhért á Versailles mellé a „vér könny/ vert száj" szavakat illeszti, távoli-különös képzettársításokat ébresztve. Határ Győző „gorilla-képtárról", „dühödt tigristelevényéről", pálló „szájkereplőről", keserves „bászliságról", „repülő hullámsivatagról"
+stb. ír. Határ a Cantus firmus című versében, melyet az álmatlanságról írt kesergőn és
+dicsérve, ezt írta: „boldog bádogcsúszda a Belül-Hornyagolt Aranyoszlop Ülep-Végén:
+létünk alsó orificiuma!" Bóka László Latin grammatika című verse az elöljárószavakra
+épülő vallomás: „Circum, circa: ó, ölelne, átkarolna két karom..."
+Az utóbbi időben megnövekedett a névutók, kötőszók stb. szerepe. Nemes Nagy
+Ágnes Között címmel ír verset („Az ég s az ég között"), Vas István Mégis, Még Majd címen. A Korán sötétedik című versében Vas István halmozza a bizonytalanságot kifejező
+„talánt" („Talán talán talán még"). Szintén ő fogalmazza meg a töltelékszavak elburjánzásának tünetét: „végeredményben nem fontos más, csak a csak meg a csak meg a csak" írja a Határozók és kötőszavak című versében. Aztán napjainkban az írásjelek is fontoskodni kezdtek, önállósultak. Palocsay Zsigmond A vigasz fája című verskötetében rengeteg a felkiáltójel és a kérdőjel („akit már nem szeretnek / !? !? !? !? !? !? !?!?"). Király
+László Februári kékség című versének egyik sora pontokból áll, a másik pedig a verssor
+elején és a végén tartalmaz ilyen jeleket:
+peng bong a kék ég
+" Széttöredezik a
+verssor, a mondat. Képes Géza lerövidíti a verssort, Juhász Ferenc versmondatai szinte
+a végtelenbe hullámzanak. Tolnai Ottó Wilhelm-dalok, avagy a Vidéki Orfeusz című nagyobb verskompozíciója - mely Pechán József festménye és munkafotói alapján készült - általában rövid mondatokra épül, de azokat halmozza („üzent a pösze néni /
+üzent tele van a pöcegödre"). Csorba Győző versmondatai rövidek, töredezettek („Fáj,
+hogy fogyóban?... / Elfogyóban? / Alig. Tudomásul veszem."), de néhányszor a vers
+végéig ível a mondatszerkezet (Szigor). A különlegesen az egész versen áthullámzó, ritmikus szerkesztésű összetett mondatépítményre kiemelkedő példa Illyés Gyula Egy
+mondat a zsarnokságról című verse^ melyet a költő 1950-ben írt, és csak 1956. november
+2-án jelenhetett meg az Irodalmi Újságban. (S utána is hosszú ideig itthon csak kéziratban terjedt, s csak a Menet a ködben című kötetben látott napvilágot 1986-ban.) A legnagyobb magyar versek egyike Illyésé, mely nemcsak a tragikus megaláztatásokkal teli
+kor megrázó erejű ábrázolása, hanem zenei erejű, drámai ismétlésekkel teli, pontosveszszővel meg-megállított hatalmas mondat-székesegyház. („Hol zsarnokság van, / ott zsar-
+
+12
+
+nokság van / nemcsak a puskacsőben, / nemcsak a börtönökben, / nemcsak a vallató
+szobákban, / nemcsak az éjszakában / kiáltó őr szavában, / ott zsarnokság van / nemcsak a füst-sötéten / lobogó vádbeszédben, / beismerésben, / rabok fal morse-jében...")
+10. „Nyelv és varázs" (Fehér Ferenc) - Néhány stílustörekvés
+a) archaizálás
+Az ősi finnugor népköltészet hatását vehetjük észre Kormos István Vogul menyegzőjében, a vers alliteráló soraiban, ismétléseiben („Vizes vödreit forráson / az asszonyanya megtölti, / megyen haza, a házba lép..."). Török Elemér Sámándobok című versében a „bűvölés" él, Hervay Gizella az ősi ráolvasásokat idézi a Szemmelverő soraiban,
+Horváth Imre Evszakváltó mondókájában a gyermekjátékok kedvességével lep meg.
+Szepesi Attila „deákos" hangon szólal meg („ifjúság mint sólyommadár / akkor szép ha
+szabadon jár" - Három sugaras ének), Buda Ferenc a régi istenes és népies költészet elemeit ötvözi a Szólásért való énekben („Szánj meg, Uram, ügyeimben, / lakhassam ligeteidben..."). Baka István változatokat ír egy kurucdalra, Fáy Ferenc meg bujdosó éneket.
+A hajdani verbunkost modernizálja Kovács András Ferenc Oeurópai mars (verbunkos)
+címmel: „Föl pörösök pomeránok / Billogosok fapofák".
+b) a népköltészet hatása
+Csoóri Sándor Szántottam gyöpöt című tanulmányában a magyar népköltészet realista, szimbolista, szürrealista - szinte József Attilát és García Lorcát idéző - modern
+vonásairól írt. Illyés Gyula Szegénylegény, Postakürt; Fodor András Bűvölt bűvölő;
+Csoóri Sándor Anyám fekete rózsa; Fehér Ferenc Lírai madártan, Nyelv és varázs („Nem
+a cipót - csak az anyát / kenyérszelő mozdulatát"); Ratkó József Dal; Serfőző Simon
+Kikészül az erő c. verse stb. — mind-mind a népköltészet hatását mutatják. Buda Ferenc
+ősi nyolcasainak egyszerűsége, gondolatritmusa, természeti hasonlatai közel állnak a
+népdalhoz: „Ne rejtőzz el, úgyis látlak / Rádcsukom a szempillámat." Hatvani Dániel
+az alföldi sártengerről, a nyárfaerdők suhogásáról vall: „Áznak a tanyák. Kétszázéves /
+nádereszről csurog a víz." A népdal „megnemesítése" - mint Kölcsey mondta - , a népköltészet és az ősi ráolvasások fonódnak össze Nagy László Szépasszonyok mondókái
+Gábrielre című versében. A költemény egy 1614-ből való mottóval kezdődik, majd a
+vers folytatja ezt a bűvölést: „Gábriel / Gábriel / Gábriel / árnyékodért selyemingem /
+ázik el / ágy havasán fejedelmem / húrjaidon hegedősöm..."
+c) „A Múzsák testvérisége" (a különböző művészetek hatása)
+Gyertyán Ervin a Múzsák testvérisége, Tüskés Tibor Testvérmúzsák című kötetében ír a különböző művészeti ágak összefonódásáról. A vers és a zene kapcsolata ősi
+eredetű. A modern magyar költészetben különösen zenei alkat Szabó Lőrinc és Weöres
+Sándor. Weöres zenei kompozíciókat ír versben: szimfóniákat, kórust, dalt, zsoltárt,
+kantátát stb. A Dob és tánc című versében nagy szerepe van az ütemnek: „csönd / béke /
+csönd / béke / fény / csönd fény /béke csöndje / fény békéje csönd"... Szathmári István a mai magyar költői nyelv sajátosságait elemző tanulmányában „szavakra, szintagmákra daraboló" versként vizsgálja Weöres művét. Illyés Gyula a Bevezetés egy Kodályhangversenyhez című versében a „zenekari mélyből" áradó zeneiséggel, erővel, múlttal
+köszönti a mestert, egy helyütt a keresztrímekben a Himnuszhoz kapcsolódva: „Karmester, nemcsak ezt a kart / vezényeld, jól tudod, / hanem egy népet, a magyart..."
+
+13
+
+Gyakori a költészetben a festőiség, amely még a verscímekben is megfigyelhető; Nemes Nagy Ágnes: Teraszos tájkép, Végh György: Őszi akvarell, Kányádi Sándor: Festmény. Csanádi Imre számos képzőművészeti vonatkozású verset írt, pl. Gyámkőfejecske,
+Mária találkozása Erzsébettel. A Quo vadis a csíksomlyói mester oltárképét idézi, a palást pirosát, a bélés zöldjét, a boglár aranyát, a csíki hegyek zöldjét. Juhász Ferenc Emlékezés egy vérző-arcú képre című versében Mednyánszky László Sebesültjének, sárga
+színeit villantja elénk. Napjainkban pedig hat a film (Zalán Tibor Hommage á Buñuel),
+a fotó (Illyés Gyula Két flash-villanás a múltba), a televízió. Illyés Televízió című verse a
+szobánkba belopakodó borzalmakat idézi („Befut elénk forgatva készülékét / egy-egy
+merész s ügyes film-operatőr / a new-yorki világlapokból így / kar-közeiből látjuk az
+özvegy arcát").
+d) A szóképek szerepének megváltozása
+A Nyugat nemzedéke meghonosította irodalmunkban a szimbolista, impresszionista stílust és nyelvi kifejezőeszközeit (lásd pl. Tóth Árpád jelzőhasználatát), majd elterjedtek az avantgárd törekvések: az expresszionizmus „kiáltásai", a szürrealizmus
+látomásossága, merész képzettársításai stb. Nemes Nagy Ágnes A vers mértana és A költői kép című tanulmányában az „átvitt értelmű látványról", a hasonlat terjeszkedéséről,
+a metafora igazi jelbeszédéről ír. Gyakori a metafora (pl. Nagy Lászlónak „a dombhát
+aranyplakát", „a magaslatok hóhéra, villám"), a szinesztézia (Szemlér Ferenc „kék egyszín-csendről" ír), a metonimia (Nagy László: „száz füle van a völgynek"), a hasonlat
+(Csoóri: „orromban a fagyos por szaga, mint mozsárban megtört, erős borsé") stb. De
+nem a hagyományos szóképek jellemzők a mai magyar költői nyelvre. Szilágyi Domokos búcsúzik a trópusoktól, a „porcelán szinesztéziáktól", Pilinszky a „kopárság" szépségéről vall. Bár Juhász Ferenc verseiben „metaforazuhataggal" találkozunk, gyakori a
+metaforikus szóösszetétel (Szilágyi Domokos „Bosch-pofájú ördögről" ír), mégis jellemzőbb a „díszítő" eszközök elvetése (Csorba Győző: Szürkülni kezd), a nevek „szóképszerű" használata (Simonyi: „És Zrínyi?! És Ady? És Bartók? És Zsilinszky?").
+e) A hosszúvers
+A „hosszúvers" látszólag kötődik a hajdani eposzi vagy verses regény hagyományaihoz, de itt kozmikus méretűvé válik a lírai én, különösen fontossá válnak a költői
+nyelv eszközei, képei, metaforái. Juhász Ferenc A halottak királya című eposzában TV.
+Béla és a tatárjárás korát idézi fel, látomásosan, nagy átéléssel. A Gyermekdalokban
+több száz oldalon halmozza látomásait („Jaj, micsoda habos fújás, tajték-bömbölés, tajték-rohanás, szőr-lángú rengés, habos vicsorgás..."). Nagy László Menyegzőjét a romlás
+képeiből épülő „katedrálisnak" nevezi Kiss Ferenc („s mi felszalagozva és megkoszorúzva a dörgő időben, / arccal a tengernek itt feszülünk öntve szoborrá!").
+f) Vers, próza, verspróza
+Elmosódott a vers és próza közti határ, gyakori a franciáktól tanult prózaköltemény (Baudelaire, Rimbaud). Átmeneti szövegforma a prózaköltemény (pl. Vas István:
+Via Appia), a prózavers 0uhász Ferenc: Gyermekdalok), a verspróza (Juhász Ferenc:
+Vázlat a mindenségről). Ezek nem választhatók el mereven egymástól. Érdekes, hogy
+Illyés Gyula Gyermekkorom lángjai című prózakölteményét a Körkép elbeszélései és a
+Minden lehet című kötetének versei közt is közli. Kassák Lajos, aki a magyar szabadvers
+és a magyar avantgárd mestere volt, gyakran írt prózaverset. Prózainak látszó sorai
+
+14
+
+költői fényt kapnak: „Egyszerre vagyok részese a pokol ostromának és az Úrfelmutatás
+pillanatainak. Védekezni szeretnék, de megadom magam. íme, a zene, a világűr és az én
+csillagom." (Zene)
+g) Összetett verskompozíció, montázsszerű elemekkel
+Szilágyi Domokos Bartók Amerikában című versének szakaszait a könyvoldal hol
+bal, hol jobb oldalára csúsztatta, s közben a messzi Amerikából hazagondoló Bartókot
+népdalelemekkel jellemezte („Hova vetemedtél / hova vetemedtél / szivárvány havasról..."), majd bibliai idézet („Gyöngyeiteket ne hányjátok a disznók elé...", Máté, 7:6),
+Lászlóffy Aladár versidézete következik („s a világot bármikor újraköltöm"). S ezen
+vendégszöveg után továbbhullámzik a költő saját szavaival a vers: „Szereti a világ, ha
+újraköltik..." Vagy a Haláltánc-szvit című versében Szilágyi Domokos különféle
+nyomdatechnikai eljárásokkal kiemel, aláhúz, jeleket tesz, és Shakespeare-, Csokonaiés más idézeteket épít versébe. Egy helyütt Bartók szavait idézi: „Doktor úr, csak azt
+sajnálom, hogy tele bőrönddel megyek el." Itt Werbőczi Tripartitumára hivatkozik,
+amott egy zsoltárra. A kimondottan nagy vers a különös módszerével, stílusával együtt
+válik azzá. Károlyi Amy Kulcslyuk-líra című kötetében - megunva a verseket - „mást"
+csinál: benéz a kulcslyukon, mások szavait idézi: pl. Zrínyiét, Weöres Sándorét, Ányos
+Pálét („koporsós lelkek", Zrínyi).
+11.4 „látható nyelv" szerepének megnövekedése
+Zolnai Béla nyelvész használta a „látható nyelv" elnevezést: a kurzív szedésre,
+a ritkításra, a különböző interpunkcióra gondolva. De manapság fontosabbá vált a költői üzenetet még jobban továbbító külső forma, a rövidebb vagy hosszabb verssorok,
+a képvers, a messzire kiáltó betűtípusok stb. alkalmazása. Nagy László csupa nagybetűvel írta a Betűk gyászőrsége című versét: „ITT NYUGSZIK A HARMINCKETTES
+GYALOGEZRED." Buda Ferenc Roham című versében a jobboldalt lévő verssorokkal szemben baloldalt emelte ki a RIADÓ és a ROHAM szavakat. Ezek a szavak kiáltanak. Király László Tábla című versében az aradi, kivégzett tábornokok nevét láthatjuk, mintha márványba vésné: AULICH LAJOS... Ács Károly Matuzsálem példái című
+versében a baloldalt lévő költői idézetekkel szemben ott állnak az ezekkel összecsengő
+verssorai:
+Negyedik példa: lázadás
+„Eltem bár nem akarták hogy
+éljek"
+(Kassák Lajos)
+
+Ezért ne paktálj le soha senkivel;
+legtovább ér, ki ár ellen evez.
+
+Nagy László vonzódott a képvershez, szívesen rajzolt, küzdött önmagában a költő és a képzőművész: miből, mennyit hagyjon a versben. A Kereszt az első szerelemre rövidebb és hosszabb verssorai keresztformát öltenek, az Árvácska sírverse is keresztként
+áll nagyobb betűkből álló verssoraival.
+12. Szöveg és vers - szövegköltészet
+Béíádi Miklós a Költészet és nyelv című tanulmányában elemzi a vizuális költészet
+sajátosságait, a párizsi Magyar Műhelyben napvilágot látott alkotásokat. Ezekben a
+szövegekben az „irodalomnak írnak", ezoterikus módon, elzárkózva, kívülállást vállalva, gyakran az értelmetlenség határáig elmenve. Jeleket alkalmaznak, széttörik a szava-
+
+15
+
+kat és a mondatokat, nagy jelentőséget tulajdonítanak az ábécének, idézeteket használnak fel. Szeretik a szótárszerű megoldásokat, számukra különösen fontos a tér szerepe.
+A párizsi Magyar Műhely köréhez tartozik Papp Tibor, Nagy Pál, Bujdosó Alpár.
+*
+
+Összefoglalásképpen a következőket állapíthatjuk meg a mai magyar költészet stílusáról. A Nyugat formai hagyományai (pl. a szonett; Szabó Lőrinc, Faludy György,
+Vas István) és az avantgárd merészebb megoldásai továbbélnek napjainkban (Illyés
+Gyula, Weöres Sándor). Az utóbbi időben megnövekedett a költői egyéniség kiterjesztésének szándéka: álarcot öltenek (Kálnoky László), utánozzák költőtársaikat, idéznek
+tőlük saját versükben (Simonyi Imre). Megváltozott a versek terjedelme: gyakori a túlzottan rövid, töredékes vers (Pilinszky János, Kányádi Sándor), mások pedig a hajdani
+eposzok terjedelmét irigyelték meg (Juhász Ferenc). A hagyományos lírai műfajokat átformálják, új műfajokat keresnek. Kevésnek tartják önmaguknak a megszokott nyelvi
+kifejezőeszközöket, ezért keresnek és kérnek kölcsön kifejezési lehetőségeket a képzőművészettől és a zenétől. A vers üzenetet hordoz, így a kommunikáció újabb formáit
+keresik: megszólítják az olvasót, közvetlenül élőbeszédes megoldással szeretnének közelebb kerülni hozzá. Máskor meg a hivatalos közlemény formájával lepik meg olvasóikat. Sok költő szívesen kötődik a múlthoz: ősi és népi stíluselemeket használva fel
+(Nagy László, Kormos István). Nagymértékben megnövekedett a vizuális, a látható
+nyelvi eszközök használata, felfedezése. A költők egy szót, verssort kiemelnek nagybetűvel, verssoraikat szabálytalan módon rendezik el, képverset is alkothatnak. Gyakori a vendégszövegekre épülő verskompozíció (Szilágyi Domokos). A nyelvi elemek
+közül csaknem minden hang, szó, mondat fontossá válhat (Illyés Gyula: Egy mondat a
+zsarnokságról). Költőink nagyon szeretik anyanyelvünket, megújítják, vallanak róla,
+örökségül hagyják ránk: „Szent e nyelv! S több kincsed nincs neked! Oly csodás nyelv
+a magyar. Révület fog el, ha rágondolok is." (Füst Milán)
+
+16
+
+

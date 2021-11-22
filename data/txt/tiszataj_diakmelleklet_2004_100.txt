@@ -1,0 +1,657 @@
+A TISZATÁJ DIÁKMELLÉKLETE
+2004. MÁJUS
+
+100. SZÁM
+
+VADAI ISTVÁN
+
+Egy hiányzó hattyú
+BALASSI B ÁLINT AENIGMA CÍMŰ VERSÉRŐL
+Amikor 1874-ben a Történelmi Társulat kirándulásán
+a zólyomradványi Radvánszky-könyvtárból előkerült a Balassa-kódex, egy csapásra megváltozott a Balassi Bálintról alkotott képünk. Addig csak az istenes verseket
+szerző, zsoltáros hangú költőt ismerhettük, mert Balassi
+szerelmes versei nem jelenhettek meg nyomtatásban,
+szerelmes versek kéziratai pedig szinte egyáltalán nem
+maradtak ránk. A Balassa-kódex a költőnek épp ezeket
+a verseit gyűjti egybe, szerelmes versekből komponált
+ciklusokat tartalmaz. A Magyar Tudományos Akadémia
+azonnal elhatározta Balassi verseinek új, immáron az
+előkerült szerelmes verseket is magába foglaló kiadásának megjelentetését. A munkát Szilády Áron végezte el,
+1879-ben jelent meg az első, gyakorlatilag a mai kiadások
+anyagával megegyező tartalmú Balassi-kötet. Azóta számos új Balassi-kiadás készült, a legfontosabbak Dézsi
+Lajos, Eckhardt Sándor, Stoll Béla, Varjas Béla, Horváth
+Iván, Kőszeghy Péter és Szentmártoni Szabó Géza kiadásai. A szerelmes versek már csak mennyiségük miatt is
+átformálták a Balassiról megrajzolható képet. Ma már elsősorban az udvari szerelem költőjének tartjuk, s csak
+másodsorban istenes versek szerzőjének.
+A Balassa-kódex előkerülése azonban nem csupán
+a verses életmű mennyiségi gyarapodásával járt. A szerelmes költemények a kódexben sorszámozva, ciklusokat
+alkotva helyezkednek el. Noha csak viszonylag későn került sor e ciklusok kompozícióinak alaposabb vizsgálatára, már Szilády Áron kiadását olvasva is világos, hogy
+a kötet verseiből összeállítható Balassi Bálint „lírai önéletrajza”. Klaniczay Tibor használja először ezt a kifejezést
+
+BALASSI BÁLINT
+(1554–1594)
+
+Egyébként nálunk
+a sasoknak, szín, nagyság
+és viselkedés tekintetében
+egyaránt igen sok
+változata ismert. Felénk
+a heroidus után
+a második legnemesebb
+sasféle az, amelyik
+ludakat, hattyúkat és más
+ilyen nagy madarakat
+szokott fogni, sőt még
+mezei és üregi nyulakat is,
+különösen akkor,
+ha fiai vannak.
+
+1961-ben: „Balassi költészetében kezd egy belső lírai folyamatosság kialakulni, az egyes
+versek, de még inkább az egyes verscsoportok szerves és összefüggő láncolatot alkotnak,
+követve a valóságos események, illetve a költő belső lélektani fejlődésének a menetét.
+A külső történések mellett, azok által meghatározva, s azok hatására kezd egy külön lírai önéletrajz kibontakozni, sőt ennek már bizonyos autonóm törvényei, kötöttségei is létrejönnek, melyeket a költő sem hagyhat figyelmen kívül. Gondolatai, kifejezései énekeit önkéntelenül is mindig az előzőkhöz fűzik, […] új mondanivalóját és terminológiáját az egyszer
+megtagadott régihez kapcsolja, visszamenőleg is megszilárdítva lírájának – az Anna versektől kezdve – szinte észrevétlenül kialakult zárt belső folytonosságát.”1 Klaniczay leszögezi, hogy a versek nem esetleges sorrendben sorakoznak, belső összefüggések kötik őket
+egymáshoz, bár az is kiolvasható az idézett részből, hogy a kompozíciónak csak egy kezdeti,
+kialakulóban lévő állapotáról beszél. A „kezd” ige kétszeri használata mellett erre utal az
+idézet végén az „észrevétlenül kialakult” kifejezés. Mintha azt állítaná, hogy Balassi ösztönösen alkotott kompozíciót, versei spontán módon rendeződtek, szerveződtek „lírai önéletrajzzá”. Ez a nézet nem tűnt el teljesen, ma is szokás a szerelmes versek sorozatát afféle
+laza kompozícióként szemlélni. Még akkor is, ha azóta egy sokkal feszesebb, határozott
+szerkezet foglalja egybe az életművet.
+Klaniczay Tibor és Gerézdi Rabán fogalmazták meg először 1964-ben azt a sejtést, hogy
+Balassi szerelmes verseiből két 33-as ciklust komponált, s talán istenes verseinek számát is
+33-ra akarta bővíteni, és így egy 1+(3×33)-as nagykompozíciót akart létrehozni.2 Az elképzelt számszimbolikus kompozíció mintája természetesen Dante Isteni színjátéka. Úgy gondolhatnánk, hogy egy ilyen bonyolult és precíz szerkezet elképzelése csak a korábbi spontán ciklus-szerveződési folyamatról alkotott vélemény feladásával lehetséges, de mégsem
+így van. A szerelmes versek első 33-as sorozatáról, az úgynevezett Anna-versekről ugyanis
+továbbra is ez olvasható az idézett helyen: „Házassága előtt írt szerelmi és tavaszi-vitézi
+énekeit, összesen 33-at, meglehetősen laza rendbe illesztette, jórészt figyelmen kívül
+hagyva a kronológiát; a sorozat végére azonban, rendkívüli megfontoltsággal, a Bocsásd
+meg Úristen… kezdetű bűnbánó éneket helyezte, hogy utána – a második rész nyitóverseként – rögvest meghazudtolása, a Méznél édesb szép szók… következzék.”3 A kompozíció
+létrejötte tehát továbbra is „énekek laza rendbe illesztése”, csak az első rész befejezése és
+a következő rész nyitása képvisel megfontolt szerkesztői szándékot.
+A 3×33-as kompozíciós ötlet azóta a Balassi-kutatás elfogadott elméletévé változott,
+Horváth Iván meghatározó jelentőségű Balassi-könyve4 sikeresen támogatta meg a Gerézdi–Klaniczay sejtést, további érveket sorakoztatott fel a megkomponált életmű mellett.
+Ennek két alapvető következménye lett. Egyrészt azóta minden teljes Balassi-kiadás cikluselvű. A korábbi, kronológiai rendet követő kiadásokat felváltották a kódex rendjét őrző,
+a szerelmes verseket 2×33-as csoportban közlő kiadások. Az első ilyen ciklus-elvű kiadás
+szintén Horváth Iván nevéhez fűződik.5 Másrészt a megkomponált életmű elmélete középiskolás tananyaggá vált. Ma már mindannyian így tanuljuk, noha a Balassi-filológia
+nem állapodott meg ezen a ponton. Néhány kutató csak korlátozott értelemben fogadta el
+(2×33, 33+25+8), néhányan pedig (köztük Horváth Iván is) további érveket nem a szuperstruktúra mellett, hanem éppen ellene sorakoztatnak fel.
+Maradjunk azonban a jelenlegi Balassi-kiadások szerkezeténél, annál a 2×33 verset
+számláló Nagyciklus-nál, ami a Balassi-kódexből (némi filológiai következtetés után) ki-
+
+2
+
+olvasható. A Nagyciklus elnevezés Varjas Bélától származik, aki több tanulmányban arra
+vállalkozott, hogy Balassi költeményeit ciklus-szinten értelmezi.6 Előbb az első 33-as ciklust vizsgálta, majd később mindkét 33-as sorozatra kiterjesztette értelmezését. Nem az
+egyes énekeket tekintette műegésznek, hanem a 66 versből álló teljes sorozatot. Ez az értelmezés még mindig számos ponton támaszkodik életrajzi mozzanatokra, Balassi életének
+tényleges eseményeit használja viszonyítási alapul, a szereplőket lépten-nyomon megkísérli azonosítani. Erről nyilván teljesen nem is lehet lemondani, mégis kissé furcsa, ahogyan a kronologikus élet-történet és a határozottan nem kronologikus ciklus összefonódik.
+Azt várhatnánk, hogy a verssorozat annál kevésbé szól a valós életeseményekről, minél
+jobban távolodik a ciklus a kronologikus rendtől. Ha a versek nem időrendben sorakoznak,
+akkor az általuk elmesélt történet sem tapadhat szorosan a valósághoz. Ám a Balassi-szakirodalom nehezen tud elszakadni attól a hagyományosnak nevezhető olvasási módtól, mely
+először mindig konkrét megfelelések, életrajzi tények, létező szereplők után kutat. Ez az
+azonosítási kényszer, hogy a művet mindig konkrét élményre vonatoztassuk, csapda.
+A csapdát egyfelől a régimódi, „hagyományos” olvasási, értelmezési eljárás hozza létre, mely
+minden műhöz így próbál elsőként közelíteni. Másfelől azonban a Balassa-kódex is alapot
+kínál egy ilyen értelmezési stratégiához. A két 33-as éneksorozatot elválasztó bejegyzés
+a következőket mondja:
+„Ezek az énekek, kiket Balassi Bálint gyermekségétül fogva házasságáig szerzett. Jóllehet kettő hía: az egyik egy virágének az Irgalmazz, Úristen nótájára, kinek az kezdeti így
+volt: Vajjon meddig akarsz engem kesergetni… Az elveszett. Másik egy könyörgés a Palatics nótájára, ki az Nyíri Báthory Istvánnál és Ugnotnénál is volt. Így kezdetik el: Láss
+hozzám ödvessígemnek Istene.
+Ezek után immár akik következnek, azokat mind kiket házasságába, kiket a felesígítül
+való elválása után szerzett. Jobb részre a virágénekeket inkább mind Juliárul, mely nevére
+azért keresztelte az szerelmesét, hogy a rígi poétákat ebben is kövesse. Kik közül Ovidius
+Corinnának, Joannes Secundus Juliának, Marullus Neérának nevezte szeretűjét.”
+Vagyis az énekek két nagy csoportja kronologikus rendben található a kéziratban. Az
+egyes versek darabonként ugyan nem feltétlenül állnak így (sőt bizonyosan nem így sorakoznak), de a két ciklus keletkezési rendje igazodik Balassi életpályájának nagyobb szakaszaihoz. De vajon bizonyosan így van-e? Igaz-e, hogy a kódex említett bevezetője magától
+Balassitól származik? A szakirodalom ugyan Balassiénak tartja, de mégis elképzelhető,
+hogy egy a költő környezetéhez tartozó másoló megfogalmazása. Bizonyosan Balassitól
+származnak azok az információk, hogy mely versek hiányoznak, illetve, hogy honnan
+származik a Julia név. Az már azonban megengedhető, hogy a megfogalmazás (harmadik
+személyben) egy másolóé (például Rimay Jánosé). De még ha magát Balassit tekintjük is
+a ciklusokat elválasztó megjegyzés szerzőjének, akkor is fennáll az a lehetőség, hogy a költő
+valótlant állít. Különféle okokból (kompozíciós indok, tematikai rokonság, feledékenység)
+megszegheti saját állítását. Ismerünk efféle pontatlanságokat. Zrínyi Miklós például azt állítja az olvasóhoz intézett előszavában, hogy „munkáját soha meg nem korrigálta”, noha
+fennmaradt az a kézirat, mely megőrizte Zrínyi saját kezű korrekcióit. Balassi esetében
+sem kell feltétlenül (minden egyes versre vonatkozóan) hitelt adnunk a kódex bejegyzésének a Nagyciklus kronologikus felosztásának kérdésében.
+
+3
+
+Ha Balassi Nagyciklusának értelmezéséhez akarunk kezdeni, nem onnan kell elindulnunk, hogy mi történt a költővel, mikor és hogyan udvarolt Losonczy Annának, milyen körülmények között kötött házasságot Dobó Krisztinával, majd különválásuk után hogyan
+ostromolta ismét Julia-Annát. Nem a valós események felől kell közelítenünk (bár utólag
+nyilván ezeket a körülményeket is érdemes lesz megvizsgálni), hanem a létrehozott versciklus szerkezetének, belső megfeleléseinek az útmutatása szerint kell haladnunk. Kezdjük
+tehát ott, ahol a kompozíció is kezdődik, a legelső versnél:
+ELSŐ
+Egy horvát virágének nótájára
+AENIGMA
+1
+
+Jelentem versben mesémet,
+De elrejtem értelmemet;
+Kérem édes szeretőmet,
+Fejtse meg nekem ezeket:
+
+2
+
+Minap én úton jártomban
+Láték két hattyút egy tóban,
+Hogy volna csendes úszásban
+Együtt lassú ballagásban.
+
+3
+
+Gyakran egymásra tekintnek,
+Kiből kitetszik szerelmek,
+Egymáshoz való jó kedvek;
+Hasonlók, mindketten szépek.
+
+4
+
+Hogy így együtt szerelmesen
+Ők úsznának szép csendesen,
+Azonközben nagy sebesen
+Egy keselő csalárdképpen
+
+5
+
+Rájok menvén az egyikét,
+Körme között az szebbikét
+Elkapá, faggatá szegént,
+Mint szeretőt, kedve szerént.
+
+6
+
+Látván társa, bánatjában
+Rív keserves kiáltásban,
+Széjjel ballagván az tóban,
+Nem tud, medgyen, nagy bújában,
+
+7
+
+Mert látja társától váltát,
+Látja maga özvegy voltát,
+Bújában elszánta magát,
+Óhajtja már csak halálát.
+
+A vers hagyományos értelmezése azonnal a szereplők azonosítására törekszik. A bánkódó hattyút természetesen Balassival azonosítják, az elragadott hattyú és a saskeselyű
+megfeleltetésére több ötletet is felvonultat a szakirodalom. Dézsi Lajos kiadásának a jegy-
+
+4
+
+zeteiben Dobó Krisztina és Várday Mihály, vagy Losonczy Anna és Ungnád Kristóf a lehetséges szereplők. Eckhardt Sándornál Krusith Ilona és Dietrichstein Miksa a javaslat. Varjas Béla értelmezésében Kerecsényi Judit és Hagymási Kristóf jöhet szóba. Balassi többi,
+név szerint ismert szerelme is szóba kerülhet, Bebek Judit, Csák Borbála, Morgay Kata, egy
+pontosabban meg nem nevezett Zsuzsanna és Krisztina is választható lehetőség.
+Ezeknek a javaslatoknak azonban van egy igen nagy bökkenőjük. Az Aenigma ugyanis
+nincsen datálva, egyáltalán nem tudjuk, hogy mikor keletkezett. A verselése, színvonala (?)
+alapján az egyes kiadók általában úgy vélik, hogy viszonylag nem korai. Ez a bizonytalanság teljesen lehetetlenné teszi, hogy konkrét életrajzi mozzanathoz kössük a verset. Lehet
+ugyan találgatni, de időpont nélkül szinte minden tényleges szerelmi kapcsolatra ráhúzható az énekben elbeszélt történet: előbb a költő bírta a hölgy szerelmét, majd a kedves
+másé lett. Ha még azt is megengedjük, hogy az Aenigma nem is Balassi házassága előtt
+keletkezett (s erre a lehetőségre még visszatérünk), akkor teljesen kicsúszik a talaj a lábunk
+alól. Nem is teszünk tehát kísérletet arra, hogy megnevezzük a hattyúkat. Közelítsünk
+másfelől!
+Az aenigma szó mai jelentése: talány, rejtvény. Ebben az értelemben használták a régiségben is, magyar elnevezése mese volt. Ez a magyar megnevezés rögtön a költemény első
+sorában felbukkan. Szenci Molnár Albert latin-magyar szótárában az aenigma címszó
+megfelelője mese, és megfordítva is, a mese latin alakja aenigma. Lőcsén 1629-ben nyomtattak ki egy találós kérdéseket, talányos történeteket tartalmazó művet Mesés könyvecske,
+mely újonnan megékesíttetett rövid, értelmes kérdésekkel és feleletekkel címmel. A németből fordított könyvecske mutatja, hogy a műfaj igen népszerű volt a régiségben. Hasonló, szórakoztató célú kérdéseket, elmés talányokat sorakoztat fel a 18. században Bod
+Péter is Szent Hilárius című könyvében. Tarcsafalvi B. János verses aenigmákat jegyzett
+fel 1698-ban Hol mi jeles mesék címmel.7
+A legkorábbi magyar verses mese 1508-ból való.8 A Döbrentei-kódex másolója, Halábori Bertalan másolta le a kézirat 483. oldalára. A megelőző lapokon a bibliai Énekek
+éneke szerepel. A Salamon és Szulamit szerelméről szóló, merész képeket, testiséget is
+megjelenítő szöveget metaforikusan értelmezték (és így értelmezik sokan a mai napig is),
+ebben a jelentésében az egyház és Jézus menyegzőjéről esik szó benne. Egyáltalán nem
+meglepő tehát, hogy a könyv végén egy erre vonatkozó aenigma olvasható:9
+
+Mese
+Soha távol tőle,
+Benne: vagyon neki lelke,
+Egyes ketten, és hármas,
+És nincsen bennek választás.
+5 Rája kűvöl ű nézése,
+Lankad, miként Eszter
+Vigyáz félvén miként Judit
+Mondja kedven kedvét:
+Mert megtűzött, miként tövüs
+10 Idvösségnek hívattatik,
+Velönk egybe lakozik
+Elménkben és szívönknek állatjában.
+
+5
+
+A szöveggel foglalkozó szakirodalom a mese megfejtéseként a Szentháromság, illetve
+Isten szavakat javasolja. Figyelmesebben követve a szöveget, valószínűbbnek tűnik a Jézus
+név, mint megfejtés. Leginkább a 9-10. sorban megjelenő töviskoszorúval koronázott Megváltó képe utal erre, de ugyancsak Jézusra vonatkozhat leginkább a 6-7. sor két hasonlata
+is. A bibliai Eszter elalélása, ájulása, Judit aggódó félelme, virrasztása Jézus nagycsütörtöki magányára, törékenységére vonatkozik. Így a találóskérdés pontosan illeszkedik
+a megelőző szöveghez, az Énekek énekéhez, annak egyik szereplőjét, a mennyi jegyest jeleníti meg. Mint általában a magyar nyelvű középkori kódexeket, vélhetően a Döbrentei-kódexet is latinul nem tudó apácák számára készítették. Ezért különösen érdekes, hogy az
+apáca (Jézus menyasszonya) miféle misztikus, elvont értelmezést kap az ótestamentumi
+szerelmes történethez. Számára az Énekek éneke a mennyei jegyessel, Jézussal való szellemi egyesülést írja le. Ebben az értelemben a szöveg talán már nem is aenigma, a szakrális, misztikus jelentésű, különösen elvont talánynak külön neve van, ez az anagógé.
+A találóskérdéseknek nagyon gyakran egyetlen szóból álló megfejtésük van. Így van ez
+a Döbrentei-kódex Meséjénél, a lőcsei Mesés könyvecske sok szövegénél, Tarcsafalvi B.
+János verseinél, vagy a mindannyiunk által a népköltészetből ismert találóskérdéseknél is.
+Balassi énekénél azonban vélhetően nem fogunk ilyen egyszavas megoldást találni. A versben elmesélt történetnek legalább a három szereplőjét meg kellene neveznünk. Emiatt
+a szakirodalom azt hangsúlyozza, hogy itt az Aenigma címnek nem a szokásos jelentésével
+van dolgunk. A cím műfajt jelöl, és ennek feltérképezhető retorikai, poétikai hagyománya
+van. Már Eckhardt Sándor rámutatott arra, hogy Balassi Bálint honnan tanulhatta meg az
+aenigma szó jelentését. Gyermekkorában Raphael Maffei, humanista nevén Volaterranus
+enciklopédiájában azt olvashatta, hogy „allegoria az, amikor idegen szavak alatt más értelem rejtőzik, az allegoria ugyanis folytonos metafora. Az aenigma pedig különbözik ettől,
+mert nagyobb homályosság van benne. (Aenigma vero differt ab illa, quia hoc maioris
+obscuritatis.)”10 Ha pedig az aenigma nem más, mint homályos allegória, akkor Balassi
+versét sem kell rejtvényként felfognunk, érthetjük úgy, hogy az elmondott történet a szokásosnál burkoltabban mond el egy példázatot. Megelégedhetünk tehát a vers általános értelmezésével: a költő előre sejti, hogy kedvesét el fogják ragadni tőle. Többet nem kell várnunk, hiszen nem rejtvénnyel, nem találóskérdéssel van dolgunk.
+A fentebbi gondolatmenettel kapcsolatban azonban van két bökkenő. Az egyik az, hogy
+Balassi ugyan nyilvánvalóan olvasta Volaterranust, retorikai, poétikai ismereteit azonban
+nem feltétlenül innen, és főleg nem kizárólag innen szerezte. Bornemisza Péter, a nagy
+hírű lutheránus prédikátor, Sophoklés Elektrájának magyar fordítója, számos ének szerzője, kiválóan képzett költő volt a tanítómestere. Tőle nyilván sokkal alaposabban megtanulta, hogy milyen műfajokat, retorikai eszközöket kell ismernie egy poétának. Helyesebben járunk tehát el, ha szemügyre vesszük a korabeli retorika-tankönyveket. Elsőként
+olvassunk bele Philip Melanchton 1549-es alapvetésébe, mely A retorika alapelemeinek
+két könyve címet viseli: „Következnek az allegória fajai: az άινιγµα (ainigma), amely, mivel homályosabb, nem való szónoklatba, a költő viszont akárhol élhet vele, mint Hésziodosz: Az egésznél több a fele.”11 Ezt követi az allegória többi fajtája, az irónia (ezen belül
+a szarkazmus és a mimézisz), a közmondás és a mese (fabula). Mivel Bornemisza személyesen is találkozott Melanchtonnal, könnyű arra gondolni, hogy e magyarázat legalább anynyira lényeges, mint a Balassi kezébe adott enciklopédia definíciója. A homályosabb érte-
+
+6
+
+lem mindkét helyen szerepel, lényegében ugyanarról a meghatározásról van szó, ám Melanchton példája nagyon beszédes. Az általa idézett talány igenis rejtvény jellegű. Mi az,
+aminél több a fele? Ez a bonyolultság magyarázza meg, hogy miért nem való szónoklatba.
+Ehelyett a költészet mezejére űzi a retorikakönyv szerzője, épp oda, ahol mi is találkozunk
+vele.
+Második retorika-szerzőnk legyen magyar. Pécseli Király Imre Bevezetés a retorikába
+című műve ugyan csak Balassi halála után, 1639-ben jelent meg, mégis jól szemlélteti,
+hogy a korban miféle ismereteket sajátítottak el a külföldi egyetemek magyar hallgatói.
+A Pécseli-mű VIII. fejezete szól a trópusokról. Először ennek a definícióját kapjuk: „A tropusban a legtöbb szó jelentése megváltozik. Nem csak egy szóé, mint korábban láttuk, hanem
+az egész mondaté.” Miután korábban a metonímiáról és a szinekdochéról volt szó, világos,
+hogy a szerző a szóképektől különíti el a terjedelmesebb képes beszédet. Ez utóbbinak az
+alábbi fajtáit ismeri és ismerteti: „allegória, paroemia vagy másképpen adagium (közmondás), aenigma (homályos értelmű allegória vagy talány), irónia, melynek fajtái a sarcasmus, asteizmus, diasismus, charientizmus, mycterizmus, antiphrasis és a mimezis, melyekhez még általában a periphrasis és a hyperbole társul.”12 Látható, hogy a magyar szerző
+felsorolása lényegében megegyezik a korábbi retorikakönyvével, ugyanarra az ókori forrásra, Quintillianus retorikájára mennek vissza. Pécseli részletezőbb. Elmondja, hogy az
+allegóriánál mást jelölünk, mint ami a szavak jelentése. Ismerünk világos és homályos allegóriát. Homályosnak minősül a paroemia (közmondás) és az aenigma (talány). Ez utóbbinak pontos meghatározása a következő: „Az aenigma (talány, rejtvény) olyan kétértelmű
+és talányos beszéd, melyet azért találtak ki nagy furfangosan, hogy valamit homályba burkolva elrejtsenek és meg kelljen fejteni, mi az. Szent Jeromos szerint – Ezékiel könyvének
+19. részéhez kapcsolódva – az aenigma olyan homályos beszédtárgy, mely mást jelent
+a szavak szintjén, és más a mélyebb értelme. Mint például ezek:
+Mater me genuit, eadem mox gignitur ex me.
+(Az anyám szült engem, de ugyanő majd tőlem fog megszületni.)
+Mater me peperit, genui prior ipse sed illam
+Filius eiusdem, quis fuit atque pater.
+(Az anyám szült engem, de korábban én hoztam létre őt
+az ő fiaként, de ki volt az apánk?)”
+A verses példák megfejtése a fordító szerint: Tojás. Jól érzékelhető, hogy az aenigma itt
+is bonyolult, nehezen megfejthető rejtvényt jelöl, és Melanchton könyvének megfelelően itt
+is verses, azaz költői példákat kapunk. (A következő, Vergiliustól származó példát már nem
+is mertük idézni, olyan nehézkesen értelmezhető.)
+A második bökkenő, ami miatt elutasíthatjuk a Volaterranus-könyvre támaszkodó, egyszerűsített aenigma-definíciót, éppen a vizsgált Balassi-ének első versszaka. A költő először
+lefordítja magyarra a latin műszót, mesének nevezi versét, majd közli, hogy elrejtette az
+értelmet, és azt meg kell fejteni. Vagyis maga Balassi hangsúlyozza, hogy verse költői talány. Ráadásul az aenigma szót címként használja, vagyis az egész költeményre vonatkoztatja. Így retorikai eszközből az aenigmát műfajjá emeli, ez pedig már nem a retorika, hanem a poétika hatáskörébe tartozik.
+
+7
+
+Fogjunk hozzá a szöveg alaposabb értelmezéséhez! A bevezető strófa metanyelvi, mint
+láttuk, magáról a költeményről, annak műfajáról, funkciójáról és címzettjéről beszél. Fontos mozzanat, hogy a versszak megnevezi a címzettet, a vers „én”-je a szeretőjéhez beszél,
+őt kéri arra, hogy értelmezze a következő történetet. Szándékosan tartózkodunk attól, hogy
+ezt az „én”-t Balassival azonosítsuk. Mivel fenntartjuk azt a szándékunkat, hogy mind az
+vizsgált költeményt, mindpedig az egész Nagyciklust elszakítsuk a konkrét életrajzi tényektől, általánossá tegyük, kissé bonyolultabban fogunk fogalmazni (bár ez a beszédmód
+a modern irodalomelméleti diskurzusokban egyáltalán nem szokatlan). Balassi megalkot
+egy beszélőt, egy fiktív „én”-t, aki a vers narrátoraként megszólal. Az elbeszélő megnevezi,
+megszólítja a szeretőjét, vagyis létrejön egy fiktív befogadó is. A valódi olvasó tehát úgy közelít a szöveghez, hogy kívülről szemlél egy fiktív kommunikációs folyamatot, annak ő nem
+részese közvetlenül. Persze a költemény, benne az iménti kommunikációs folyamattal,
+maga is jel egy kommunikációs folyamatban, ami immár Balassi Bálint és az olvasó között
+folyik.
+Maga a történet a hely és az idő kijelölésével kezdődik: „Minap én úton jártomban…”
+Az események a közelmúltban játszódnak, a szemtanú elbeszélő mintegy véletlenül, utazás
+közben pillantja meg a két hattyút. Kísértetiesen emlékeztet ez a történetkezdés Balassi egy
+másik versindítására, a 28. ének elejére:
+Minap mulatni mentemben
+Jöve két kegyes előmben,
+Egyik monda: Halljad legény,
+Melyikünk szebb, ez-é vagy én?
+Felelém: Ez szót nem fejtem,
+Vétekben én nem leledzem,
+Nem akarok megfelelnem,
+Mind szépnek tetszetek nekem.
+Nem csak a „Minap” és a „mentemben” szavak kelthetik fel a gyanúnkat. Ez a vers is
+megfejteni való kérdésre épül. A versforma azonossága is feltűnő, mindkét ének négysarkú
+8-asokból áll. Ez ugyan nagyon gyakori metrum a régi magyar költészetben (hymnusok,
+vallásos énekek szokásos formája), ám Balassira éppen az jellemző, hogy a szokásos formákat ritkán alkalmazza, helyettük inkább saját metrumtípust alakít ki. Ebben a versformában összesen öt verse íródott, az első 33-as verscsoportban csak az Aenigma és az
+imént idézett ének ilyen. Megkockáztatható az a kijelentés, hogy ez nem véletlenül van így.
+Pirnát Antal Balassi-könyvében13 felveti azt a lehetőséget, hogy a Nagyciklus költeményeiben összefüggés mutatható ki genus és modus között, vagyis összefügg az énekek formája
+és műfaja. Ő elsősorban a Balassi-strófa genusának meghatározásával, és stílusszintjének
+megállapításával foglalkozik, illetve röviden kitér a 3×12-es metrumra. A Pirnát által Dobó
+Jakab-strófának nevezett háromsarkú 12-es négy alkalommal fordul elő Balassinál (45.,
+46., 49., 52), és „egyértelmű műfaji affinitást mutat”, határozottan kötődik a dialogus
+műfajához. Ez a megfigyelése számunkra azért fontos, mert a dialogus is olyan műfaj,
+melynek nevéből a költő verscímet képez, akárcsak az első vers esetében az aenigmá-ból.
+Igaz-e, hogy az Aenigma versformája, a 4×8-as metrum összekapcsolható az ének
+műfajával? Nos, ez a Dobó Jakab-strófához viszonyítva sokkal kisebb határozottsággal
+vethető csak fel. Ott a forma mind a négy előfordulása rokonítható volt a dialogus műfaj-
+
+8
+
+jal, legalábbis párbeszédre (fiktív párbeszédre) épült. A 4×8-as forma Pirnát könyvében is
+említésre kerül, de véleménye nem illeszkedik a mi elképzeléseinkhez. Az öt ilyen formában íródott énekről azt bizonygatja, hogy nagyon ismert dallamra íródtak, ennélfogva az
+énekek nagyon egyszerű beszédhelyzethez társulnak. A ciklus 35. és 39. éneke, illetve az
+Ó, én kegyelmes Istenem… kezdetű, gyűjteményen kívül fennmaradt vallásos vers valóban
+nem illeszkedik a talány, aenigma műfajához. Csak akkor vethető fel műfaji affinitás, ha
+megfigyeléseinket az első 33 versre korlátozzuk. A kérdés ezek után az, hogy mi ennek az
+oka. Az, hogy a négysarkú 8-as nem kapcsolódik az aenigma műfajához, vagy az, hogy
+a Pirnát Antal által kifejtett elmélet csak korlátozottan, bizonyos verscsoportokra szűkítve,
+esetleg bizonyos dallamokhoz társulva érvényesül?
+De térjünk vissza az Aenigma szövegének értelmezéséhez! A 2. strófa bejelenti, hogy az
+elbeszélő két hattyút pillantott meg. Apró megjegyzés csupán, hogy a versszak utolsó sorában szerepel egy magyarázandó szó, a lassú. A régiségben ennek a szónak még nem az
+a jelentése, hogy ’kis sebességű’, hanem az, hogy ’halk’. Julia szép szava is lassú. Zrínyi
+a patak csobogására alkalmazza ezt a jelzőt. Még Mikszáth novellájában, a Szegény Gélyi
+János lovaiban is azt olvashatjuk, hogy „Lassabban, mert meghallják!”. Ha a szónak ezt
+a jelentését vesszük figyelembe, akkor az Aenigma 2. szakaszában a két utolsó sor teljesen
+párhuzamossá válik. Mindkét sor azt állítja, hogy a hattyúk halkan haladtak. Ez a megkettőzés többféle hatást is kivált. A részletezés késlelteti a történet elbeszélését, lassítja (most
+a mai értelemben) a verset, nyugodtságot, békességet sugall. Ráadásul a két hasonló hatytyúra vonatkozó két azonos állítás ravasz szimmetriára épül. Az egyik is halkan úszik,
+a másik is csendesen halad. Már csak azt kell a képhez hozzáképzelnünk, hogy eközben a
+két hattyú képe a tó tükrén is megjelenik, és így már négyen ballagnak lassan.
+A 3. versszak a két hattyú viszonyáról ad leírást. Egymásra tekintenek, pillantásukból
+azonnal világossá válik, hogy szeretik egymást, és emiatt jó kedvük van, azaz boldogok. Az
+idilli kép továbbra is használja a szinonimákkal kifejezett kettőzést. A szerelem és a jó kedv
+ugyanazt a boldogságot jeleníti meg, az egyik hattyú is ezt érzi, a másik is, vagyis kölcsönös
+érzelem kapcsolja őket egymáshoz. Az azonosítás egészen meglepő szintig jut, az elbeszélő
+azt állítja, hogy „mindketten szépek”. A korábbi ikerítő beszédmód miatt, és az utolsó sorban határozottan kitett „hasonlók” szó miatt világos, hogy a „szépség” ugyanúgy jellemzi az
+egyik hattyút, mint a másikat. Ha kilépünk a betű szerinti olvasás szintjéről, és a képet
+emberi szerelmesekre, egy férfira és egy nőre alkalmazzuk, a költő azt mondja, hogy nemcsak szeretője szép, hanem saját maga is.
+(Csak zárójelben játszom el azzal a gondolattal, hogy itt határozottan narcisztikus mozzanatba botlottunk. Sőt, feloldhatjuk a vers elején megfigyelt geminációkat, ha feltesszük,
+hogy a tavon egyetlen hattyú úszik. Nyilván tükröződik a vízen, így a szemlélő két madarat
+lát. A hasonlóságok, sőt a teljesen azonos tulajdonságok így azonnal magyarázatot nyernek. Nem lenne teljesen idegen az aenigma műfajától egy efféle értelmezés. Bajba csak akkor kerülünk, ha a verset tovább olvasva nem tudunk mit kezdeni a saskeselyűvel, illetve
+azzal a bosszantó ténnyel, hogy a másik hattyú ottmarad a vízen, és bánatában hangosan rí.)
+A 4. és 5. strófa egyetlen egységet alkotva viszi tovább a cselekményt. Megjelenik
+a történet harmadik szereplője, a „keselő”. Itt nyilván nem keselyűről van szó, hiszen az
+dögevő madár, hanem a saskeselyűről, vagy mai szóval egyszerűen sasról. A 4. szakasz első
+fele még lassú, csendes, hogy annál váratlanabbul robbanjon be a képbe a veszélyes ellen-
+
+9
+
+fél. Hirtelen bukkan fel, és a szöveg hangsúlyozza, hogy „nagy sebesen” csap le. A ragadozómadarak szokásos támadási technikája, a zuhanórepülés éles ellentétet alkot a korábbi
+csendes, nyugodt úszkálással. A sas csalárd módon csap le, azaz nemcsak váratlanul,
+hanem orv módon, rászedve áldozatát. Azonnal morális értékelést is kapunk. A két hattyú
+szép, szerelmes és békés, a sas csalárd, gyors, erőszakos. Meglepő mozzanata a strófának,
+hogy a két egyformán szép hattyú közül a szebbikre csap le a ragadozó. Eddig azt
+hangsúlyozta a szöveg, hogy a két hattyú között nincs is különbség szépség tekintetében,
+most kiderül, hogy az egyikük mégis szebb.
+Megint a már idézett 28. vers juthat az eszünkbe, ahol a legénynek két teljesen
+egyformán szép kegyes közül kell választania. Ott éppen ez a paradoxon alkotta a talányt,
+az aenigmát. (Újra csak zárójelek között merem megjegyezni, hogy váratlan, eddig nyilván
+számba nem vett jelentéssík került így elő. Eddig csak úgy olvastuk a verset, hogy a két
+hattyú különböző nemű. Holott elég egyszerű elképzelni, hogy mindkettő nőnemű. Ekkor
+a sas lehetne a férfi, és az Aenigma egyszerűen arról szólna, hogy két nővér közül az egyik
+szeretőre talál. Ehhez csupán két szót kell óvatosabban olvasnunk a versben, a 3. strófa
+„szerelmek” és a 4. strófa „szerelmesen” szavát. Ha ez jelenthet testvérek közötti szeretetet,
+akkor az éneket minden gond nélkül átértelmezhetjük. Kissé ugyan furcsa lesz a vers
+befejezése, mert miért is kívánná a halálát a pártában maradt hattyú?)
+A saskeselyű csalárd támadását, a történés dinamikus voltát egy eddig nem alkalmazott
+formai eszköz is segít ábrázolni. A 4. és 5. versszak között áthajlás figyelhető meg. A gondolat, a mondat nem ér véget a 4. szakasz végén, hanem folyamatos lendülettel sodródik át
+a következő strófába. Az 5. szakaszban található a vers egyik legnehezebben értelmezhető
+szava, a „faggatá”. A Balassa-kódexben „foggata” alak olvasható, ennek megfelelően több
+kiadásban is „foggatá” szerepel a szövegben. A régiségben azonban gyakoribb a „faggat”
+szóalak. Magyarázatként az egyes kiadások jegyzetei a ’tépdes, szaggat’ jelentést fűzik
+a szóhoz. Valóban, a sas körmei leginkább erre alkalmasak. De az igét nem feltétlenül kell
+a sas körmeire vonatkoztatnunk. Használhatja a ragadozó madár a csőrét is, ekkor a „foggat”
+jelentése ’üt, megsebez, erőszakoskodik’ jelentésű lehet. Feltétlenül megemlítendő Balassi
+Bálint egyik verstöredéke, melyből csupán pár szó maradt ránk:
+Pokolbéli kísértetek faggatnak…
+Nyilván Bornemisza Péter Ördögi kísértetek műcímének emléke hat itt. Eckhardt Sándor ennél a töredéknél egy alkalommal a „foggat” szóhoz a ’húzkod’ jelentést társítja. 14
+A „pokolbeli kísértetek” kifejezésben azonban nem szellemek, túlvilági lények szerepelnek,
+hanem ahogyan ez Bornemisza művéből egészen egyértelműen kiviláglik, kísértések. A kísértés pedig leginkább ’gyötör’. Nem elvethető egyik korábbi jelentés sem, beilleszthető az
+Aenigma szövegébe a ’tépdes, szaggat, üt, húzkod’ szavak mindegyike, de ha idegen
+nyelvre kellene fordítanom a Balassi-éneket, a magam részéről az „Elkapá, gyötré szegényt” sort használnám.
+Az 5. strófa utolsó sorában megismétlődik a vers egyik korábbi szava, a „szerető”. Az
+ének elején, még a metanyelvi szinten, az elbeszélő nevezi a vers címzettjét „szeretőm”nek. (Visszacsillan a fentebb kifejtett második zárójeles megjegyzésünk gondolata: a költő
+lenne a sas?) Az első szakasz szóhasználata pozitív: a szerető kedvest, szerelmest jelent. Az
+5. strófa szava szenvedő szemléletű, a saskeselyű „kedve szerént”, azaz kényére-kedvére te-
+
+10
+
+kinti szertőjének az elragadott hattyút. Ugyanerre a kiszolgáltatott állapotra vonatkozik a
+megelőző sor „szegén” szava. Több mozzanat arra utal tehát, hogy az események a szebbik
+hattyú szándéka ellenére történnek. A sas csalárd módon csap le, a hattyúk tudta nélkül;
+erőszakosan lép fel; a szebbik hattyú pedig elszenvedi a történteket. Elemelkedve a szószerinti jelentéstől, ha a példázatot emberek közötti viszonyra fordítjuk, a két boldog szerelmes viszonyát egy harmadik személy erőszakosan szakítja meg. A lány akarata ellenére lép
+fel szeretőként, mintha kikényszerített házasságra vonatkozna a történet.
+A 6. és 7. strófa az egyedül maradt hattyú helyzetét írja le. Bánatos, hangosan rí, és
+céltalanul úszkál a tóban. Megint felfigyelhetünk a szóalakok kettőzésére: „bánatjában” –
+„bújában”. Az ének elején is felvetődhetett az a gondolat, hogy Balassi egyszerűen a rímelés
+miatt, a hely kitöltése okán ismétel. Ez azonban nem valószínű. Ugyan a régi magyar költészet szinte általánosnak mondható bokorrímelése erős rímkényszeres helyzetet teremt, és
+ez valóban gyakran együttjár szóismétléssel, önrímmel, de nem Balassinál. Ő ennél sokkal
+tehetségesebb verselő. Az ének elején az idilli hangulat, az elbeszélés nyugodt tempója és
+a késleltetés indokolták az ismétlést. Itt a vers végén hasonló érvet fogalmazhatunk meg:
+az egyedül maradt hattyú bánatának folyamatos, soha nem múló, végérvényes voltát
+erősíti. A strófa újfent megismétel egy szót a költemény elejéről, a bánatos hattyú „ballag”.
+A „széjjel” a régiségben gyakori irányt jelző szó, ’szerte, mindenfelé’ jelentésben. A mozgás
+többirányúsága, határozottlansága jeleníti meg a hattyú céltalanságát. Ez odáig fokozódik
+a költemény legvégére, hogy az egész életét céltalannak ítéli, a halálát várja. A „medgyen”
+szintén gyakori kifejezés régi szövegekben, Balassinál is többször előfordul. Jelentése: ’mit
+tegyen’, vagyis itt a sor azt jelenti: ’Nem tudja, hogy mit tegyen nagy bújában’.
+A 6. és 7. strófa háromszoros szava a „látja”. Az egyedül maradt hattyú tétlen szemlélője az eseményeknek, nem tud közbeavatkozni, ő is elszenvedi a történetet. Mivel a „lát”
+ige is előfordul a vers első szakaszában, ezt a szót is felvehetjük az ismételt motívumok
+közé. Annyi csupán a különbség, hogy az vers elején, az elbeszélő látja a hattyúkat, a végén
+pedig az egyik hattyú látja (kétszer) a másiktól való elválását. Szándékosan bonyolult módon mondva: az elbeszélő látja, hogy a hattyú látja, majd megintcsak látja…
+A költemény befejező mozzanatai közül különösen fontos lehet a „rív” ige. Természetes
+mozzanatnak tűnik, hogy az „özvegyen”, vagyis árván, egyedül maradt madár hangosan kiáltozik bánatában, vagy emberi fogalmakkal mérve: sír. De ne feledjük, hogy nem akármilyen madárról van szó! Ez a hattyú a halálára készül, elszánta magát a pusztulásra, amikor
+tehát ezt megelőzően hangot hallat, az nem más, mint hattyúdal! A költemény szakirodalma, a Balassi-kiadások jegyzetanyaga, illetve a Nagyciklus már említett elemzései sem
+térnek ki erre a mozzanatra. A kiadások esetenként szóbahozzák a „rív” szó írásmódjának
+a kérdését, hogy „rén”, „rév” vagy „rív” alakban kell-e közölni, arról azonban, hogy a szó
+a hattyúdalt jelölné, mélyen hallgatnak.
+Kőszeghy Péter egy tanulmányában15 Ariosto Orlando Furiosó-jában véli felfedezni
+a Balassi-vers mintáját. Az általa idézett 17. századi magyar fordítás16 így hangzik: „Ez a lator
+ember-e? Pokolbeli ördög-e, vagy micsoda? Elég az, valamihelt meglátá az én kedves szeretőmet, mint sólyom az kis madarat, egy szemhunyásban űzi, fogja, viszi és kapá az én kis
+asszonyomat s kedve ellen elvivé, eszembe sem vettem jövetelét, hott már szeretőm oda fel
+kiált.” Nem az a fő gond ezzel az idézettel, hogy a saskeselyű helyett sólyom (falcon) szerepel benne, erre valóban elegendő magyarázat lenne az, hogy a sólyom általában nőmeg-
+
+11
+
+szólító udvarló képek része. Inkább az a baj, hogy Ariostónál semmiféle hattyúról, sem
+egyről, sem kettőről nincsen szó, következésképp hattyúdalról sem. A madárkához hasonlított kedves, illetve az, hogy a sólyom „űzi, fogja, viszi és kapá”, sőt „kedve ellen elvivé”
+persze tetszetős párhuzam. De Balassinál az egész vers a hattyú-motívumra épül. Ez kép az
+ókortól ismert alapvető toposza a költészetnek, magyar előfordulásokat is szép számmal
+sorolhatunk. Bessenyei György A természet világa című munkájának az olvasóhoz intézett
+bevezetésében így ír: „Múzsámat szólítom, hadd panaszolja életemnek hanyatlását, úgy
+mint a megélemedett hattyú, mely már utolsó óráit hozzá közelgetni érezvén, abból vett
+fájdalmát hajnalonként bánattal énekelgeti…”17 Amade László egy versében ezt olvashatjuk:18
+Mint mikor az Hattyú végső elestében,
+Möander posvánnya gyászos szigettyében,
+Először utolsó éneköl éltében,
+És azzal a’ Lelkét ki adgya testében.
+A második sorban olvasható Meander kisázsiai folyó, mocsaras terület (erre a folyóra
+utal a „meanderezni” szó, értsd: ’sok kanyarulatot leírni’), partján a hagyomány szerint sok
+hattyú élt. Ez a folyónév szerves részét képezte a hattyúdalról szóló legendának, megtalálható torzult alakban egy nagyon népszerű XVII. századi ének elején is. A Vásárhelyi-daloskönyv változata a legkorábbi datált variáns, 1662-ben keletkezett:19
+Siralmas hatyu Néánder partyán,
+Egyedül szegény sétál jajgatván,
+Vagy eszak fele szemet forditván,
+Honnan szerelmet bus szivel varván.
+A legkorábbi változat Debreceni S. János Lukács Pap éneke című halotti búcsúztatója.20 Hodászi Lukács püspök 1613-ban halt meg, a vers pedig szülőhelyének, Hodásznak
+a nevében siratja el a jeles férfiút. Első versszaka így hangzik:
+Igy sir a’ fejér hattyú Neánder vize parttyán,
+Mikor kesergi magát halálának végsö napján,
+Igy zokog a’ szép gerlicze özvegységben aszszú fán
+Szerelmes társa halálán:
+Bisztray Gyula a vershez írott jegyzetekben megemlíti, hogy az idézett strófa szövege
+olvasható Pálóczi Horváth Ádám gyűjteményében is Páratlan hattyú címmel. Majd magyarázatképpen hozzáfűzi: „Nyilvánvaló, hogy Pálóczi Horváth már nem tudta, hogy ez
+a versszak eredetileg egy halotti ének kezdősora volt, valószínűleg szerelmi éneket sejtett
+mögötte.”21 Ezzel nem értünk egyet. A halotti búcsúztatók alkalmi költemények. A szerző
+ilyenkor nagyon gyakran nyúl korábbi versekhez, bátran idéz belőlük, különösen a búcsúztatók képekben gazdag nyitóstrófái szoktak idézetek lenni.22 Sokkal valószínűbb, hogy
+Debreceni S. János 1613-ban egy korábbi, talán 16. századi vers egy közismert szakaszát
+emeli be költeményébe. Vagyis a hattyúdalról szóló példatárunkat egészen Balassi koráig
+ki tudjuk egészíteni. De mehetünk még korábbra is. Albertus Magnus (1193–1280) a középkori természettudomány legnagyobb hatású alkotója a következőket írja Az állatokról
+című munkájában:23
+
+12
+
+„A hattyút, aki ismert madár, latinul az énekéről [a canendo] nevezik cignusnak. […]
+Ügyetlenül jár, jól úszik és közepesen röpül. A nagy vízimadarak közt ő az egyetlen, aki
+énekel. Effelől – állítólag – messze északon azt tartják, hogy a hattyú az énekesek és a vándorzenészek muzsikájára dallal válaszol. Nálunk viszont úgy tapasztaljuk, hogy csak fájdalmában vagy bánatában dalol, ezért aztán az ő esetében inkább sirámról, mint dalról beszélhetünk, ahogy azt a költő is bizonyítja, mondván:
+»Meander mellett így zeng, leomolva a nyirkos
+gyepre fehér hattyú, hogyha közel van a vég.«
+[Ovidius: Heroides. VII. 1–2., Muraközy Gyula fordítása]
+Az idézett Ovidius-hely együtt tartalmazza a Meander folyónevet, a hattyú fehér színét,
+illetve azt a mozzanatot, hogy a madár életének végét közeledni érezvén kezd énekelni.
+Nyilvánvaló, hogy különböző áttételeken keresztül ez a szöveghely terjedt el Európa-szerte,
+és a magyar költészet hattyú-toposza is ide vezethető vissza. Balassi Bálint Aenigmája is
+ezt a toposzt jeleníti meg.
+Albertus Magnus könyvét azonban érdemes felütni egy másik helyen is, a sasnál:
+„Egyébként nálunk a sasoknak, szín, nagyság és viselkedés tekintetében egyaránt igen sok
+változata ismert. Felénk a heroidus után a második legnemesebb sasféle az, amelyik ludakat, hattyúkat és más ilyen nagy madarakat szokott fogni, sőt még mezei és üregi nyulakat
+is, különösen akkor, ha fiai vannak.”24
+Ez a mozzanat is általánosan ismert volt Balassi korában. Eckhardt Sándor már fentebb is idézett Balassi-monográfiájában idézi a megfelelő részletet a Volaterranus-enciklopédiából:25
+„Cygnus vagy olor szelíd madár, csupán a sas támadja meg, de ennek erősen ellenáll,
+mint írja Aristoteles. Folyóvizeken tartózkodik. Öregkorára szeliden dallal végződik élete,
+miközben tollát fejére borítja. Ovidius: Veluti canentia dura Traiectus penna tempora
+cantat olor. Énekelnek pedig, mint mondja Plato, nem szomorúságból, hanem inkább
+örömből, mikor a vég közeledik, mert halhatatlanoknak érzik magukat és mert érzik, hogy
+Apollójukhoz térnek vissza. Tudniillik Pythagoras azon a véleményen volt, hogy halhatatlan lelkük van. Cicero Apollo szent madarainak mondja, mert megjósolják végüket.
+A hattyút így allegorice a becsületes ember lelkéhez lehet hasonlítani, mely örömmel várja
+a halált.”
+Az idézet rész végén arról van szó, hogy a hattyú nem bánatosan, hanem örömmel készül a halálra. Ez némiképp ellentmond az Aenigmának. Eckhardt éppen ezért egyetlen
+célzással utal csak erre a versre, a Volaterranus-idézetet pedig arra használja, hogy a 34.
+vers egy nehezen érthető helyét, a legutolsó versszakot megvilágítsa:
+Ezt ha megnyerhetem, bár meghaljak ottan,
+Búmnak, mint hattyúnak, legyen vége vígan;
+Más kívánságom ez: idvözüljek osztán.
+„Így tér vissza a fiatalon tanult anyag a késő férfikorban – fogalmaz Eckhardt. –
+A pythagoreista-platonista magyarázat megérteti, miért várja végét Balassi vígan, mint
+a hattyú és hogy kerül össze az üdvösség fogalma a hattyú képével. Zolnai Béla valóban jól
+sejtette, hogy Balassi opusában a platonista doktrínának akadnak nyomai: most már látjuk, milyen mértékben és milyen kerülő úton jutott költőnk Plato elméleteinek ismereté-
+
+13
+
+hez. Az üdvözülés plátói formája a hattyú szimbólumán át, mindenesetre ilyen ifjúkori
+humanista tanulmányok emlékének látszik.”
+Ha fenn is tartjuk azt a véleményünket, hogy Balassi retorikai, poétikai, filozófiai és
+teológiai nézetei nem csupán ebből az enciklopédiából származtak, hogy nyilván más műveket is olvasott, és hogy Bornemisza Péter szóbeli tanításai legalább ilyen fontosak voltak;
+egyetérthetünk abban, hogy az idézett Volaterranus-hely kielégítő magyarázatot nyújt a 34.
+vers vígan haldokló hattyújára. De térjünk vissza a szomorú hattyúhoz!
+A szöveg értelmezésének elején az első versszak körüli óvatoskodás egyáltalán nem volt
+ok nélkül való. Ha leegyszerűsítenénk a költeményt, és a narrátort Balassival, a címzettet
+pedig a kedvesével azonosítanánk, ezzel visszatévednénk az életrajzi mozzanatokat firtató
+olvasásmódhoz. És ezzel nem csupán az a gond, hogy nem tudjuk határozottan azonosítani
+a költő aktuális szerelmét. Nagyobb baj az, hogy a vers azonnal értelmetlenné válna! Balassi kedvese számára nyilván nem volna rejtély, kiket is kell a két hattyú helyébe képzelni.
+Ő azonnal tudná, hogy kikről van szó. Ebben az esetben az lenne furcsa csupán, hogy Balassi honnan tudná előre, hogy kedvesét el fogják tőle szakítani! Ha valós szerelmi kapcsolatot rajzolunk a szöveg mögé, ami a leírtak szerint zajlott le, akkor egy már lezárt, befejezett történetet kell elgondolnunk, egy olyan történetet, amiben az elválás már megtörtént. De ha így lenne, és a hölgyet már elragadták a költőtől, akkor mi értelme lenne
+találóskérdésbe foglalni az egészet, és azt a kedvesnek rejtvényként feladni?
+Rejtvényként csak a kívülálló olvasó számára működik a szöveg. Számára a költemény
+két okból is homályos. Egyfelől, ő nem tudja azonosítani a költő kedvesét, tehát a szöveget
+általános szerelmi kapcsolatként szemléli. De nem ettől a homályosságtól aenigma az
+Aenigma. Ez az anonimitás csak abban segít, hogy a Nagyciklus több darabjához hasonlóan ez a vers is egyetlen szerelmi történet elbeszélésének egyik láncszemévé válhasson. Ha
+konkrét névvel jelölhetnénk a költő kedvesét, csupán egyetlen boldogtalan végű kapcsolat
+felett bánkódna a költő. Így azonban a „minden Szerelem darabokban” pillanatát jósolja
+meg. Ugyanezen okból teszi Csokonai Vitéz Mihály is a Reményhez végén többes számba
+múzsája nevét: „Kedv, remények, Lillák, Isten véletek!”
+Másfelől, a kívülálló olvasó az Aenigmát a Nagyciklus nyitóverseként olvassa, és így az
+egész „lírai önéletrajzra” vonatkozó jóslatként fogja értelmezni. Ebben az értelemben az
+Aenigma valódi aenigma. Nem a szereplők anonimitása, hanem a vers jóslat jellege miatt.
+Az elbeszélő előre, az elbeszélt események előtt megsejteti a történet szomorú végét. Ebben
+a megközelítésben is a szánalomkeltés stratégiája működik, de a címzett nem a kedves, hanem az olvasó. Az elbeszélt történet természetesen fiktív, így nem lép működésbe az a zavar, ami a vers konkretizálásakor lehetetlenné tette, hogy a mese rejtvényként működjön.
+A fiktív narrátor feladhatja a hattyús példázatot találóskérdésként akár fiktív kedvesének
+is, ez nem vezet ellentmondáshoz, hiszen a valódi szerző, Balassi természetesen tudhatja az
+elbeszélt történet végét.
+A költemény lírai elbeszélést bevezető szerepe egészen nyilvánvaló, ha Balassi verseit
+nem az életrajz felől szemléljük, hanem ciklus-szintű olvasatot akarunk kialakítani. Ha az
+egész Nagyciklust tekintjük műegésznek, magától értetődő, hogy az Aenigmát a mű nyitódarabjaként kell értenünk. Ha pedig ez a nyitódarab előreutalást tartalmaz, megelőlegezi
+az elbeszélt történetet, akkor joggal gondolhatunk arra, hogy (1) ez kompozíciós okokból
+történik, (2) és a kompozíció végleges megalkotásakor jön létre. Hiszen az előszó rendsze-
+
+14
+
+rint legutoljára íródik meg. Ezzel érvet szolgáltattunk ahhoz, hogy az Aenigma keletkezését
+minél későbbre helyezzük. Ha csupán az első 33 verset tekintjük ciklusnak, akkor sem feltétlenül 1584, a költő házasságának dátuma a határpont. A kompozíció megalkotása történhetett később, a feleségétől való elválása után is. Akár csupa korábbi darab felhasználásával, akár néhány újabb beillesztésével is. Sőt tekinthetjük a 66 versből álló Nagyciklust is
+műegésznek, ekkor egészen 1589 őszéig haladhatunk.
+Ez utóbbi kompozíciós modell az általánosabban elfogadott. Varjas Béla már idézett
+ciklus-értelmezése óta az első 33-as költeménysorozatot afféle első felvonásként, a Juliaciklus előkészítéseként szokás értelmezni. A hattyú-motívum előfordulásai a nagyobb
+kompozíciós modell mellett szólnak. Ugyanis a második 33-as sorozatot a 34. sorszámú,
+Méznél édesb szép szók… kezdetű vers nyitja, s éppen ennek a költeménynek a végén található a másik hattyús hely, a már említett vígan halálhoz készülő hattyú. Nem lehet véletlen, hogy mindkét 33-as sorozat erre a motívumra épül. Igaz ugyan, hogy az Aenigma
+egész költeményt épít rá, a 34. vers pedig csak egyetlen sorban említi. Az is igaz, hogy az
+egyik esetben búslakodó, a másik esetben víg hattyúról van szó. Ám akár a hasonlóságra,
+akár a különbözőségre figyelünk, kétségtelen, hogy a két ciklus-nyitás összefügg, egymást
+is értelmezi. Ezért gondolhatunk arra, hogy a ciklusokat nyitó versek a nagykompozíció
+létrejöttekor, a költő Lengyelországba bujdosása előtt kerülhettek a helyükre (vagy akár
+arra is, hogy ekkor jöhettek létre).
+De tágítsuk még tovább a lehetőségeket! Nincsenek olyan forrásaink, melyek pontosan
+mutatnák be Balassi kompozícióját. A Balassa-kódex a 61. vers lejegyzésénél megszakad,
+filológiai vita tárgya, hogy a többszöri másolás során miféle torzulások kerültek a kódex
+szerkezetébe. Már a 2×33-as ciklus-szerkezet is csupán erős hipotézis. Sőt, a kódexben ezt
+követően még zavarosabb a helyzet. De valahogyan mégis a kódexbe kerülnek a Lengyelországban írott Célia-versek is. Ezekről általában úgy beszélünk, mint amik Balassi életének teljesen új fejezetéhez tartoznak. Annak ellenére teljesen külön ciklusként olvassuk
+a 10 versből álló kiskompozíciót, hogy benne lépten-nyomon Juliára vonatkozó utalásokat,
+hasonlításokat találunk. Megengedhetőnek tartom azt az elképzelést is, hogy a Célia-versek
+szorosabban kapcsolódnak a Nagyciklushoz, mint ahogyan korábban gondoltuk. A Balassakódex ezügyben nem kínál könnyű megoldást, több nehéz filológia kérdés miatt homályos
+– mondhatni: enigmatikus – a teljes kompozíció szerkezete. A hattyú-motívum mindenesetre nem mond ellent ennek a legutolsó szerkezeti elképzelésnek. A Célia-versek sorozata ugyanis csonka, sajnos éppen az első darab hiányzik.
+
+JEGYZETEK
+1
+2
+
+3
+4
+
+5
+6
+
+KLANICZAY Tibor: A szerelem költője, in: uő.: Reneszánsz és barokk, Budapest 1961. 225.
+GERÉZDI Rabán–KLANICZAY Tibor: A magyar irodalom története 1., Akadémiai Kiadó, Budapest 1964. Balassi Bálint-fejezet, 471.
+I. h.
+HORVÁTH Iván: Balassi költészete történeti poétikai megközelítésben, Akadémiai Kiadó, Budapest 1982.
+Balassi Bálint összes versei, szerk.: HORVÁTH Iván, Újvidék 1976.
+Legteljesebb formájában: VARJAS Béla: Balassi lírai regénye: a Nagyciklus, in: Uő.: A magyar
+reneszánsz irodalom társadalmi gyökerei, Akadémia Kiadó, Budapest 1982. 309–346.
+
+15
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+13
+
+14
+15
+16
+17
+
+18
+
+19
+
+20
+
+21
+22
+
+23
+
+24
+25
+
+A versek kiadása: Régi Magyar Költők Tára, XVII. század. 14. kötet, sajtó alá rendezte: JANKOVICS József, Akadémiai Kiadó, Budapest 1991. 99. sz. 100. sz. A Palimpsestus… kéziratára FONT
+Zsuzsanna hívta fel a figyelmet.
+Noha már DÉZSI Lajos említi ezt a szöveget, KŐSZEGHY Péter látszólag nem vesz tudomást róla.
+„A magam részéről a századból egyáltalán nem ismerek több népnyelvű aenigmát.” – Az aenigmatikus aenigma. in: Fata libelli. A nyolcvanéves Borsa Gedeon köszöntésére írták barátai és
+tanítványai. Budapest 2003. Országos Széchényi Könyvtár. 229-232. Vélhetően azért nem számol
+a Döbrentei-kódex szövegével, mert tanulmányában élesen megkülönbözteti a neolatin aenigma
+és a népnyelvi mese fogalmát. Számunkra e két fogalom azonos.
+A vers kiadása: Régi Magyar Költők Tára I2, Sajtó alá rendezte HORVÁTH Cyrill, Budapest. 1921.
+144. A teljes kódex hasonmása: Döbrentei-kódex – 1508 – Halábori Bertalan keze írásával.
+Közzéteszi: ABAFFY Csilla, T. SZABÓ Csilla, MADAS Edit; Argumentum Kiadó – Magyar nyelvtudományi Társaság, Budapest 1995.
+Idézi: ECKHARDT Sándor: Balassi Bálint, a Franklin Társulat kiadása, H. n. É. n. [Budapest,
+1941.] 22.
+Részleges magyar fordítása: Retorikák a reformáció korából, Szerk: IMRE Mihály, Debrecen
+2000. Csokonai Könyvtár. Források (Régi kortársaink) 5. 70–71.
+I. m. 308–310.
+PIRNÁT Antal: Balassi poétikája, Balassi Kiadó, Budapest 1996. (Humanizmus és reformáció,
+24.) 23.
+ECKHARD Sándor, i. m. 33.
+KŐSZEGHY Péter, i. m. 230.
+ItK 1905. 166–173, GÉBER Antal közlése.
+Idézi: Régi Magyar Költők Tára XVII. sz. 1. kötet, A szóbanforgó részt sajtó alá rendezte és
+a jegyzetet írta BISZTRAY Gyula. Akadémiai Kiadó, Budapest 1959. 586–587.
+GÁLOS Rezső: Amade László kiadatlan versei, Győri Szemle 1936. 192–193., idézi: Régi Magyar
+Költők Tára XVII. sz. 1. kötet, 585.
+Régi Magyar Költők Tára, XVII. sz. 3. kötet, sajtó alá rendezte: STOLL Béla, Akadémiai Kiadó,
+Budapest 1961. 99. sz
+Régi Magyar Költők Tára XVII. sz. 1. kötet, A szóbanforgó részt sajtó alá rendezte és a jegyzetet
+írta BISZTRAY Gyula. Akadémiai Kiadó, Budapest 1959. 64. sz.
+I. h. 585.
+Ehhez ld. VADAI István: A XVII. századi magyar költészet: idézetek poétikája (II.), ItK XCIII.
+(1989) 281–286.
+MAGNUS, Albertus: Az állatokról, vál.: KÁDÁR Zoltán, ford.: MAGYAR László András, Balassi
+Kiadó, Budapest 1996. 119.
+I. m. 116.
+Idézi ECKHARDT Sándor, i. m. 23.
+
+16
+
+

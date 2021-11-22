@@ -1,0 +1,509 @@
+A TISZATÁJ DIÁKMELLÉKLETE
+1999. NOVEMBER
+
+64. SZÁM
+
+KISS LÁSZLÓ
+
+Antinómia és egység
+EGY ELBESZÉLÕI POZÍCIÓ FEJLÕDÉSE EGY „IGAZSÁG-NOVELLÁBAN”
+(Kosztolányi Dezső Paulina című novellájáról)
+„Ha nincsen objektív igazság, nem lehetne olyan
+alapot találni, melyhez egyértelműen kötődhetne
+valamilyen emberi tartás és tartalom… Illetve csak
+egy alap van, ez pedig annak biztos tudata, hogy
+nincs semmiféle alap. A paradoxonok világa egy
+paradoxonnal kezdődik és csak ez nem paradox benne.”
+(Belohorszky Pál)1
+„A játszótársam, mondd, akarsz-e lenni…?”
+(Kosztolányi Dezső)
+
+Kosztolányi Dezső ’érett’ alkotói korszakának terméke a Latin arcélek-ciklus, amely négy novellát (Paulina, Silus, Aurelius, Caligula) tartalmaz.
+Kosztolányi mindig is vonzódott az antik világhoz,
+költőinek szigorú klasszicizmusához, poétikájához,
+s az említett novellákon kívül írt verset, publicisztikát
+is latin címmel, római köntösbe bújtatva. A latin nyelv
+elsajátítása nyilvánvalóan hatással volt Kosztolányi
+Dezső szóban forgó időszakának nyelvezetére, az író
+kifejezésmódjára, ami a dolgozatban tárgyalt novella
+értelmezésekor (is) különösen fontos, hiszen az érettnek nevezett pályaszakasz írásait – így többek között
+a fent említett ciklus műveit – alapvetően a lényegre
+szorítkozó megfogalmazás, virtuóz, szűkszavú stílus,
+klasszikus tömörségű mondatok jellemzik. „Novelláinak elbeszélője az esetek többségében kívül áll az elmondott történeten; a hősök gondolatait és érzelmeit
+általában tökéletesen ismeri, és maximák, szentenciák
+segítségével értelmezi … prózai írásai többségének
+erősen példabeszéd jellege van.”2
+
+KOSZTOLÁNYI DEZSŐ
+(1885–1936)
+A novella … szerkezetileg
+jól tagolható, két nagy részre
+bontható, mind nyelvi, mind
+pedig tartalmi-poétikai
+ismérvek alapján: egy
+cselekménnyel dúsított,
+valamint egy jóformán
+minden cselekményt
+nélkülöző részre, amely –
+miként ez jellemző az élete
+utolsó évtizedében járó
+Kosztolányira – tanulsággal,
+bölcseleti konzekvenciával
+zárul.
+
+A Latin arcélek négy novellája közül csupán a Caligula hagyott mélyebb nyomot
+a Kosztolányi-szakirodalomban: számtalan megközelítésből tárgyalták már, ami nem
+véletlen, hiszen megannyi értelmezés, szempont számára kínál lehetőséget, s részét
+képezi pl. az 1970-ben, Szegeden megtartott novellaelemző-konferencia anyagának is.3
+Egybehangzó a vélekedés, miszerint a Caligulának az 1920 utáni Kosztolányi-próza
+legjobb, illetve legjellemzőbb darabjai között a helye.
+Ezzel szemben a ciklus maradék három novellájának elhanyagolt szerep jutott idáig
+a kutatásban, holott számos érdekességgel rendelkeznek, és sok esetben választ, illetve
+megerősítést adnak az író képviselte gondolatokra, megvilágítják szemléletének bizonyos pontjait, s mindegyik magán hordja az ’érett’ korszak karakterisztikus jegyeit.
+A legizgalmasabb kihívásnak talán épp ezért a Latin arcélek írásainak összehasonlító elemzése ígérkezik, a jelen munkában azonban csupán a tetralógia első darabját, az
+1929-ben írott Paulinát vizsgálom, felvillantva néhány megközelítési lehetőséget, melyek mindegyike egy – ahogy erre a második mottó is utal –, az elbeszélő irányította
+játék összefüggésrendszerében él. Játék magával a narrátori szereppel, s az olvasóval is.
+A századforduló körüli, illetve az azt követő jelentős irodalmi átalakulások sorába
+tartozik többek között a próza lirizálódása, s ami ezzel együtt járt: egy jellegzetes narrátori szituáció – az elbeszélő része a cselekménynek – elterjedése és a kifejező funkció
+erősödése az ábrázoló funkcióval szemben, de az újítások része a novella műfajának
+heterogenizálódása is, új műfajok jelentkezése a kisprózán belül. A változások erősen
+hatottak a fiatal Kosztolányira, s formálták stílusát a kezdetektől egészen 1936-ban
+bekövetkezett haláláig. Ezért szükséges néhány szóban kitérni a Paulina műfaji behatárolására is, hisz a mű az ún. ’hagyományos’ novellától eltérő felépítésű, eltérő szerkesztettségű alkotások sorát gazdagítja.
+Szegedy-Maszák Mihály egy tanulmányában különbséget tesz puszta elbeszélés és
+rövid történet között. Megfogalmazása szerint a „puszta elbeszélés lényege abban van,
+hogy benne a cselekmény, a szereplők és a környezet a betű szerinti síkon funkcionálnak, a leírás díszítő jellegű. A puszta elbeszélés azonnali kielégülést nyújt olvasójának,
+mert jelentése nyilvánvaló…”4 Ezzel szemben áll a rövid történet, amelyben „a cselekmény, a szereplők és a környezet a metaforikus szinten … funkcionálnak, s a leírás
+is allegorikus vagy szimbolikus jellegű … jelentése kontextuális, nehezen parafrazálható… A rövid történetben a metaforikus szinten kibontakozó kapcsolatok összessége
+a szöveg rendezőelve…”5 Magam, ez elhatárolást elfogadva, a Paulinát a rövid történetek közé sorolhatónak vélem, a következőkben kifejtett metaforikus háló szöveg- és
+értelmezésszervező funkciója miatt.
+Noha a szöveg számtalan megközelítésből tárgyalható, dolgozatomban két irányból ragadom meg: egyfelől a mű tanulságán, szentenciózusan megfogalmazott mondanivalóján, ’üzenetén’, másfelől a narrátori pozíció különös alakulásán – alakításán – keresztül. E két szempont nem függetleníthető egymástól, szorosan összetartoznak,
+mondhatni párhuzamosan gördítik előre a szöveget. A két megközelítésből adódó paralel elemzés, mind jelentéstanilag, mind a novella szerkesztését tekintve egységbe torkollik, melynek bemutatását követően megkísérlem Kosztolányi Dezső más írásaiból
+vett idézetekkel alátámasztani az író bizonyos – természetesen a Paulinában is tetten
+érhető – nézeteit, gondolatait, egészen konkrétan: utalni rá, milyen szerepet tulajdonít
+Kosztolányi a költőnek, az alkotó életformának a mindennapok során, mit jelent
+számára a költői szerep, mi lehet ennek az értékrendje.
+
+2
+
+A Paulinában éles cezúra különíthető el, amely azonban – a paradoxonok jelentőségéről még lesz szó – pusztán látszólag töri meg a szöveget, hisz a már említett, az
+íráson végighúzódó, folyamatosan fejlődő narrátori szerep, illetőleg a kezdettől ott
+lapuló filozófiai kérdés – ’tétel’ – határozottan egységesítő erővel bír, s olvad majd
+össze a mű utolsó mondataiban. A fő vonulatokat számos, ellenpontozásra, ellentételezésre épülő mellékvonulat támasztja alá, s a többszintűség, illetve a paradoxonok
+– a cím is ilyen – metaforikus, szimbolikus szintek sokaságát hozzák létre, alakítanak
+antinómiából egységet, disszonanciából konszonanciát. E kettőségre felépített szerkesztés egyfelől feszültséget kelt, másfelől fel is oldja azt.
+Mindez azt jelenti tehát, hogy a rövid, alig több, mint két oldal hosszúságú novellának számos szemantikai és grammatikai csomópontja van, melyek mindegyike mintegy állomásként szolgál a korábban említett összefüggésrendszeren – vagyis a szövegen
+– belül. Állomásként egy úton, amely amellett, hogy befejez(het)etlen – hisz értelmezésről van szó –, egyszersmind befejezett is. Ez a befejezettség az, tehát: a narrátori
+szerep egyenes vonalú alakulása, és a tanulság ezen keresztül történő levonása, ami
+különösen érdekessé teszi az elbeszélői pozíciót. Következésképp az elemzés ebből
+a szempontból lezárt lehet, azaz találhatunk ’kiutat’, de az addig vezető út állomásai
+alkotta – grammatikai, szemantikai – háló szükségszerűen a szövegből való kilépés
+lehetetlenségét, a teljesség érzését hozza magával – tehát a korlátlanságét is. Egyszóval
+a ’kiút’ a be-, illetve lezártságot eredményezi azáltal, hogy egy szóba jöhető értelmezési
+stratégia szálai tovább már nem bogozhatók.
+A számtalan irányban mozgó értelmezési lehetőségek, egyszersmind a lezártság
+hátteréül végig hiánytalan, pontos díszletet állít fel az író. A ’díszlet’, a dramaturgia
+fogalma egyébként okkal használható, hisz a novella meglehetősen ’teátrális’, már-már
+egy színházi előadás benyomását kelti. Kosztolányi szűkmarkúan, gazdaságosan bánva
+a nyelvi anyaggal rajzolja meg a díszletet, ábrázolja a kellékeket, bújtatja jelmezbe
+szereplőit. A mű, mint ahogy ezt alább részletesen kifejtem, két részre – akár két felvonás – osztható, s a ’felvonásokat’ átvezető kép is – a telehold, mely más szempontból még fontosabb – igen színpadias hatású.
+A cím velős és – ahogy ez majd később derül ki – sokatmondó, hiszen nem csupán
+egy egyszerű római rabszolgalányt jelöl. Egyszerre metafora és megszemélyesítés, sőt
+paradoxon is. Alább lesz még róla szó.
+A novella tehát szerkezetileg jól tagolható, két nagy részre bontható, mind nyelvi,
+mind pedig tartalmi-poétikai ismérvek alapján: egy cselekménnyel dúsított, valamint
+egy jóformán minden cselekményt nélkülöző részre, amely – miként ez jellemző az
+élete utolsó évtizedében járó Kosztolányira – tanulsággal, bölcseleti konzekvenciával
+zárul.
+„Sárga telehold lebegett a Colosseum fölött.”6 – e mondat választja el egymástól
+a Paulina két részét. Újra meg kell azonban említeni: a fenti elhatárolás nélkül is elemezhető az írás, hiszen a novella egységes, átfedés van a két fő rész között, ami erősíti
+a ’szőttes’ megbonthatatlanságát. Nem beszélve ismét arról, hogy a narrátori pozíció
+folyamatos átalakulása, párhuzamosan, végül szorosan összefonódva az igazság kérdésének központba állításával, végighúzódik az íráson, egészen a mű befejezéséig. Az
+általam a dolgozatban alkalmazott interpretációs módszer azonban e felosztást mindenképpen szükségessé teszi.
+
+3
+
+A novella első mondata – „Az Aventinuson volt egy kurtakocsma” – alapvető, az
+egész művet meghatározó helyzetet teremt, és befolyásolhatja az olvasónak a novellához való viszonyulását. A tömörség, a kurtakocsma említése ugyanis felkészít az írás
+sűrítettségére, mely grammatikailag a rövid mondatokban, szemantikailag pl. a Paulina
+név választásában realizálódik.7 A novellában megfogalmazott gondolat pedig sokkal
+hatásosabb egy rövid lélegzetű műben. A rövidségnek a novella lüktetése, ritmusossága
+szempontjából is nélkülözhetetlen szerep tulajdonítható. Ilyen lüktetést, szaggatottságot okoz például a rögtön az első bekezdésben használt gyakorító ige: „…s piros bort
+iddogáltak”, de ugyanez a pulzáló, mozgalmasságot előidéző hatás jelentkezik a hajóács
+ijedt fölugrásakor, a praetori katonák kardjának csörrenésekor, a leány hirtelen támadt
+agresszivitásából, sivalkodásából, hadonászásából is.
+A Paulinát szinte végig jellemző rövid mondatok közé ékelődik négy hosszabb is,
+melyek két szempontból fontosak. Egyfelől csupán a novella első részében jelentkeznek, másfelől ez eseményekben gazdag, a mű képét befolyásoló fő egység alapvető
+rétegeit különítik el. Így a négy, alább idézett hosszabb mondatnak köszönhetően az
+első nagy egység (első {fő}rész) négy alegységre bomlik.
+Egyszer, amint elhaladt egyik asztal mellett a pörkölt hallal, valami kappadóciai hajóács ijedten a tunikájához kapott, és fölugrott.
+Az első határvonal. Ezt megelőzően négy mondattal viszi fel a vászonra az alapszíneket az író. Hallunk egy kocsmáról, ahová matrózok járnak, meglátjuk a címszereplőt is, egy, az átlagosnál szebb, rabszolgában ritka bájos leányt – a vörös haj és a kék
+szem kiemelése legalábbis Paulinának e jellemzőjét kívánja hangsúlyozni. Ez a paradoxon fontos lesz a továbbiakban, s szervesen illeszkedik majd az ellentmondások, illetve
+ellentétek rendszerébe.
+Mintegy felülről láttat az író, külső nézőpontú a narráció, sőt a következő kis
+alegységben már a párbeszédek dominálnak – a szerző változatlanul csak a kontúrokra,
+az árnyalásra szorítkozik.
+A második alegység cselekménye elindít egy olyan folyamatot, mely lavinaként –
+paradoxon! – kezd gördülni, s amelyből végül kibomlik a tanulság is.8
+Itt a kocsmai „kavarodás”, a zűrzavar, a tisztázatlanság – és az ártatlanság nyilvánvalósága az alapmozzanat. Ez utóbbit egyértelműen jelzi számunkra az író a tolvaj –
+egy hajóslegény – megnevezésével.
+– Indulj – vezényelt az egyik katona – az alacsony és kancsal –, s úgy meglökte a lányt,
+hogy az kitántorgott az utcára.
+Ez a mondat újból egy rövid alegységhez kapcsolódik, mely ismét másik helyszínen, az utcán játszódik, amelyről képet kaptunk már az első alegységben is. Mostanra
+azonban bővültek ismereteink: a párbeszédekből kirajzolódó konfliktus kerül a középpontba, az igazságért való küzdelem – az igazság küzdelme –, mely a novella alapvető kérdése is egyben, ezt neveztem korábban filozófiai ’tételnek’. A konfliktus érik,
+fejlődik tehát, bár a szövegrészlet még nem vetíti előre egy síkváltás lehetőségét.
+De amikor megragadta a karját, hogy előretuszkolja, a lány ráugrott, mint egy vadmacska, s végigkarmolta az arcát.
+Az utolsó, a negyedik alegységet vezeti be a mondat, melynek során a küzdelem
+kiélesedik, és ismét kavarodásnak vagyunk tanúi, akár a második alegységben. Ez a ta-
+
+4
+
+golás – utca, kavarodás, utca, kavarodás – érezhető rendszert ad a novellának. A leány
+– ti. az igazság9 – jajszava erősödik, majd a fokozatos hangzavarral egyszerre távolodik
+is. Ez, valamint a viharos gyorsaságú térváltások és lendületes interakciók a második fő
+rész enyhült körülményeivel szemben, megfelelnek a mű ellentétekre, illetve kettősségre épülő felépítésének, mindamellett a cselekmény folyamatossága egységet biztosít:
+a leány meghurcolása, majd Paulina – most már mint az igazság szimbóluma – erkölcsi
+felülemelkedése a katonákon, végül pedig „óriás hangjának” fokozatos elcsitulása. Ez
+a folyamat rokonítható az egész elbeszélés azon jellegével, amely a ’kiút’, a lezártság
+élményéből fakad.
+A negyedik hosszabb mondat –
+Hálóköntösben, papucsban csoszogtak a kapuk elé, s hallgatták ezt a vad rikácsolást,
+a hangot, az óriás hangot, mely utcáról utcára haladt a rabszolgalánnyal együtt.
+– véglegesen lezárja az első részt.
+Hangsúlyos szerepet kapnak a színek, illetve az ezekhez kapcsolódó szimbólumok.
+Az éjszaka, az éji őrség, a nyári éjszaka, a hálóköntös említése sötét alaphelyzetet teremt, s ez a borús szín végig jellemző lesz. Hatását a mély magánhangzók gyakorisága
+csak nyomatékosítja. A sötétség – a novella egészének ismeretében – morális sötétséget
+is jelent, kiúttalanságot, az igazság lehetetlenségét, megvalósulhatatlanságát.10 Az éjszaka a káoszt jelképezi, valamint a halált. Nem véletlen, hogy az elbeszélés végén
+Paulina esetleges halála is felmerül. A külvárosinak festett éji lebuj, a maszatos – újabb
+paradoxon, hiszen mosdatlanságával ellentétben szép – konyhalány, az embertelen bánásmód, a lopás ténye is mind-mind sötét tónust kölcsönöznek az írásnak.
+Ezt a komor hangulatot ellensúlyozza a vörös és kék színek említése, valamint
+gondos pontossággal történő elrendezésük, ami ugyancsak a novella szerkesztettségét
+biztosítja. Az első alegységben Paulina vörös hajáról, kék szeméről olvasunk, a matrózok piros bort iddogálnak. A negyedik alegységben kibomlik a rabszolgaleány „vörös
+haja, és izzott a kék szeme”, a katona vére pedig csurog.11 Mindkét szín századokra
+visszamenő szimbolikus tartalom hordozója.12 A vörös (piros) a vér – itt kell újból
+utalni a katona vére és a bor közötti megfelelésre –, ugyanakkor a libidó, s a földi
+szenvedélyek színe is (ld. következő bekezdés). A kék a víz, a tenger szimbóluma,
+s szemantikai összetartozást biztosít Paulina szeme, valamint az iddogáló matrózok,
+a hajóács és a hajóslegény között. Ráadásul a második nagy egységben az író szökőkútról beszél, azonkívül a Tiberist is megemlíti, s így a két főrész közti, szimbólumokra
+alapozott egységet is megvalósítja. Mindamellett a kék (víz) a vörös (vér, tűz) ellentettje, s a leány izzó kék szeme megint csak az ellenpontozásra épített szerkesztést
+bizonyítja. Paulina halat szolgál fel, ami – akár a macska („a lány ráugrott, mint egy
+vadmacska”) – jellegzetesen női princípium, azonfelül pedig fallikus szimbólum is. Ezt
+szintén a következő bekezdésben foglaltak erősíthetik meg.
+A vörös haj és kék szem kiemeli ugyanis Paulinát ismeretlen, de tudatunkban sztereotipizált sorstársai köréből, érezteti attraktivitását – meg akarták ölelni, rögtön körülfogják: Paulinának erotikus kisugárzása van –, s talán a primer szinten egyfajta szexuális elfojtás is lehet meghurcoltatásának oka (ne feledjük: az alacsony, kancsal akarta
+megölelni a lányt!). Szekunder szinten azonban az ő megalázása egyben meggyalázása
+egy sokat hangoztatott, követelt eszmének is. Az igazság keresése az az Ariadné-fonál,
+amely vezet tehát bennünket, s érezhető az összefüggés a novella mondanivalója és
+a grammatikai szerkesztés között.
+
+5
+
+Mielőtt átlépnénk a következő részbe, szólni kell az írás dinamikájának, lendületének és gördülékenységének jelentőségéről. A dolgozat bevezetésében már utaltam
+a korabeli próza lirizálódásának általánosan megfigyelhető tendenciájára.13 Azt, hogy
+egy elbeszélés poétikus jegyekkel rendelkezik, számos megoldás bizonyítja. Nem egy
+ilyen fogás egészen szembeötlő a Paulinában is. Azért fontos a mű poétikusságáról
+szólni, mert a dolgozat célja, hogy rámutasson: a Paulina megírásának miértjére a költői szerep igazolása, a költő alakjának középpontba állítása lehet a válasz.
+A novella költőisége elsősorban a ritmusosságból fakad. A rövid és hosszú mondatok variabilitása lüktet a szövegben. Szó volt már a tömör mondatok közé elhelyezett
+négy hosszabb mondat szerkezetet determináló fontosságáról. A hosszúságukban különböző mondatok rendszerszerű váltakozása a mű ritmusára alapvető hatással van,
+mintegy ritmikai egységeket hoz létre. Szemantikailag azért elhanyagolhatatlan tényező ez, mert a hosszabb mondatok mindegyike újabb mozzanattal viszi előre az
+eseménysort. Kitüntetett szerepe van az utolsó hosszabb mondatnak, hisz egyrészt
+megalapozza az átváltást a következő fő részbe, másrészt az emberek csoszogása, hálóköntösök viselése a lelassulás érzetét kelti, amely szintén a váltás szolgálatában áll.
+Ugyancsak a ritmust erősíti, ha a hosszabb mondatokban az igék vannak túlsúlyban.
+Ez a Paulinában mind a négy, alegységeket elkülönítő mondatra jellemző.
+Az általában rövid szavakból felépített pattogó, tömör mondatokból álló szöveg
+poétikusságának nem elhanyagolható stilisztikai alapeleme Kosztolányi dialógusainak
+élőbeszédszerűsége sem. Ez különösen az első részben domináns. A második részben
+már lassulás figyelhető meg, de természetesen ennek is megvan a funkciója, hisz a bölcs
+és a költő közt zajló párbeszéd intellektualitásához nyugodt, csendes körülmények
+szükségesek. Ezt szolgálja a pusztán két szereplő a megelőző rész tömegjeleneteivel
+kontrasztban, valamint a túlnyomórészt elnyújtott mondatok használata.
+A második fő részbe átvezető sárga telehold (női princípium!) képe – amely minden bizonnyal hatásosabb lehetne külön bekezdésben – nem csupán az üres, közönyös
+égboltot, Juppiter és a megváltás hiányát, a gondviselésbe vetett hit megrendülését
+jelképezi (vö.: 11. sz. jegyzet), hanem újabb függöny is a képzeletbeli színpadon: jelzi,
+új felvonás kezdődik, egyben sugallja a második rész lényegét is azáltal, hogy a megvilágosodás, az örök fény, az intellektus metaforája. Az író most már nem csupán
+kontúroz, hanem szabályosan ’belenyúl’ a műbe, helyet csinál a két – voltaképpen egy
+– szereplőnek. E két szereplő – a költő és a bölcs – beszélgetése már egy teljesen új
+helyszínen zajlik, és a váltást csak erősíti, hogy az első fő egységet lezáró hosszabb
+mondatban „(az emberek – K.L.) Hálóköntösben, papucsban csoszogtak a kapuk elé”,
+hiszen a kapuk képének felidézése is átvezetést, egy új térbe történő átváltást feltételez.
+Megint csak tanúi lehetünk, miként szövi egybe az író a grammatikai és a szemantikai
+fonalat.
+A Hold sugallta mélyértelműség és intellektus, bár a párbeszéd „kései órán” folyik,
+világos, fényes tónust ad e résznek, amivel megteremti a két fő rész közti feszültséget
+is. Mégis, ez az ellentmondás, e szembenállás is – mégpedig a két nagy egység között
+átvezető szemantikai-grammatikai szálak következtében – feloldódik (voltaképpen
+egybefonódik), s igazolja a dolgozat címében szereplő, antinómiából származó egységességet.
+Kosztolányi Dezső műveiben az egyes szereplők nevének mindig hangsúlyos a jelentősége, s mindig tudatos választás eredménye. Erről maga is többször írt, egyhelyütt
+pl. ilyen egyértelműséggel:
+
+6
+
+Számunkra (ti. a költők számára – K. L.) a név se közönyös. A név maga az ember
+(kiemelés tőlem – K. L.).14
+Gyakran utaltam már arra, hogy Paulina nevének jelentése és a leány műben elfoglalt pozíciója milyen következtetések leszűrését teszi lehetővé. E helyütt kell szólni a
+novella két másik megnevezett szereplőjéről, a második fő részben megjelenő költőről
+és bölcsről. A poéta neve – Rufus – vöröset, rőt hajút jelent, ily módon Paulina vörös
+hajával ’rímel’. Ha a Tiberis és a szökőkút említése, illetve a lány szemével és a matrózokkal való kapcsolatuk megteremti a két fő egység közötti, szimbólumok szőtte átfedést, úgy a leány haja és a költő neve között létesített összefüggés is ezt a funkciót
+látja el. A „sztoikus bölcs” neve – Mutius – a latin ’mutus’ melléknévből származtatható, ami némát, szótlant jelent. Itt sztoicizmusát, rezignált nyugalmát és bölcs belátását jelenti, amely minden bizonnyal életkorából is fakad, hiszen vezetékneve – Argentinus – az ezüst szóból (argentum) eredeztethető, s talán ősz hajára (!) utal.
+A Paulina második részében már nem szükséges a felosztást elvégeznünk: egy helyszínen, egy szereplő – maga az elbeszélő – nézőpontjából zajlik le minden. E nézőpont
+pedig egyszerre belső és külső, de ez végső soron most egy és ugyanaz. A narrátor
+önmagával paroláz, miközben az olvasóhoz szól. A monológ – dialóg alapja természetesen figuráinak beszéltetése. A költő és a bölcs párbeszéde.
+A külső nézőpont fokozatosan válik tehát belsővé. Mindez pedig egy folyamatos –
+már sokszor említett – belső fejlődés eredménye, melynek számos összekötő kapcsa
+van. A már korábban kiemelteken kívül nem engedik elszakadni a fonalat a dichotómiák, kettősségek sem: meglopott kappadóciai hajóács – tolvaj hajóslegény; a Paulina
+név jelentése – nagyság és hatalmasság, ami a novella végére a lányra jellemző lesz;
+„A katona nevetett…–…A katona vére csurgott”; csöndes éjszaka – toporzékoló lány;
+igazság – igazságtalanság. Ugyanezt biztosítják a dupla felkiáltások: „Tolvaj … tolvaj”;
+„Disznók … disznók”; „Emberek … emberek”; „ártatlan … ártatlan”; „Gazemberek …
+gazemberek”; „Caesar is gazember … Caesar is gazember”, és ezt a funkciót látják el a
+paradoxonok is, a fent már említettek mellett természetesen a legfontosabb, a költő és
+a bölcs dialógusából adódó, mely már a fejlődés beérése – azaz a narratív, egyáltalán
+nem váratlan fordulat –, ahogy az elbeszélő, aki bölcs, de elsősorban költő, beleolvad
+saját művébe:
+– Nevetséges – jegyezte meg a bölcs. – Minden indulat nevetséges.
+– Minden indulat fönséges – szólt a költő.
+A költő szava ez, aki inkább nem foglal állást nyilvánosan, mert tisztában van vele,
+hogy minden érték viszonylagos, és ezt csak az tudhatja, aki ismeri az ellentétes oldalak érveit. Már korábban, a Nero, a véres költőben hangot ad e nézetének Kosztolányi,
+a nagy sztoikus, Seneca szájába adván véleményét a dolgok abszolút mivoltának hiábavalóságáról:
+Költő voltam és bölcs. Közönyös, mint a természet. Csak az örökkévaló dolgokról volt
+véleményem, de erre nem voltak kíváncsiak …. Mikor gondolkozni kényszerítettek, …
+rájöttem, hogy az ő ügyükről, melyekről nekik csak egy véleményük volt, nekem legalább
+két véleményem van, hol ez, hol pedig az, amilyen oldalról szemlélem. A költőben minden
+megfér egymás mellett, jó és rossz, arany és sár …. Minden igazságnak két színe van, s én
+mind a kettőt egyszerre láttam …. az egész igazság birtokomban volt, amit ők nem lettek
+volna képesek elviselni.15
+
+7
+
+Vagy szintén ebben a regényben:
+– Mi az igazság? – kérdezte Nero mohón.
+– Az igazság? Jaj, nincs igazság. Azaz, annyi igazság van, ahány ember van.16
+Kosztolányi Dezső Három arckép című, 1929(!)-ben írott karcolatában két ifjú irodalmár ír tanulmányt ugyanarról a költőről, teljesen más megközelítésben.17 A rövid
+írás felépítése hasonló az elemzett novelláéhoz, ráadásul a tollrajz utolsó szakaszában
+az elbeszélő maga szól, s szavai egyeznek a fent leírtakkal:
+– Voltaképp mindkét arckép sikerült. Mindkettőjüknek igaza van, tehát egyikőjüknek
+sincs igaza.18
+Máshol pedig így fogalmaz:
+(a költő – K.L.) Mindent és mindenkit ért egyszerre, az egész világot, s ami körötte van,
+sár és fény, rongy és selyem, forradalom és konzervatizmus, csak anyag számára, melynek
+hangulattartalmát magába hasonlítja, és örökkévalóvá teszi egy pillanatban.19
+Érdekes, bár a jelen értelmezés szempontjait tekintve nem meghatározó jelentőségű
+momentum, hogy a leány, végső elkeseredettségében, Caesart is átkozza. A diktátor
+nevének említése egyfelől a Latin arcélek novelláinak korábban felvetett lehetséges
+összehasonlító elemzése esetén szolgálhatna nélkülözhetetlen adalékkal20, másfelől
+azonban a tárgyalt novella általam alkalmazott megközelítésének is lehet építőköve.
+A lány átkozódása ugyanis mintegy hierarchikus sorrendet állít fel: „Gazemberek, gazemberek … Minden zsoldos gazember … Caesar is gazember.” – hogy mindez egy
+keserves, átkos sóhajba fulladjon: „Jupiter…” A hierarchia természetesen nem tudatos,
+hiszen Paulina nagysága őszinte igazságérzetében, naiv felfogásában rejtezik. Ez a természetesség kizárja a tudatosságot. Caesar káromlásából, a zsoldosokkal együtt való
+emlegetéséből éppen a leány gondolkozásában lévő kuszaságra, rendszertelenségre
+következtethetünk, melynek ellenpontja az átkozódás tagoltsága, megformáltsága. De
+ez már az író finom, ravaszul foganatosított alakítása – úgy is lehetne fogalmazni:
+a játék része.
+A második fő részben végrehajtott – kiteljesedő – narrátori pozícióváltásból a költői szerep dominanciája csúcsosodik ki. Ennek ismeretében a Paulina című novellát
+önértelmezésként, a világháborút követő megrendült időszak zavarában írt kiútkeresésként, az egyetlen biztos fogódzó, a költő alakjának játékkal enyhített önző feltálalásaként is felfoghatjuk.21 A költő pedig szükségszerűen bölcs is22, hiszen
+Játék a költészet, de az elme játéka is.23
+Ezért fontos, hogy a novellának a költő és a bölcs az igazi főszereplője – azaz maga
+az író, Kosztolányi –, s Paulina csupán eszköz, hirtelen jött ihlet, valamint az ehhez
+kapcsolódó képzetek szimbóluma. Ezt a megállapítást erősíti az a gondolat is, hogy:
+„Az értelemnek szerepe van az alkotásban, de csak másodlagosan. Kosztolányi szerint
+az értelem (és ezért: a tudatos szándék) nem lehet forrása a műnek. A mű megalkotásához azonban elengedhetetlenül szükséges.”24 Innen már csupán egy lépés az Estinovellákban megjelenő személyiség, annak megkettőződése, illetve az ehhez kapcsolódó problémák kérdése. Kosztolányi így fogalmaz az Esti Kornél egyik fejezetében:
+
+8
+
+„Alapítsunk társascéget. Mit ér a költő ember nélkül? És mit ér az ember költő nélkül?
+Legyünk társszerzők. Egy ember gyönge ahhoz, hogy egyszerre írjon is, éljen is.25
+Ez a néhány megállapítás két, az elemzésem végkifejlete szempontjából nélkülözhetetlen adalékkal szolgál. Egyrészt az itt megjelenő ’ember’: a bölcs, a tudás birtokosa,
+a költői kettős szerep egyik képviselője, másrészt pedig: a hétköznapi ember, az átlagpolgár, vagyis az olvasó, akinek segítségével a mű új életre kel, s akit egyébként is
+gyakran invitál játékra Kosztolányi Dezső (vö.: akár ismét a második mottó verssorával). Ez utóbbi szempontot tekintve, a regényből vett idézet a művészet hatalmának,
+az életben való nélkülözhetetlenségének is meggyőző kifejezése.
+A játék pedig a Paulina végére érve kiteljesedik, tisztán kirajzolódnak pólusai:
+a megszemélyesített igazság az egyik oldalon, valamint az elbeszélő felold(ód)ása a bölcs
+és a költő alakjában a másikon. A két különböző pólust a bölcs költő igazságszemlélete fűzi össze, amelynek lényege a szubjektív emberi természettel szembeni sztoikus
+attitűd felvállalásában áll. „Az egység megvalósult.”26
+A gondolatmenet azonban akár még így is tovább fokozható: költő, ki – ihlete támadván –
+az ágyból kiugorva, föl-följegyezve egy mondatfoszlányt27,
+íróasztalánál játszik az igazság gondolatával. Alkot.
+Játék ez a mű tehát filozófiával, játék az olvasóval, a szavakkal, nevekkel – igazi
+költői alkotás. Ugyanakkor játék a költői szereppel is, magának a költőnek a játéka,
+a mindentudóé, aki a talán legféltettebb titokba, az ihlet pillanataiba is bebocsáttatást
+enged számunkra az utolsó sorokban (ld.: 27. sz. jegyzethez kapcsolódó idézetet) –
+ezzel vonva be végleg az olvasót is a játékba –, s viselt álarcát újból felvéve, sztoikus
+bölcsességgel enyhít a tehetetlenség okozta fájdalmon:
+Az igazság az utcán ment, és ordított. Mi pedig meghallottuk a szavát. Fölriadtunk
+ágyunkból, nem bírunk többé aludni … Róla gondolkozunk. Az igazságról. Lásd, még
+mindig erről beszélünk. Ez is valami.
+
+JEGYZETEK
+1
+
+2
+
+3
+
+4
+
+5
+
+Belohorszky Pál: Tragikus öröklét a pillanatban (Gondolatok Kosztolányi Dezső prózájáról), Világosság, 1972. 11. (677–683) 683.
+Angyalosi Gergely: A narrátor nézőpont-változatai Kosztolányi novellisztikájában, in:
+Angyalosi Gergely: A költő hét bordája, Latin Betűk, Debrecen, 1996. (32-40) 33. (kiemelés tőlem). A kiragadott részlet azért is lényeges a Paulina elemzése kapcsán, mert
+ebben a novellában a narrátor ’kívüllevősége’ egyben ennek ellentetjét is jelenti.
+A novellaelemzés új módszerei, szerk. Hankiss Elemér, Akadémiai Kiadó, Bp. 1971.
+A konferencia tanulmányai közül nem egy hasznos segítséget nyújtott a dolgozat megírásakor. Néhányra konkrétan hivatkozom is a kellő helyen.
+Szegedy-Maszák Mihály: Metaforikus szerkezet a Kosztolányi – és a Krúdy-novellában, in:
+Hankiss: i.m. (65–73 ) 65.
+uo. 65.
+
+9
+
+6
+
+7
+
+8
+
+9
+10
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+19
+
+20
+
+21
+
+A novellából vett idézetek lelőhelye: Kosztolányi Dezső összes novellája, Helikon Kiadó, é.n., sajtó alá rendezte és a jegyzeteket írta Réz Pál; 1201–1203. (A továbbiakban:
+Összes…).
+vö.: Paulina ~ Paulinus ~ paulus ~ paula: kevés, kicsi (szemantikailag továbbfűzhető:
+jelentéktelen, gyönge, esélytelen, törékeny stb.).
+A lavina hasonlathoz: a leány (paula!) hangja fokozatosan erősödik, s válik óriássá,
+dörgedelmessé.
+Paulinának az igazsággal való azonosítása a novella utolsó dialógusában történik meg.
+Paulina hangja fokozatosan halkul el a sötét kis utcákban.
+Lehet, hogy a törékeny, sokakban szánalmat ébresztő igazság kínzó égrekiáltása „az
+üres égbolt felé”, valamint a vér és a piros bor metaforák adalékok lehetnek egy, Kosztolányi Dezsőnek a kereszténységhez való viszonyáról szóló tanulmányhoz?
+Az egyes szimbólumok magyarázatához ld.: Szimbólumtár, szerk. Pál József, Újvári
+Edit, Balassi Kiadó, Bp. 1997.
+Ezt az állítást és a néhány sornyi stilisztikai fejtegetést Zsilka Tibor egy tanulmányára
+alapozom, Zsilka Tibor: Négy novella stilisztikai elemzése statisztikai módszerrel, Helikon, 1970. 351–362., illetve in: Hankiss: i.m. 257–273.
+Kosztolányi Dezső: Gyermek és költő, Pesti Hírlap Vasárnapja, 1930. július 13. in:
+Kosztolányi Dezső: Ábécé, Nyugat Kiadó és Irodalmi R.T. é.n. 141.
+Kosztolányi Dezső: Nero, a véres költő, Szépirodalmi Könyvkiadó, Bp. 1964. 259-260.
+Érdekes, hogy Seneca feleségét – akihez primer szinten a monológ szól – szintén Paulinának hívják.
+uo. 225. Bár konkrétan nem erről ír, de Nero-elemzésében Bezdán Györgyi is megemlíti egy jegyzetben a senecai objektív igazságot. (Bezdán Györgyi: „Mögötte, láthatatlan uszály, lebegett a végtelenség”, in: Tanulmányok Kosztolányi Dezsőről, szerk. Kulcsár
+Szabó Ernő, Szegedy-Maszák Mihály, Anonymus Kiadó, Bp., 1998. 77. 14. sz. jegyzet).
+Kosztolányi Dezső: Három arckép, in: Kosztolányi Dezső: Válogatott novellák és karcolatok, szerk. Réz Pál, Szépirodalmi Könyvkiadó, Bp., 1985. 713–714., Magyar Remekírók sorozat
+uo. 714.
+Kosztolányi Dezső: Költő és politika (vö.: Nero, a véres költő – K.L.), Pesti Hírlap, 1921.
+október 23. in: Kosztolányi Dezső: Az élet primadonnái, gyűjtötte, sajtó alá rendezte
+Urbán László, Palatinus-Intera Rt., Bp. 1997. 264., Palatinus könyvek (a cikket a szerkesztő a bizonytalan eredetű szövegekhez sorolta, bár erősen kosztolányis a stílus, s a
+szövegben előforduló tények sem állanak messze a Pesti Hírlap publicistája életének
+bizonyos jellegzetességeitől.). A fenti idézetek természetesen rokon vonásokkal rendelkeznek, de e hírlapi cikkrészletet különösen érdemes összevetni Seneca idézett monológjával.
+A négy novella két-két, a társadalmi ’ranglétra’ szélső pólusain helyet foglaló ember
+sorsát, életének jellegzetes pillanatait mutatja be. Paulina és Silus rabszolgák, Aurelius
+és Caligula pedig egy világbirodalom korlátlan urai, de egy ilyen összehasonlítás elvégzéséhez természetesen számtalan más kiindulópont is kínálkozik.
+A költői szerep hasonló apoteózisa, költő és bölcs, költészet és értelem – érzés és értelem – szembeállítása jelentkezik Kosztolányi Önmagamról c. írása harmadik részének
+negyedik fejezetében is: „Az értelem ítélete által tudhatom meg, hogy miről érdemes
+írni, és miről nem, hogy hol kezdődik a költészet határterülete. A költészet határterülete ott kezdődik, ahol az értelem már tehetetlen.” (Kosztolányi Dezső: Önmagamról /
+III, in: Tükörben: Kosztolányi Dezső, összeállította Réz Pál, Századvég Kiadó, Bp. 1993.
+4. fejezet, 11.).
+
+10
+
+22
+
+23
+24
+
+25
+26
+
+27
+
+A bölcs azonban nem szükségszerűen költő (ld.: 21. sz. jegyzet). Nem véletlen, hogy az
+utolsó mondat a novellabeli költő szájából hangzik el, melyben – ha ez a szöveg szintjén nem is jelenik meg – összemossa az ellenérveket, s egy bölcs megállapítással befejeződik a novella (ld. az elemzés utolsó mondatát.).
+l. a 14. sz. jegyzetet, 138.
+András Sándor: Kosztolányi Dezső és a művészet öncélúsága, in: András Sándor: Játék
+vagy kaland, Jelenkor 1998. 246.
+Kosztolányi Dezső: Esti Kornél, in: Összes…, 769.
+Kiss Ferenc: Esti Kornél és a Kosztolányi-novella, Itk. 1969. (47-62) 61. Kosztolányi
+gyakran alkalmazott fogásait Angyalosi Gergely is megemlíti, már idézett tanulmányában: „Különböző személyek lényegi azonosságáról, egy és ugyanazon személyiség
+titokzatos megkettőződéséről vagy két szereplő közötti személyiségcseréről szól talán
+a legtöbb Kosztolányi-novella.” (Angyalosi: i. m. 34.).
+Kosztolányi Dezső: A költő, Pesti Hírlap, 1933. február 14. in: Kosztolányi Dezső: Sötét bújócska, szerk. Réz Pál, Szépirodalmi Könyvkiadó, Bp. 1974. 25. 3. k.
+
+Paulina
+Az Aventinuson volt egy kurtakocsma. Matrózok jártak oda éjszakánként, s piros
+bort iddogáltak. Paulina, a kis maszatos konyhalány hordozta a tálakat. Vörös haja
+volt, és kék szeme. Egyszer, amint elhaladt egyik asztal mellett a pörkölt hallal, valami
+kappadóciai hajóács ijedten a tunikájához kapott, és fölugrott.
+– Hol a pénzem? Megloptak. Tolvaj – rivallt –, tolvaj.
+Kavarodás támadt. Közben a tolvaj – egy hajóslegény – kereket oldott.
+– Ez volt – mondták többen, s körülvették Paulinát. A lármára az utcáról két
+praetori katona rontott be, csörrenő karddal: az éji őrség.
+Elővették a rabszolgalányt.
+– Ide azzal a pénzzel.
+– Nincs nálam.
+– Akkor velünk jössz, babám.
+– Nem – sikított Paulina –, nem. Én ártatlan vagyok – s meg se moccant.
+– Indulj – vezényelt az egyik katona – az alacsony és kancsal –, s úgy meglökte
+a lányt, hogy az kitántorgott az utcára.
+Ott megint csak állt, mint a cövek.
+Erre a másik katona – a magasabbik – a karjához ért.
+– Ne nyúlj hozzám – ordította a lány. – Hagyj engem. Mert megharaplak.
+A katona nevetett.
+De amikor megragadta a karját, hogy előretuszkolja, a lány ráugrott, mint egy
+vadmacska, s végigkarmolta az orrát. A katona vére csurgott.
+Most a kancsal próbálkozott. Paulina hirtelen feléje fordult. Arcul köpte.
+
+11
+
+– Disznók – sivalkodott, s kibomlott vörös haja, és izzott a kék szeme –, disznók.
+Emberek, segítsetek. Emberek, én egész nap dolgozom, szegény vagyok, ártatlan,
+esküszöm az anyám sírjára, és édesanyám sírjára, ártatlan. Emberek, emberek.
+Az emberek, akik a csöndes nyári éjszakában ballagtak, ámulva nézték a két
+zsoldost. Dulakodtak a lánnyal, ököllel-karddal verték. Mégse bírtak vele.
+Aztán fölnyalábolták, s úgy vitték.
+– Dögök – üvöltött a levegőben, kalimpálva lábaival –, dögök. Öljetek meg.
+Gyilkoljatok. De azért kikiabálom, hogy ez a ronda, ez a kancsal, múltkor a kocsmában
+meg akart ölelni. Gazemberek, gazemberek. Mindnyájan gazemberek. Minden zsoldos
+gazember. Az uratok, Caesar is gazember. Caesar is gazember. Jupiter – hadonászott
+a kezeivel az üres égbolt felé.
+A szörnyű ordításra, mely nem csitult Róma utcáin, fölébredtek az emberek.
+Hálóköntösben, papucsban csoszogtak a kapuk elé, s hallgatták ezt a vad rikácsolást,
+a hangot, az óriás hangot, mely utcáról utcára haladt a rabszolgalánnyal együtt. Sárga
+telehold lebegett a Colosseum fölött.
+Amikor Mutius Argentinusnak, a sztoikus bölcsnek villája elé értek, a lány még
+mindig átkozódott, dühöngött. Hangja el nem rekedve rikoltozott az éjszakában.
+A bölcs ezen a kései órán Rufusszal, a költővel csevegett az atrium szökőkútjánál.
+Mind a ketten fölálltak a márványpadról, s bámultak, míg a jajveszékelő némbert el
+nem cipelték. De hangját még azután is sokáig hallották a sötét kis utcákból.
+– Miért kiabál? – kérdezte a bölcs. – Mit akar?
+– Igazságot – felelte a költő.
+– Nevetséges – jegyezte meg a bölcs. – Minden indulat nevetséges.
+– Minden indulat fönséges – szólt a költő. – Milyen fönséges volt ez a lány, milyen
+hatalmas. Aki haragszik, az, akinek igaza van, hatalmas. Ennek a lánynak is igaza lehet.
+– Miért gondolod?
+– Mert úgy haragudott.
+– Mit ér vele? – kérdezte tűnődve a bölcs. – Az őrszobában majd agyba-főbe verik.
+Vagy el se jut odáig. Belökik a Tiberisbe.
+– Az mindegy – mondta a költő. – Az igazság az utcán ment, és ordított. Mi pedig
+meghallottuk a szavát. Fölriadtunk ágyunkból, nem bírunk többé aludni, nem tudjuk
+folytatni előbbi vitánkat. Róla gondolkozunk. Az igazságról. Lásd, még mindig erről
+beszélünk. Ez is valami.
+1929
+
+12
+
+
