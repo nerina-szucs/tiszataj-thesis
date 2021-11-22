@@ -1,0 +1,7 @@
+<p style="text-align:center;">
+<img src="tiszataj.png" alt="Tiszatáj logó">
+</p>
+<p style="text-align:justify;">
+A feldolgozásra került folyóirat legelső lapszáma 1947. március 8-án látott napvilágot Szeged városában. Habár a lap politikai történések hatására több alkalommal szünetre kényszerült, jelenleg is működik. Megjelenését egy fiatal hallgatók alkotta munkaközösség, a Kálmány Lajos Kör kezdeményezte, melynek tagjai ezt megelőzően már működtettek egy diákoknak szóló kiadványt Egyetemi Élet címmel. A Tiszatáj cím a folyóirat célját is tükrözi: az alföldi néptudományi kutatást, illetve a népi gondolat és kultúra terjesztését. Jellemzően a szegedi irodalmi hagyományokat tárta fel és őrzi meg, de nagy magyar költők műveinek elemzését, továbbá szerkesztőinek költeményeit és prózai alkotásait is közli a kötet. Hullámzó történetére az ideiglenes megszakítások mellett a szerkesztőség időnkénti váltása is jellemző, ezzel megújulást hozva a lap számára.</br></br>
+A Tiszatáj már a 70. évfordulóját is megérte, ezzel jócskán megdöntve a Nyugat című folyóirat rekordját. 2012-től kezdve online formában is elérhetőek a megjelenő cikkek, valamint 2017-től a teljes archívum elérhetővé vált a Szegedi Tudományegyetem Klebelsberg Könyvtárának digitalizálási projektje részeként, a Contenta repozitóriumrendszerben.
+</p>

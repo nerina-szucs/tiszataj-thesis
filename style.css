@@ -1,0 +1,45 @@
+h1 {
+	color:#16263F;
+}
+
+h3 {
+	color: #1F66AB;
+}
+.nav-item > a {
+	background:#2067AE;
+	border: 1px solid #1A538C;
+	color:#FFF;
+	margin:5px;
+}
+.nav-item > a:hover {
+	background:#1A538C;
+	border: 1px solid #16487A;
+}
+.card {
+	display: inline-block;
+	margin:5%;
+}
+.harom {
+	background-color:#6610f2 !important;
+}
+.ctitle {
+	text-align:center;
+}
+.wordfreq {
+	width:70%;
+	margin:0 auto;
+	margin-top:5%;
+}
+.wordfreq > thead, tr, td {
+	text-align:center;
+}
+.row {
+	margin-left:-5px;
+	margin-right:-5px;
+}
+
+.column {
+	float: left;
+	width: 50%;
+	padding: 5px;
+}
