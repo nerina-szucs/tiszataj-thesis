@@ -5,29 +5,23 @@
 <select class="form-control form-control-lg" name="chosenCreator">
 
 <?php
+require "functions.php";
 
-function strrevpos($instr, $needle)
-{
-    $rev_pos = strpos (strrev($instr), strrev($needle));
-    if ($rev_pos===false) return false;
-    else return strlen($instr) - $rev_pos - strlen($needle);
-};
-
-function before_last ($what, $inwhat)
-{
-    if (!is_bool(strrevpos($inwhat, $what)))
-        return substr($inwhat, 0, strrevpos($inwhat, $what));
-};
-
-if ($handle = opendir('./scripts/xmloutputs')) {
+if ($handle = opendir('./scripts/txtoutputs/mloutputs')) {
+    $shownAuthors = Array();
 
     while (false !== ($entry = readdir($handle))) {
 
         if ($entry != "." && $entry != "..") {
-            $chopped = str_replace("_", " ", $entry);
-            $name = before_last('.', $chopped);
+            // $chopped = str_replace("_", " ", $entry);
+            // $name = before_last('___', $chopped);
+            $chopped = before_last('___', $entry);
+            $name = str_replace("_", " ", $chopped);
             //echo "$entry\n";
-            echo '<option value="'.$entry.'">'.$name.'</option>';
+            if (!in_array($name, $shownAuthors)) {
+                echo '<option value="' . $chopped . '">' . $name . '</option>';
+                $shownAuthors[] = $name;
+            }
         }
     }
 

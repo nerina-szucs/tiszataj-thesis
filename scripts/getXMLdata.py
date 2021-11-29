@@ -86,17 +86,47 @@ def get_name(xml_file):
     fullname = str(surname) + ' ' + str(firstname)
     return fullname
 
+def get_formattedname(xml_file):
+    global surname, firstname
+    mydoc = minidom.parse(xml_file)
+    creators = mydoc.getElementsByTagName('creators')
+
+    for creator in creators:
+        items = creator.getElementsByTagName('item')
+
+        for item in items:
+            names = item.getElementsByTagName('name')
+
+            for name in names:
+                surnames = name.getElementsByTagName('family')
+                surname = surnames[0].firstChild.data
+                firstnames = name.getElementsByTagName('given')
+                firstname = firstnames[0].firstChild.data
+    formatted_name = str(surname) + '__' + str(firstname)
+    return formatted_name
 
 def get_creationsforform(xml_file):
     creationslist = get_creations(xml_file)
 
-    for cr in creationslist:
-        if ";" in cr:
-            creationslist.remove(cr)
-            splitted = cr.split(';')
+    for i in range(len(creationslist)):
+        if ";" in creationslist[i]:
+            creationslist.remove(creationslist[i])
+            splitted = creationslist[i].split(';')
 
             for i in range(len(splitted)):
                 creationslist.append(splitted[i].strip())
+
+    for i in range(len(creationslist)):
+        if '?' in creationslist[i]:
+            creationslist[i] = creationslist[i].replace('?', '').strip().replace('  ', ' ')
+        if '[' in creationslist[i]:
+            creationslist[i] = creationslist[i].split('[')[0].strip().replace('  ', ' ')
+        if '(' in creationslist[i]:
+            creationslist[i] = creationslist[i].split('(')[0].strip().replace('  ', ' ')
+        if ':' in creationslist[i]:
+            creationslist[i] = creationslist[i].replace(':', '').strip().replace('  ', ' ')
+        if '"' in creationslist[i] or "„" in creationslist[i]:
+            creationslist[i] = creationslist[i].replace('"', '').replace('„', '').strip().replace('  ', ' ')
 
     return creationslist
 

@@ -114,7 +114,7 @@ while start == "igen" and restart == "igen":
     lineindex = 0
     with open(f"../data/txt/{filename}", encoding="utf-8", errors="ignore") as in_file:
         while not done:
-            with open(f"txtoutputs/{creator_name_f}_{addition}", "w", encoding="windows-1250",
+            with open(f"txtoutputs/{creator_name_f}___{addition}", "w", encoding="windows-1250",
                       errors="ignore") as out_file:
                 while not done:
                     global line_name1
@@ -141,9 +141,8 @@ while start == "igen" and restart == "igen":
     if done is True:
         print("Kész! ")
         if multiple is True:
-            output = f"{creator_name_f}_{addition}"
+            output = f"{creator_name_f}___{addition}"
             print(f"A(z) {output} nevű fájl több művet tartalmaz. Továbbdarabolás... ")
-            # "Abafáy-Deák__Csillag_2020_002.txt", dict{'tiszataj_??.txt', 'Asd;Asd;Asd'}
             multiple_splitter(output, creationsbyfile, creator_name_f)
             print("Kész! ")
             restart = input("Újra? (igen/nem) ")
