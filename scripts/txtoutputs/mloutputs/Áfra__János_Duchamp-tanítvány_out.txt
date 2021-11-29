@@ -1,0 +1,71 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Duchamp-tanítvány	Duchamp-tanítvány	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	Nincs	nincs	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	hús	hús	NOUN	Case=Nom|Number=Sing	1	SUBJ	(NP*)	
+3	,	,	PUNCT	_	2	PUNCT	*	
+4	csak	csak	ADV	_	5	MODE	(ADVP*)	
+5	fej	fej	NOUN	Case=Nom|Number=Sing	2	COORD	(NP(NP*)	
+6	,	,	PUNCT	_	5	PUNCT	*	
+7	kar	kar	NOUN	Case=Nom|Number=Sing	5	COORD	(NP*)	
+8	és	és	CONJ	_	7	CONJ	(C0*)	
+9	láb	láb	NOUN	Case=Nom|Number=Sing	8	COORD	(NP*))	
+10	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Nem	nem	ADV	PronType=Neg	2	NEG	(ROOT(CP(NEG*)	
+2	gátol	gátol	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	mit	mi	PRON	Case=Acc|Number=Sing|Person=3|PronType=Tot	2	OBJ	(NP*)	
+4	a	a	DET	Definite=Def|PronType=Art	5	DET	(NP*	
+5	gyorsaság	gyorsaság	NOUN	Case=Nom|Number=Sing	2	SUBJ	*)	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Aki	aki	PRON	Case=Nom|Number=Sing|Person=3|PronType=Rel	2	SUBJ	(ROOT(CP(NP*)	
+2	van	van	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ATT	(V_(V0*))	
+3	,	,	PUNCT	_	2	PUNCT	*	
+4	épp	épp	ADV	_	5	MODE	(ADVP*)	
+5	végrendelkezik,	végrendelkezik,	PROPN	Case=Nom|Number=Sing	0	ROOT	(NP*)))	
+
+1	üvegbe	üveg	NOUN	Case=Ill|Number=Sing	2	OBL	(ROOT(CP(NP*)	
+2	toloncolja	toloncol	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	kérdéseit,	kérdéseit,	PROPN	Case=Nom|Number=Sing	2	SUBJ	(NP*)))	
+
+1	és	és	CONJ	_	4	CONJ	(ROOT(CP(C0*)	
+2	az	az	DET	Definite=Def|PronType=Art	3	DET	(NP*	
+3	egészet	egész	NOUN	Case=Acc|Number=Sing	4	OBJ	*)	
+4	leönti	leönt	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+5	olajjal	olaj	NOUN	Case=Ins|Number=Sing	4	OBL	(NP*)	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Tüzet	tûz	NOUN	Case=Acc|Number=Sing	2	OBJ	(ROOT(CP(CP(NP*)	
+2	gyújt	gyújt	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*)))	
+3	,	,	PUNCT	_	2	PUNCT	*	
+4	melegszik	melegedik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	COORD	(CP(V0*))	
+5	üveg,	üveg,	PROPN	Case=Nom|Number=Sing	4	SUBJ	(CP(NP*))))	
+
+1	reped	reped	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	szivárog	szivárog	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	COORD	(CP(V_(V0*))	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	lobbant	lobban	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	COORD	(V_(V0*)))))	
+
+1	lábat	láb	NOUN	Case=Acc|Number=Sing	0	ROOT	(ROOT(CP(NP(NP*)	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	kart	kar	NOUN	Case=Acc|Number=Sing	1	COORD	(NP*)	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	fejet	fej	NOUN	Case=Acc|Number=Sing	3	COORD	(NP*))	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Gyorsan	gyors	ADJ	Case=Ess|Degree=Pos|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	ég	ég	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(CP(V_(V0*))	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	ami	ami	PRON	Case=Nom|Number=Sing|Person=3|PronType=Rel	5	SUBJ	(CP(NP*)	
+4	égetõen	égetõ	ADJ	Case=Ess|Degree=Pos|Number=Sing	5	MODE	(NP(ADVP*)	
+5	fontos	fontos	ADJ	Case=Nom|Degree=Pos|Number=Sing	1	ATT	*))	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	2018.	2018.	ADJ	Case=Nom|NumType=Ord|Number=Sing	2	ATT	(ROOT(CP(NP*	
+2	december	december	NOUN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	95	95	PROPN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+

@@ -1,0 +1,40 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Egy	egy	DET	Definite=Ind|PronType=Art	3	DET	(ROOT(CP(NP*	
+2	másik	másik	PRON	Case=Nom|Number=Sing|Person=3|PronType=Ind	3	ATT	(ADJP*)	
+3	Miss	Miss	NOUN	Case=Nom|Number=Sing	4	ATT	*)	
+4	Havisham	Havisham	PROPN	Case=Nom|Number=Sing	0	ROOT	(NP*)))	
+
+1	itt	itt	ADV	PronType=Dem	2	LOCY	(ROOT(CP(CP(ADVP*)	
+2	ülök	ül	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*)))	
+3	és	és	CONJ	_	2	CONJ	(C0*)	
+4	öregszem	öregedik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	COORD	(CP(V0*))))	
+
+1	befelé	befelé	ADV	_	0	ROOT	(ROOT(ADVP*))	
+
+1	növekszem	növekszik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(V0*))	
+
+1	testem	test	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	ATT	(ROOT(CP(NP*)	
+2	sûrû	sûrû	ADJ	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	(NP(NP*)	
+3	és	és	CONJ	_	2	CONJ	(C0*)	
+4	lakatlan	lakatlan	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	COORD	(NP*))))	
+
+1	sûrû	sûrû	ADJ	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	áthatolhatatlan	áthatolhatatlan	ADJ	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	kínzó	kínzó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	0	ROOT	(ROOT(CP(NP*)	
+2	mint	mint	SCONJ	_	1	CONJ	(C0*)	
+3	az	az	DET	Definite=Def|PronType=Art	4	DET	(CP(NP*	
+4	illatszerek	illatszer	NOUN	Case=Nom|Number=Plur	2	ATT	*))))	
+
+1	járok	jár	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(CP(V_(V0*))	
+2	csak	csak	ADV	_	3	MODE	(ADVP*))	
+3	járok	jár	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	COORD	(CP(V_(V0*))	
+4	köztetek	közt	PRON	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	SUBJ	(NP*))))	
+
+1	fülleteg	fülleteg	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	ATT	(ROOT(CP(NP(ADJP*)	
+2	régi	régi	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	ATT	(ADJP*)	
+3	ékszerek	ékszer	NOUN	Case=Nom|Number=Plur	0	ROOT	*)))	
+
+1	21	21	NUM	Case=Nom|NumType=Card|Number=Sing	0	ROOT	(ROOT(NP*))	
+

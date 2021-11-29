@@ -1,0 +1,5 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Minden	minden	PRON	Case=Nom|Number=Sing|Person=3|PronType=Tot	2	ATT	(ROOT(CP(ADVP(NP(ADJP*)	
+2	értékre	érték	NOUN	Case=Sub|Number=Sing	3	OBL	*)	
+3	nyitottan	nyitottan	ADJ	Case=Ess|Degree=Pos|Number=Sing	0	ROOT	*)))	
+

@@ -1,0 +1,90 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Siennai	Siennai	PROPN	Case=Nom|Number=Sing	2	NE	(ROOT(CP(NP*	
+2	Szent	Szent	PROPN	Case=Nom|Number=Sing	3	NE	*	
+3	Katalin	Katalin	PROPN	Case=Nom|Number=Sing	0	ROOT	*)	
+4	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	A	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP(NP*	
+2	szentek	szent	NOUN	Case=Nom|Number=Plur	3	ATT	*)	
+3	körülírása	körülírás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	ROOT	*)))	
+
+1	A	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	szentekkel	szent	NOUN	Case=Ins|Number=Plur	4	OBL	*)	
+3	szappant	szappan	NOUN	Case=Acc|Number=Sing	4	OBJ	(NP*)	
+4	etettek	etet	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+5	,	,	PUNCT	_	4	PUNCT	*	
+6	azért	azért	ADV	PronType=Dem	4	MODE	(C0*)))	
+
+1	voltak	van	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	olyan	olyan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	3	ATT	(NP(ADJP*)	
+3	tiszták	tiszta	NOUN	Case=Nom|Number=Plur	1	SUBJ	*)	
+4	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Mint	mint	ADV	PronType=Rel	3	MODE	(ROOT(CP(ADVP*)	
+2	a	a	DET	Definite=Def|PronType=Art	4	DET	(NP*)	
+3	megerõszakolt	megerõszakol	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+4	nõk,	nõk,	PROPN	Case=Nom|Number=Sing	3	SUBJ	(NP*)))	
+
+1	zárkózottak	zárkózott	ADJ	Case=Nom|Degree=Pos|Number=Plur|VerbForm=PartPast	0	ROOT	(ROOT(CP(NP(NP*)	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	egy	egy	DET	Definite=Ind|PronType=Art	4	DET	(NP*	
+4	anyanyelv	anyanyelv	NOUN	Case=Nom|Number=Sing	5	SUBJ	*))	
+5	nõtt	nõ	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ATT	(V_(V0*))	
+6	a	a	DET	Definite=Def|PronType=Art	7	DET	(NP*	
+7	méhük	méh	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	5	SUBJ	*)	
+8	helyén,	helyén,	PROPN	Case=Nom|Number=Sing	7	ATT	(NP*)))	
+
+1	s	s	CONJ	_	3	CONJ	(ROOT(CP(C0*)	
+2	sose	sose	ADV	PronType=Tot	3	TLOCY	(ADVP*)	
+3	tudták	tud	VERB	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+4	a	a	DET	Definite=Def|PronType=Art	5	DET	(NP*	
+5	kifejezést	kifejezés	NOUN	Case=Acc|Number=Sing	3	OBJ	*)	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Téged	te	PRON	Case=Acc|Number=Sing|Person=2|PronType=Prs	0	ROOT	(ROOT(CP(NP(NP*)	
+2	vagy	vagy	CONJ	_	1	CONJ	(C0*)	
+3	engem	én	PRON	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	COORD	(NP*))))	
+
+1	õriztek	õriz	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	abban	az	PRON	Case=Ine|Number=Sing|Person=3|PronType=Dem	4	OBL	(NP(NP*)	
+3	a	a	DET	Definite=Def|PronType=Art	4	DET	*	
+4	nyelvben	nyelv	NOUN	Case=Ine|Number=Sing	1	OBL	*)	
+5	,	,	PUNCT	_	1	PUNCT	*	
+6	te	te	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	PRED	(CP(NP*)	
+7	vagy	van	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ATT	(C0*)	
+8	az	az	DET	Definite=Def|PronType=Art	10	DET	(NP*	
+9	én	én	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	ATT	(NP*)	
+10	nyelvem	nyelv	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	7	PRED	*))	
+11	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Vagy	vagy	CONJ	_	2	CONJ	(ROOT(CP(C0*)	
+2	nincs	nincs	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(CP(V_(V0*))	
+3	többrõl	több	NUM	Case=Del|NumType=Card|Number=Sing	4	ATT	(NP*)	
+4	szó	szó	NOUN	Case=Nom|Number=Sing	2	SUBJ	(NP*))	
+5	,	,	PUNCT	_	2	PUNCT	*	
+6	csak	csak	ADV	_	7	MODE	(ADVP*)	
+7	egyvalamirõl	egyvalami	NOUN	Case=Del|Number=Sing	2	OBL	(NP*)	
+8	,	,	PUNCT	_	2	PUNCT	*	
+9	csak	csak	ADV	_	2	MODE	(ADVP*)))	
+
+1	hogy	hogy	SCONJ	_	4	CONJ	(ROOT(CP(C0*)	
+2	nem	nem	ADV	PronType=Neg	4	NEG	(NEG*)	
+3	is	is	ADV	_	4	MODE	(C0*)	
+4	voltak	van	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+5	szentek	szent	ADJ	Case=Nom|Degree=Pos|Number=Plur	4	PRED	(NP*)	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Csak	csak	ADV	_	2	MODE	(ROOT(CP(ADVP*)	
+2	tiszták	tiszta	NOUN	Case=Nom|Number=Plur	0	ROOT	(NP*)	
+3	,	,	PUNCT	_	2	PUNCT	*	
+4	mint	mint	SCONJ	_	2	CONJ	(C0*)	
+5	a	a	DET	Definite=Def|PronType=Art	6	DET	(CP(NP*	
+6	szappan	szappan	NOUN	Case=Nom|Number=Sing	4	ATT	*))	
+7	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	„	„	PUNCT	_	0	PUNCT	(ROOT(CP*))	
+
+1	46	46	NUM	Case=Nom|NumType=Card|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	tiszatáj	tiszatáj	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+

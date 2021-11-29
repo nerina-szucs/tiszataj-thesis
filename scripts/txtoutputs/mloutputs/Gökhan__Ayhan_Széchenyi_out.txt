@@ -1,0 +1,79 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Széchenyi	Széchenyi	PROPN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	a	a	DET	Definite=Def|PronType=Art	3	DET	(ROOT(CP(NP(NP*	
+2	legnagyobb	nagy	ADJ	Case=Nom|Degree=Sup|Number=Sing	3	ATT	(ADJP*)	
+3	jégtörõ	jégtörõ	NOUN	Case=Nom|Number=Sing	0	ROOT	*)	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	az	az	DET	Definite=Def|PronType=Art	7	DET	(NP*	
+6	idõs	idõs	ADJ	Case=Nom|Degree=Pos|Number=Sing	7	ATT	(ADJP*)	
+7	Széchenyi	Széchenyi	PROPN	Case=Nom|Number=Sing	3	COORD	*))	
+8	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	jég	jég	NOUN	Case=Nom|Number=Sing	4	SUBJ	*)	
+3	80-ban	80	NUM	Case=Ine|NumType=Card|Number=Sing	4	OBL	(NP*)	
+4	megkötötte	megköt	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	vízfelszínt	vízfelszín	NOUN	Case=Acc|Number=Sing	7	OBJ	*)	
+3	,	,	PUNCT	_	2	PUNCT	*	
+4	a	a	DET	Definite=Def|PronType=Art	6	DET	(NP*	
+5	tavaszi	tavaszi	ADJ	Case=Nom|Degree=Pos|Number=Sing	6	ATT	(ADJP*)	
+6	árvizeket	árvíz	NOUN	Case=Acc|Number=Plur	2	COORD	*)	
+7	megelõzze	megelõz	VERB	Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))))	
+
+1	zúzza	zúz	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	szét	szét	ADV	_	1	MODE	(PREVERB*)	
+3	a	a	DET	Definite=Def|PronType=Art	7	DET	(NP*	
+4	légtérnyi	légtérnyi	NUM	Case=Nom|NumType=Card|Number=Sing	7	ATT	*	
+5	,	,	PUNCT	_	7	PUNCT	*	
+6	tömör	tömör	ADJ	Case=Nom|Degree=Pos|Number=Sing	7	ATT	(ADJP*)	
+7	jeget	jég	NOUN	Case=Acc|Number=Sing	1	OBJ	*)	
+8	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP(NP*	
+2	Duna	Duna	PROPN	Case=Nom|Number=Sing	3	ATT	*)	
+3	jegén	jég	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	ROOT	*)))	
+
+1	sirályok	sirály	NOUN	Case=Nom|Number=Plur	2	ATT	(ROOT(CP(NP(NP*)	
+2	hangját	hang	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	OBJ	*)	
+3	veri	ver	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+4	vissza	vissza	ADV	Degree=Pos	3	PREVERB	(PREVERB*)))	
+
+1	„	„	PUNCT	_	0	PUNCT	(ROOT(CP*))	
+
+1	„	„	PUNCT	_	0	PUNCT	(ROOT(CP*))	
+
+1	44	44	NUM	Case=Nom|NumType=Card|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	tiszatáj	tiszatáj	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP(NP*	
+2	köd	köd	NOUN	Case=Nom|Number=Sing	0	ROOT	*)	
+3	,	,	PUNCT	_	2	PUNCT	*	
+4	szembõl	szembõl	ADV	_	5	MODE	(ADVP*)	
+5	toronyház	toronyház	NOUN	Case=Nom|Number=Sing	2	COORD	(NP*)	
+6	,	,	PUNCT	_	5	PUNCT	*	
+7	negyedik	negyedik	ADJ	Case=Nom|NumType=Ord|Number=Sing	8	ATT	(NP(ADJP*)	
+8	emeletén	emelet	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	COORD	*))))	
+
+1	az	az	DET	Definite=Def|PronType=Art	3	DET	(ROOT(CP(NP*	
+2	elnyelt	elnyelt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	3	ATT	(NP*)	
+3	hang	hang	NOUN	Case=Nom|Number=Sing	4	ATT	*)	
+4	nyomása	nyomás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	SUBJ	(NP*)	
+5	kiszakította	kiszakít	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))))	
+
+1	az	az	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	ablakot	ablak	NOUN	Case=Acc|Number=Sing	0	ROOT	*)	
+3	.	.	PUNCT	_	0	PUNCT	*	
+4	síkos	síkos	ADJ	Case=Nom|Degree=Pos|Number=Sing	5	ATT	(NP(ADJP*)	
+5	üveg	üveg	NOUN	Case=Nom|Number=Sing	0	APPEND	*)	
+6	a	a	DET	Definite=Def|PronType=Art	7	DET	(NP(NP(ADJP(NP*	
+7	hidegtõl	hideg	NOUN	Case=Abl|Number=Sing	8	OBL	*)	
+8	metszett	metszett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	9	ATT	*)	
+9	levegõ	levegõ	NOUN	Case=Nom|Number=Sing	11	ATT	*)	
+10	legfelsõ	felsõ	ADJ	Case=Nom|Degree=Sup|Number=Sing	11	ATT	(ADJP*)	
+11	rétegein	réteg	NOUN	Case=Sup|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	OBL	*)	
+12	.	.	PUNCT	_	0	PUNCT	*))	
+

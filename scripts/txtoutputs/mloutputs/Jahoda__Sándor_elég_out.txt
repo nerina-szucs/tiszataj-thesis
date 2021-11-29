@@ -1,0 +1,51 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	elég	elég	ADV	_	0	ROOT	(ROOT(NP*))	
+
+1	ez	ez	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	3	DET	(ROOT(CP(NP(NP*)	
+2	a	a	DET	Definite=Def|PronType=Art	3	DET	*	
+3	világ	világ	NOUN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	egy	egy	DET	Definite=Ind|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	akkora	akkora	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	ROOT	*)))	
+
+1	sértés	sértés	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(CP(NP*)	
+2	nekem	én	PRON	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	DAT	(NP*)))	
+
+1	amit	ami	PRON	Case=Acc|Number=Sing|Person=3|PronType=Rel	3	OBJ	(ROOT(CP(NP*)	
+2	már	már	ADV	_	3	TLOCY	(ADVP*)	
+3	nem	nem	ADV	PronType=Neg	0	ROOT	(PA_(PA0*))))	
+
+1	vagyok	van	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(NP(V0*))	
+2	hajlandó	hajlandó	ADJ	Case=Nom|Degree=Pos|Number=Sing	1	PRED	(NP*)))	
+
+1	lenyelni	lenyel	VERB	VerbForm=Inf|Voice=Act	0	ROOT	_	
+
+1	csak	csak	ADV	_	0	ROOT	(ROOT(ADVP*))	
+
+1	igazi	igazi	ADJ	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	üveges	üveges	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	dizájnos	dizájnos	ADJ	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	jéghideg	jéghideg	ADJ	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	buborékos	buborékos	ADJ	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	sötét	sötét	ADJ	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	és	és	CONJ	_	0	ROOT	(ROOT(CP(NP*	
+2	titkos	titkos	ADJ	Case=Nom|Degree=Pos|Number=Sing	1	COORD	*)))	
+
+1	recept	recept	NOUN	Case=Nom|Number=Sing	2	ATT	(ROOT(CP(NP(NP*)	
+2	alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	ROOT	*)))	
+
+1	készített	készített	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	0	ROOT	(ROOT(NP*))	
+
+1	kólával	kóla	NOUN	Case=Ins|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	2019.	2019.	ADJ	Case=Nom|NumType=Ord|Number=Sing	2	ATT	(ROOT(CP(NP*	
+2	október	október	NOUN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	27	27	NUM	Case=Nom|NumType=Card|Number=Sing	0	ROOT	(ROOT(NP*))	
+

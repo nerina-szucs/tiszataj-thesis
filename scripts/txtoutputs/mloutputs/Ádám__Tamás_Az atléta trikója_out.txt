@@ -1,0 +1,87 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Az	az	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP(NP*	
+2	atléta	atléta	NOUN	Case=Nom|Number=Sing	3	ATT	*)	
+3	trikója	trikó	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	ROOT	*)))	
+
+1	Az	az	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP(NP*	
+2	atléta	atléta	NOUN	Case=Nom|Number=Sing	3	ATT	*)	
+3	trikóját	trikó	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	OBJ	*)	
+4	sóvirágok	sóvirág	NOUN	Case=Nom|Number=Plur	5	SUBJ	(NP*)	
+5	húzzák	húz	VERB	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Mozdonyok	mozdony	NOUN	Case=Nom|Number=Plur	2	SUBJ	(ROOT(CP(NP*)	
+2	zakatolnak	zakatol	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	melle	mell	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	ATT	(PP(NP*)	
+4	alatt	alatt	ADP	_	2	LOCY	*)	
+5	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Erõlködésnek	erõlködés	NOUN	Case=Dat|Number=Sing	3	ATT	(ROOT(CP(NP*)	
+2	semmi	semmi	PRON	Case=Nom|Number=Sing|Person=3|PronType=Tot	3	ATT	(NP(ADJP*)	
+3	nyoma	nyom	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	ROOT	*)	
+4	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Hullámzik	hullámzik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(CP(V_(V0*))	
+2	a	a	DET	Definite=Def|PronType=Art	3	DET	(PP(NP(NP*	
+3	homok	homok	NOUN	Case=Nom|Number=Sing	4	ATT	*)	
+4	talpa	talp	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	ATT	*)	
+5	alatt	alatt	ADP	_	1	LOCY	*))	
+6	,	,	PUNCT	_	1	PUNCT	*	
+7	zizeg	zizeg	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	COORD	(CP(V0*))))	
+
+1	trikója	trikó	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	SUBJ	(ROOT(CP(NP(NP(NP*)	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	tenger	tenger	NOUN	Case=Nom|Number=Sing	4	ATT	(NP*))	
+4	sója	só	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	COORD	*)	
+5	csipkézi	csipkéz	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	A	a	DET	Definite=Def|PronType=Art	3	DET	(ROOT(CP(NP*	
+2	megtartó	megtartó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	3	ATT	*)	
+3	víz	víz	NOUN	Case=Nom|Number=Sing	0	ROOT	(NP*)	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	parttalan	parttalan	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	COORD	(NP*)	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Az	az	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP(NP*	
+2	atléta	atléta	NOUN	Case=Nom|Number=Sing	3	ATT	*)	
+3	trikója	trikó	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	ATT	*)	
+4	lucskos	lucskos	ADJ	Case=Nom|Degree=Pos|Number=Sing	6	ATT	(NP(ADJP*)	
+5	fehér	fehér	ADJ	Case=Nom|Degree=Pos|Number=Sing	6	ATT	(ADJP*)	
+6	zászló,	zászló,	PROPN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	megadás	megadás	NOUN	Case=Nom|Number=Sing	3	SUBJ	*)	
+3	elmarad	elmarad	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+4	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Nem	nem	ADV	PronType=Neg	2	NEG	(ROOT(CP(NEG*)	
+2	lesz	lesz	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))))	
+
+1	felmosórongy	felmosórongy	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(CP(NP(NP*)	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	taktikai	taktikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	4	ATT	(NP(ADJP*)	
+4	darab	darab	NOUN	Case=Nom|Number=Sing	1	COORD	*))	
+5	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Meztelen	meztelen	ADJ	Case=Nom|Degree=Pos|Number=Sing	5	ATT	(ROOT(CP(NP(ADJP(ADJP*)	
+2	,	,	PUNCT	_	5	PUNCT	*	
+3	homokóra	homokóra	NOUN	Case=Nom|Number=Sing	4	ATT	(ADJP(NP*)	
+4	testû	testû	ADJ	Case=Nom|Degree=Pos|Number=Sing	5	ATT	*))	
+5	lány	lány	NOUN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	kezében	kéz	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	OBL	(ROOT(CP(CP(NP*)	
+2	célszalag	célszalag	NOUN	Case=Nom|Number=Sing	3	SUBJ	(NP*)	
+3	lángol	lángol	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*)))	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	az	az	DET	Definite=Def|PronType=Art	6	DET	(CP(NP*	
+6	atléta	atléta	NOUN	Case=Nom|Number=Sing	3	SUBJ	*))))	
+
+1	trikója	trikó	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	SUBJ	(ROOT(CP(CP(NP*)	
+2	oltja	olt	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*)))	
+3	,	,	PUNCT	_	2	PUNCT	*	
+4	csikó	csikó	NOUN	Case=Nom|Number=Sing	5	ATT	(CP(NP(NP*)	
+5	füstoszlop	füstoszlop	NOUN	Case=Nom|Number=Sing	6	SUBJ	*)	
+6	vágtat	vágtat	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	COORD	(V_(V0*)))	
+7	.	.	PUNCT	_	0	PUNCT	*))	
+

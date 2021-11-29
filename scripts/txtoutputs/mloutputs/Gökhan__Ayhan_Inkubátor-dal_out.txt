@@ -1,0 +1,110 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Inkubátor-dal	Inkubátor-dal	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	az	az	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP(NP*	
+2	élet	élet	NOUN	Case=Nom|Number=Sing	3	ATT	*)	
+3	elején	eleje	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	OBL	*)	
+4	egy	egy	DET	Definite=Ind|PronType=Art	5	DET	(NP*	
+5	inkubátor	inkubátor	NOUN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	szolgálja	szolgál	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(CP(V_(V0*))	
+2	tér-lakásod	tér-lakás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	1	SUBJ	(NP*))	
+3	,	,	PUNCT	_	1	PUNCT	*	
+4	míg	míg	ADV	PronType=Rel	5	MODE	(CP(ADVP*)	
+5	máshol	máshol	ADV	PronType=Ind	1	MODE	(ADVP*))))	
+
+1	csecsemõhalál	csecsemõhalál	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(CP(NP(NP*)	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	szemétkosár,	szemétkosár,	PROPN	Case=Nom|Number=Sing	1	COORD	(NP*))))	
+
+1	korai	korai	ADJ	Case=Nom|Degree=Pos|Number=Sing	5	ATT	(ROOT(CP(NP*)	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	fürdõszobai	fürdõszobai	ADJ	Case=Nom|Degree=Pos|Number=Sing	1	COORD	(NP*)	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	adja	ad	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(CP(V_(V0*))	
+6	rád	rá	PRON	Case=Sub|Number=Sing|Person=2|PronType=Prs	5	OBL	(NP*))))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP(NP*	
+2	pusztulás	pusztulás	NOUN	Case=Nom|Number=Sing	3	ATT	*)	
+3	ruháját	ruha	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	ROOT	*)	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	rád	rá	PRON	Case=Sub|Number=Sing|Person=2|PronType=Prs	6	OBL	(CP(NP*)	
+6	talál	talál	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	COORD	(V_(V0*)))))	
+
+1	egy	egy	DET	Definite=Ind|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	rendõr	rendõr	NOUN	Case=Nom|Number=Sing	0	ROOT	*)	
+3	,	,	PUNCT	_	2	PUNCT	*	
+4	egy	egy	DET	Definite=Ind|PronType=Art	6	DET	(NP*	
+5	fiatal	fiatal	ADJ	Case=Nom|Degree=Pos|Number=Sing	6	ATT	(ADJP*)	
+6	halált	halál	NOUN	Case=Acc|Number=Sing	2	COORD	*)))	
+
+1	soha	soha	ADV	PronType=Tot	3	TLOCY	(ROOT(CP(ADVP*)	
+2	nem	nem	ADV	PronType=Neg	3	NEG	(NEG*)	
+3	látott	látott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	4	ATT	(V_(V0*))	
+4	takarítónõ	takarítónõ	NOUN	Case=Nom|Number=Sing	0	ROOT	(NP*)	
+5	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	az	az	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP(NP*	
+2	inkubátor	inkubátor	NOUN	Case=Nom|Number=Sing	3	ATT	(NP*)	
+3	élet	élet	NOUN	Case=Nom|Number=Sing	0	ROOT	*)	
+4	-	-	PUNCT	_	3	PUNCT	*	
+5	és	és	CONJ	_	3	CONJ	(C0*)	
+6	csomagmegõrzõ	csomagmegõrzõ	NOUN	Case=Nom|Number=Sing	5	COORD	(NP*))	
+7	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	babatest	babates	ADJ	Case=Acc|Degree=Pos|Number=Sing	6	OBL	*)	
+3	csak	csak	ADV	_	6	MODE	(ADVP*)	
+4	egy	egy	DET	Definite=Ind|PronType=Art	6	DET	(NP*	
+5	óvatos	óvatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	6	ATT	(ADJP*)	
+6	próba,	próba,	PROPN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	az	az	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	inkubátor	inkubátor	NOUN	Case=Nom|Number=Sing	4	ATT	*)	
+3	magába	maga	PRON	Case=Ill|Number=Sing|Person=3|Reflex=Yes	4	COORD	(NP*)	
+4	oldja,	oldja,	PROPN	Case=Nom|Number=Sing	0	ROOT	(NP*)))	
+
+1	„	„	PUNCT	_	0	PUNCT	(ROOT(CP*	
+2	nem	nem	ADV	PronType=Neg	5	NEG	(CP(NEG*)	
+3	a	a	DET	Definite=Def|PronType=Art	4	DET	(NP*	
+4	szeretetemé	szeretet	NOUN	Case=Nom|Number=Sing|Number[psed]=Sing|Number[psor]=Sing|Person[psor]=1	5	PRED	*)	
+5	vagyok	van	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*)))	
+6	.	.	PUNCT	_	0	PUNCT	*	
+7	"	"	PUNCT	_	0	PUNCT	*))	
+
+1	sokszor	sokszor	ADV	_	2	MODE	(ROOT(CP(NP*)	
+2	elmondja	elmond	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	a	a	DET	Definite=Def|PronType=Art	4	DET	(NP*	
+4	tudatalatti,	tudatalatti,	PROPN	Case=Nom|Number=Sing	2	SUBJ	*)))	
+
+1	„	„	PUNCT	_	0	PUNCT	(ROOT(CP(NP(ADJP*	
+2	talán	talán	ADV	_	4	MODE	(ADVP*)	
+3	szorongató	szorongató	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	4	ATT	*)	
+4	daganatok	daganat	NOUN	Case=Nom|Number=Plur	0	ROOT	*)))	
+
+1	vad	vad	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	ATT	(ROOT(CP(NP(ADJP*)	
+2	fattya	fattyú	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	ROOT	*)	
+3	kis	kis	ADJ	Case=Nom|Degree=Pos|Number=Sing	4	ATT	(NP(ADJP*)	
+4	életem	élet	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	COORD	*)	
+5	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	"	"	PUNCT	_	0	PUNCT	(ROOT(CP*	
+2	vagy	vagy	CONJ	_	3	CONJ	(C0*)	
+3	mi	mi	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	ROOT	(NP*)	
+4	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	néma	néma	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	ATT	(ROOT(CP(NP(ADJP*)	
+2	beszéd	beszéd	NOUN	Case=Nom|Number=Sing	0	ROOT	*)	
+3	egy	egy	DET	Definite=Ind|PronType=Art	5	DET	(NP*	
+4	apró	apró	ADJ	Case=Nom|Degree=Pos|Number=Sing	5	ATT	(ADJP*)	
+5	csecsemõ	csecsemõ	NOUN	Case=Nom|Number=Sing	2	COORD	*)	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	az	az	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP(NP*	
+2	inkubátor	inkubátor	NOUN	Case=Nom|Number=Sing	3	ATT	(NP*)	
+3	élet	élet	NOUN	Case=Nom|Number=Sing	0	ROOT	*)	
+4	-	-	PUNCT	_	3	PUNCT	*	
+5	és	és	CONJ	_	3	CONJ	(C0*)	
+6	csomagmegõrzõ	csomagmegõrzõ	NOUN	Case=Nom|Number=Sing	5	COORD	(NP*))	
+7	.	.	PUNCT	_	0	PUNCT	*))	
+

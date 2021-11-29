@@ -1,0 +1,30 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Dimenzióváltás	dimenzióváltás	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	Szagló	szagló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	2	ATT	(ROOT(CP(NP*)	
+2	szövevényjáték,	szövevényjáték,	PROPN	Case=Nom|Number=Sing	0	ROOT	(NP*)))	
+
+1	nincs	nincs	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(CP(V_(V0*))	
+2	sakk-matt	sakk-matt	NOUN	Case=Nom|Number=Sing	1	SUBJ	(NP*))	
+3	,	,	PUNCT	_	2	PUNCT	*	
+4	a	a	DET	Definite=Def|PronType=Art	5	DET	(CP(NP*	
+5	király	király	NOUN	Case=Nom|Number=Sing	2	COORD	*))))	
+
+1	combok	comb	NOUN	Case=Nom|Number=Plur	2	ATT	(ROOT(CP(PP(NP*)	
+2	közé	közé	ADP	_	3	LOCY	*)	
+3	menekül,	menekül,	PROPN	Case=Nom|Number=Sing	0	ROOT	(NP*)))	
+
+1	nem	nem	ADV	PronType=Neg	2	NEG	(ROOT(CP(NEG*)	
+2	találni	talál	VERB	VerbForm=Inf|Voice=Act	0	ROOT	(INF_(INF0*))	
+3	rajta	rajta	PRON	Case=Sup|Number=Sing|Person=3|PronType=Prs	2	OBL	(NP*)	
+4	fogást	fogás	NOUN	Case=Acc|Number=Sing	2	OBJ	(NP*)	
+5	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	„	„	PUNCT	_	0	PUNCT	(ROOT(CP*))	
+
+1	„	„	PUNCT	_	0	PUNCT	(ROOT(CP*))	
+
+1	96	96	NUM	Case=Nom|NumType=Card|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	tiszatáj	tiszatáj	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+

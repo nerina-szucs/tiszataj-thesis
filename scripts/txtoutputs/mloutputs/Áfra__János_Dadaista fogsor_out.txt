@@ -1,0 +1,31 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Dadaista	Dadaista	PROPN	Case=Nom|Number=Sing	2	ATT	(ROOT(CP(NP(NP*)	
+2	fogsor	fogsor	NOUN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	Én	én	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	SUBJ	(ROOT(CP(NP*)	
+2	nem	nem	ADV	PronType=Neg	5	NEG	(NEG*)	
+3	a	a	DET	Definite=Def|PronType=Art	4	DET	*	
+4	semmit	semmi	PRON	Case=Acc|Number=Sing|Person=3|PronType=Tot	5	OBJ	(NP*)	
+5	semmizem	semmiz	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+6	ki	ki	ADV	Degree=Pos	5	PREVERB	(PREVERB*)	
+7	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Magamban	maga	PRON	Case=Ine|Number=Sing|Person=1|Reflex=Yes	2	OBL	(ROOT(CP(NP*)	
+2	boncolkodik	boncolkodik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	a	a	DET	Definite=Def|PronType=Art	4	DET	(NP*	
+4	vad,	vad,	PROPN	Case=Nom|Number=Sing	2	SUBJ	*)))	
+
+1	és	és	CONJ	_	3	CONJ	(ROOT(CP(C0*)	
+2	szörnyen	szörnyû	ADJ	Case=Ess|Degree=Pos|Number=Sing	3	MODE	(ADVP*)	
+3	élvezi	élvez	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+4	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Kitakar,	Kitakar,	PROPN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	beborít	beborít	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	foszforeszkál	foszforeszkál	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	COORD	(CP(V_(V0*))	
+4	a	a	DET	Definite=Def|PronType=Art	5	DET	(NP*	
+5	kéz	kéz	NOUN	Case=Nom|Number=Sing	3	SUBJ	*))	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+

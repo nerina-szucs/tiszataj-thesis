@@ -1,0 +1,4 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Fekhelyek	fekhely	NOUN	Case=Nom|Number=Plur	0	ROOT	(ROOT(CP(NP*)	
+2	szilánkokon	szilánk	NOUN	Case=Sup|Number=Plur	1	OBL	(NP*)))	
+

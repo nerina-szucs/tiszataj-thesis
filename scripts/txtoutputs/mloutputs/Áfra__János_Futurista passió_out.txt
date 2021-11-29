@@ -1,0 +1,76 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Futurista	futurista	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	ATT	(ROOT(CP(NP(ADJP*)	
+2	passió	passió	NOUN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	Nem	nem	ADV	PronType=Neg	2	NEG	(ROOT(CP(NEG*)	
+2	ismer	ismer	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	már	már	ADV	_	2	TLOCY	(ADVP*)	
+4	a	a	DET	Definite=Def|PronType=Art	5	DET	(NP*	
+5	forma	forma	NOUN	Case=Nom|Number=Sing	2	SUBJ	*)	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Nem	nem	ADV	PronType=Neg	2	NEG	(ROOT(CP(NEG*)	
+2	ismerem	ismer	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	meg	meg	PART	_	2	PREVERB	(PREVERB*)	
+4	a	a	DET	Definite=Def|PronType=Art	5	DET	(NP*	
+5	teret	tér	NOUN	Case=Acc|Number=Sing	2	OBJ	*)	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Nem	nem	ADV	PronType=Neg	2	NEG	(ROOT(CP(NEG*)	
+2	értik	ért	VERB	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	egymást	egymás	PRON	Case=Acc|Number=Sing|Person=3|PronType=Rcp	2	OBJ	(NP*)	
+4	idõ	idõ	NOUN	Case=Nom|Number=Sing	2	SUBJ	(NP(NP*)	
+5	és	és	CONJ	_	4	CONJ	(C0*)	
+6	test	test	NOUN	Case=Nom|Number=Sing	5	COORD	(NP*))	
+7	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Egy	egy	DET	Definite=Ind|PronType=Art	2	DET	(ROOT(CP(ADVP*)	
+2	csomóban	csomó	NOUN	Case=Ine|Number=Sing	3	OBL	(NP*)	
+3	nyúzódik	nyúzódik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))))	
+
+1	minden	minden	PRON	Case=Nom|Number=Sing|Person=3|PronType=Tot	0	ROOT	(ROOT(CP(NP*)	
+2	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Legbelül	legbelül	ADV	Degree=Sup	2	MODE	(ROOT(CP(NP*)	
+2	szájzár	szájzár	NOUN	Case=Nom|Number=Sing	0	ROOT	(NP*)	
+3	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Hirtelen	hirtelen	ADV	_	2	MODE	(ROOT(CP(CP(ADVP*)	
+2	old	old	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	fel	fel	ADV	Degree=Pos	2	PREVERB	(PREVERB*))	
+4	,	,	PUNCT	_	2	PUNCT	*	
+5	és	és	CONJ	_	2	CONJ	(C0*)	
+6	a	a	DET	Definite=Def|PronType=Art	7	DET	(CP(NP*)	
+7	fog	fog	NOUN	Case=Nom|Number=Sing	5	COORD	(V_(V0*)))))	
+
+1	vagdalkozni	vagdalkozik	VERB	VerbForm=Inf|Voice=Act	2	INF	(ROOT(CP(INF_(INF0*))	
+2	kezd	kezd	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	fémesen,	fémesen,	PROPN	Case=Nom|Number=Sing	2	SUBJ	(NP*)))	
+
+1	mint	mint	SCONJ	_	6	CONJ	(ROOT(CP(C0*)	
+2	a	a	DET	Definite=Def|PronType=Art	3	DET	(CP(NP*	
+3	penge	penge	NOUN	Case=Nom|Number=Sing	1	ATT	*))	
+4	,	,	PUNCT	_	6	PUNCT	*	
+5	vágyat	vágy	NOUN	Case=Acc|Number=Sing	6	OBJ	(NP*)	
+6	aprít	aprít	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	fejben	fej	NOUN	Case=Ine|Number=Sing	0	ROOT	*)	
+3	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Mechanikus	mechanikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	ATT	(ROOT(CP(NP*)	
+2	daráló,	daráló,	PROPN	Case=Nom|Number=Sing	0	ROOT	(NP*)))	
+
+1	megszületik	megszületik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	benne	õ	PRON	Case=Ine|Number=Sing|Person=3|PronType=Prs	1	PREVERB	(NP*)	
+3	az	az	DET	Definite=Def|PronType=Art	4	DET	(NP*	
+4	úr,	úr,	PROPN	Case=Nom|Number=Sing	1	SUBJ	*)))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	gép	gép	NOUN	Case=Nom|Number=Sing	4	SUBJ	*)	
+3	,	,	PUNCT	_	4	PUNCT	*	
+4	csikorog	csikorog	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(CP(V_(V0*))	
+5	a	a	DET	Definite=Def|PronType=Art	6	DET	(NP*	
+6	homlok	homlok	NOUN	Case=Nom|Number=Sing	4	SUBJ	*))	
+7	.	.	PUNCT	_	0	PUNCT	*))	
+

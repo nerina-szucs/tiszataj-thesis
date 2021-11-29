@@ -1,0 +1,497 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Hallgatok	hallgat	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(V0*))	
+
+1	Akár	akár	CONJ	_	6	CONJ	(ROOT(CP(C0*)	
+2	a	a	DET	Definite=Def|PronType=Art	3	DET	(NP*	
+3	halálraítélt	halálraítélt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	6	SUBJ	*)	
+4	ki	ki	ADV	Degree=Pos	6	PREVERB	(PREVERB*)	
+5	sehogyse	sehogyse	ADV	_	6	MODE	(ADVP*)	
+6	találja	talál	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+7	utolsó	utolsó	ADJ	Case=Nom|Degree=Pos|Number=Sing	8	ATT	(NP(ADJP*)	
+8	szavait	szó	NOUN	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	6	OBJ	*)))	
+
+1	úgy	úgy	ADV	PronType=Dem	2	MODE	(ROOT(CP(ADVP*)	
+2	keresek	keres	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	én	én	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	SUBJ	(NP*)	
+4	is	is	CONJ	_	3	CONJ	(C0*)	
+5	verset	vers	NOUN	Case=Acc|Number=Sing	2	OBJ	(NP*)	
+6	:	:	PUNCT	_	5	PUNCT	*	
+7	gyógyírt	gyógyír	NOUN	Case=Acc|Number=Sing	5	COORD	(NP*)	
+8	a	a	DET	Definite=Def|PronType=Art	10	DET	(NP*	
+9	kábító	kábító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	10	ATT	(NP*)	
+10	fájdalomra	fájdalom	NOUN	Case=Sub|Number=Sing	7	OBL	*)))	
+
+1	mikor	mikor	ADV	PronType=Rel	9	TLOCY	(ROOT(CP(ADVP*)	
+2	egy	egy	DET	Definite=Ind|PronType=Art	3	DET	(NP*	
+3	férfi	férfi	NOUN	Case=Nom|Number=Sing	9	SUBJ	*)	
+4	a	a	DET	Definite=Def|PronType=Art	5	DET	(NP(NP*	
+5	vásár	vásár	NOUN	Case=Nom|Number=Sing	6	ATT	*)	
+6	zajában	zaj	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	OBL	*)	
+7	gyufakeresztjét	gyufakereszt	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	OBJ	(NP*)	
+8	riadtan	riadt	ADJ	Case=Ess|Degree=Pos|Number=Sing	9	MODE	(ADVP*)	
+9	cipeli	cipel	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))))	
+
+1	mikor	mikor	ADV	PronType=Rel	5	TLOCY	(ROOT(CP(CP(ADVP*)	
+2	az	az	DET	Definite=Def|PronType=Art	3	DET	(NP(NP*	
+3	anya	anya	NOUN	Case=Nom|Number=Sing	4	ATT	*)	
+4	karjából	kar	NOUN	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	OBL	*)	
+5	kitépik	kitép	VERB	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+6	gyermekét	gyermek	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	OBJ	(NP*))	
+7	s	s	CONJ	_	5	CONJ	(C0*)	
+8	kemencére	kemence	NOUN	Case=Sub|Number=Sing	9	OBL	(CP(NP*)	
+9	vetik	vet	VERB	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	COORD	(V_(V0*)))))	
+
+1	mikor	mikor	ADV	PronType=Rel	3	TLOCY	(ROOT(CP(ADVP*)	
+2	Ikarusz	Ikarusz	PROPN	Case=Nom|Number=Sing	3	SUBJ	(NP*)	
+3	szétlapított	szétlapít	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	ATT	(V_(V0*))	
+4	légyként	légy	NOUN	Case=Abs|Number=Sing	5	OBL	(NP*)	
+5	zuhan	zuhan	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+6	alá	alá	ADV	Degree=Pos	5	PREVERB	(PREVERB*)	
+7	a	a	DET	Definite=Def|PronType=Art	9	DET	(NP*	
+8	forgó	forgó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	9	ATT	(ADJP*)	
+9	semmibe	semmi	NOUN	Case=Ill|Number=Sing	5	OBL	*)))	
+
+1	s	s	CONJ	_	7	CONJ	(ROOT(CP(C0*)	
+2	az	az	DET	Definite=Def|PronType=Art	3	DET	(NP(ADJP(NP*	
+3	állatokat	állat	NOUN	Case=Acc|Number=Plur	4	OBJ	*)	
+4	hideg	hideg	ADJ	Case=Nom|Degree=Pos|Number=Sing	5	ATT	(NP(ADJP*)	
+5	fejjel	fej	NOUN	Case=Ins|Number=Sing	6	OBL	*)	
+6	döffk	döffk	ADJ	Case=Nom|Degree=Pos|Number=Sing	7	ATT	*)	
+7	lé	lé	NOUN	Case=Nom|Number=Sing	0	ROOT	*)	
+8	a	a	DET	Definite=Def|PronType=Art	9	DET	(NP(NP*	
+9	vágóhíd	vágóhíd	NOUN	Case=Nom|Number=Sing	10	ATT	*)	
+10	mészároslegényei	mészároslegény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	7	OBL	*)))	
+
+1	Mikor	mikor	ADV	PronType=Rel	2	TLOCY	(ROOT(CP(CP(ADVP*)	
+2	tekinteted	tekintet	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ATT	(V_(V0*)))	
+3	elengedi	elenged	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(CP(V_(V0*))	
+4	tekintetemet	tekintet	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	OBJ	(NP*))	
+5	s	s	CONJ	_	3	CONJ	(C0*)	
+6	tudatod	tudat	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	7	SUBJ	(CP(NP*)	
+7	lehasad	lehasad	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	COORD	(V_(V0*)))))	
+
+1	tudatomról	tudat	NOUN	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	OBL	(ROOT(CP(NP*)	
+2	akár	akár	ADV	_	3	MODE	(ADVP*)	
+3	legbensõbb	bensõbb	ADJ	Case=Nom|Degree=Sup|Number=Sing	4	ATT	(NP(ADJP*)	
+4	szerveimrõl	szerv	NOUN	Case=Del|Number=Plur|Number[psor]=Sing|Person[psor]=1	0	ROOT	*)	
+5	a	a	DET	Definite=Def|PronType=Art	6	DET	(NP*	
+6	hártyák	hártya	NOUN	Case=Nom|Number=Plur	4	COORD	*)))	
+
+1	Mit	mi	PRON	Case=Acc|Number=Sing|Person=3|PronType=Int	2	OBJ	(ROOT(CP(NP*)	
+2	kezdek	kezd	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	akkor	akkor	ADV	PronType=Dem	2	TLOCY	(ADVP*)	
+4	egyszem	egyszem	NOUN	Case=Nom|Number=Sing	5	ATT	(NP(NP*)	
+5	életemmel	élet	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	OBL	*)))	
+
+1	mit	mi	PRON	Case=Acc|Number=Sing|Person=3|PronType=Rel	5	OBJ	(ROOT(CP(NP(NP(NP*)	
+2	a	a	DET	Definite=Def|PronType=Art	3	DET	*	
+3	nap	nap	NOUN	Case=Nom|Number=Sing	4	ATT	*)	
+4	forgásával	forgás	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	OBL	*)	
+5	amit	ami	PRON	Case=Acc|Number=Sing|Person=3|PronType=Rel	0	ROOT	(NP*)))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	világûr	világûr	NOUN	Case=Nom|Number=Sing	3	ATT	*)	
+3	érzéketlen	érzéketlen	ADJ	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	(NP*)))	
+
+1	gépemûködtetúnos-úntalan	gépemûködtetúnos-úntalan	ADJ	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	mit	mi	PRON	Case=Acc|Number=Sing|Person=3|PronType=Rel	6	OBJ	(ROOT(CP(CP(NP(NP*)	
+2	a	a	DET	Definite=Def|PronType=Art	3	DET	*	
+3	széllel	szél	NOUN	Case=Ins|Number=Sing	6	OBL	*)	
+4	mely	mely	PRON	Case=Nom|Number=Sing|Person=3|PronType=Rel	6	SUBJ	(NP*)	
+5	nem	nem	ADV	PronType=Neg	6	NEG	(NEG*)	
+6	lélegzik	lélegzik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*)))	
+7	s	s	CONJ	_	6	CONJ	(C0*)	
+8	melyben	mely	PRON	Case=Ine|Number=Sing|Person=3|PronType=Rel	7	COORD	(CP(NP*))))	
+
+1	halpikkelyes	halpikkelyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	ATT	(ROOT(CP(NP(ADJP*)	
+2	hajad	haj	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	6	SUBJ	*)	
+3	többé	többé	ADV	_	6	TLOCY	(ADVP*)	
+4	már	már	ADV	_	6	TLOCY	(ADVP*)	
+5	nem	nem	ADV	PronType=Neg	6	NEG	(NEG*)	
+6	lobog	lobog	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	lépteiddel	léptei	ADJ	Case=Ins|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=2	6	OBL	*)	
+3	mik	mi	PRON	Case=Nom|Number=Plur|Person=3|PronType=Int	6	SUBJ	(NP*)	
+4	nem	nem	ADV	PronType=Neg	5	NEG	(NEG*)	
+5	hozzám	én	PRON	Case=All|Number=Sing|Person=1|PronType=Prs	6	OBL	(NP*)	
+6	vezetnek	vezet	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))))	
+
+1	.	.	PUNCT	_	0	PUNCT	(ROOT(CP(XP*	
+2	mit	mi	PRON	Case=Acc|Number=Sing|Person=3|PronType=Int	3	OBJ	(CP(NP*)	
+3	kezdek	kezd	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+4	önmagammal	önmaga	PRON	Case=Ins|Number=Sing|Person=1|Reflex=Yes	3	OBL	(NP*)))))	
+
+1	e	e	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	SUBJ	(ROOT(CP(NP*)	
+2	szorongássütötte	szorongássüt	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))))	
+
+1	sziklával	szikla	NOUN	Case=Ins|Number=Sing	9	OBL	(ROOT(CP(NP*)	
+2	mit	mi	PRON	Case=Acc|Number=Sing|Person=3|PronType=Tot	9	OBJ	(NP*)	
+3	az	az	DET	Definite=Def|PronType=Art	4	DET	(NP(NP*	
+4	est	est	NOUN	Case=Nom|Number=Sing	6	ATT	*)	
+5	hûvös	hûvös	ADJ	Case=Nom|Degree=Pos|Number=Sing	6	ATT	(ADJP*)	
+6	uszálya	uszály	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	SUBJ	*)	
+7	be	be	ADV	Degree=Pos	9	PREVERB	(PREVERB*)	
+8	nem	nem	ADV	PronType=Neg	9	NEG	(NEG*)	
+9	borít	borít	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+10	?	?	PUNCT	_	0	PUNCT	*))	
+
+1	Nem	nem	ADV	PronType=Neg	2	NEG	(ROOT(CP(NEG*)	
+2	beszélek	beszél	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	hát	hát	CONJ	_	2	CONJ	(ADVP*)	
+4	hallgatok	hallgat	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	COORD	(V_(V0*))))	
+
+1	45	45	NUM	Case=Nom|NumType=Card|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	Roskatag	roskatag	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	ATT	(ROOT(CP(NP(ADJP*)	
+2	házat	ház	NOUN	Case=Acc|Number=Sing	0	ROOT	*)))	
+
+1	Roskatag	roskatag	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	ATT	(ROOT(CP(CP(NP(ADJP*)	
+2	házat	ház	NOUN	Case=Acc|Number=Sing	3	OBJ	*)	
+3	húztunk	húz	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+4	föl	föl	ADV	Degree=Pos	3	PREVERB	(PREVERB*))	
+5	e	e	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	6	SUBJ	(CP(NP*)	
+6	szélnyüstölte	szélnyüstöl	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ATT	(V_(V0*)))))	
+
+1	dombon,	dombon,	PROPN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(CP(NP*	
+2	gerendák	gerenda	NOUN	Case=Nom|Number=Plur	3	ATT	*)	
+3	töröttek	törött	ADJ	Case=Nom|Degree=Pos|Number=Plur|VerbForm=PartPast	5	SUBJ	(NP*))	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	korhadt	korhad	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(CP(V_(V0*))	
+6	a	a	DET	Definite=Def|PronType=Art	7	DET	(NP*	
+7	deszkafal	deszkafal	NOUN	Case=Nom|Number=Sing	5	SUBJ	*))	
+8	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	A	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	földszinten	földszint	NOUN	Case=Sup|Number=Sing	4	OBL	*)	
+3	nagyanyáink	nagyanya	NOUN	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	4	SUBJ	(NP*)	
+4	kártolnak	kártol	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))))	
+
+1	gyapjút,	gyapjút,	PROPN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	sütnek	süt	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	fonnak	fon	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	COORD	(CP(V_(V0*))	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	sorra	sor	NOUN	Case=Sub|Number=Sing	6	OBL	(CP(NP*)	
+6	kiköltöznek	kiköltözik	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	COORD	(V_(V0*))	
+7	a	a	DET	Definite=Def|PronType=Art	8	DET	(NP*	
+8	temetõkbe	temetõ	NOUN	Case=Ill|Number=Plur	6	OBL	*)))	
+9	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Nagyapáink	nagyapa	NOUN	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	3	SUBJ	(ROOT(CP(CP(NP*)	
+2	fejszenyelet	fejszenyél	NOUN	Case=Acc|Number=Sing	3	OBJ	(NP*)	
+3	faragnak	farag	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*)))	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	bibliát	biblia	NOUN	Case=Acc|Number=Sing	3	OBJ	(CP(NP*))))	
+
+1	forgatnak,	forgatnak,	PROPN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	civódnak	civódik	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	isznak	iszik	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	COORD	(V_(V0*))	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	halásznak	halászik	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	COORD	(V_(V0*))	
+6	,	,	PUNCT	_	5	PUNCT	*	
+7	kipusztulnák	kipusztul	VERB	Definite=Ind|Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	COORD	(CP(V_(V0*))	
+8	õk	õk	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	SUBJ	(NP*)	
+9	is	is	CONJ	_	8	CONJ	(C0*))	
+10	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Esténkint	esténkint	ADV	_	3	MODE	(ROOT(CP(CP(ADVP*)	
+2	együtt	együtt	ADV	_	3	MODE	(ADVP*)	
+3	ülnek	ül	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*)))	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	bennünket	mi	PRON	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	OBJ	(CP(NP*))))	
+
+1	bámulnak	bámul	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Anyáink	anya	NOUN	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	0	ROOT	(ROOT(CP(NP(NP(NP*)	
+2	és	és	CONJ	_	1	CONJ	(C0*)	
+3	apáink	apa	NOUN	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	2	COORD	(NP*))	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	munkáslányok	munkáslány	NOUN	Case=Nom|Number=Plur	3	COORD	(NP*)	
+6	és	és	CONJ	_	5	CONJ	(C0*)	
+7	víg	víg	ADJ	Case=Nom|Degree=Pos|Number=Sing	8	ATT	(NP(ADJP*)	
+8	hegedõsök,	hegedõsök,	PROPN	Case=Nom|Number=Sing	6	COORD	*))))	
+
+1	amerikákról	amerika	NOUN	Case=Del|Number=Plur	4	OBL	(ROOT(CP(NP(NP*)	
+2	és	és	CONJ	_	1	CONJ	(C0*)	
+3	színházról	színház	NOUN	Case=Del|Number=Sing	2	COORD	(NP*))	
+4	álmodnak,	álmodnak,	PROPN	Case=Nom|Number=Sing	0	ROOT	(NP*)))	
+
+1	s	s	CONJ	_	2	CONJ	(ROOT(CP(NP*)	
+2	bennünket	mi	PRON	Case=Acc|Number=Plur|Person=1|PronType=Prs	0	ROOT	(NP*)))	
+
+1	bámulnak	bámul	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	De	de	CONJ	_	2	CONJ	(ROOT(CP(C0*)	
+2	hol	hol	ADV	PronType=Ind	0	ROOT	(ADVP*)	
+3	a	a	DET	Definite=Def|PronType=Art	4	DET	(NP*	
+4	szobánk	szoba	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	2	SUBJ	*)	
+5	?	?	PUNCT	_	0	PUNCT	*))	
+
+1	Fönt	fönt	ADV	Degree=Pos	7	LOCY	(ROOT(CP(NP*)	
+2	az	az	DET	Definite=Def|PronType=Art	3	DET	(NP*	
+3	emeleten	emelet	NOUN	Case=Sup|Number=Sing	7	OBL	*)	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	hol	hol	CONJ	_	3	CONJ	(ADVP*)	
+6	folyton	folyton	ADV	_	5	COORD	(ADVP*)	
+7	fú	fú	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+8	a	a	DET	Definite=Def|PronType=Art	9	DET	(NP*	
+9	szél,	szél,	PROPN	Case=Nom|Number=Sing	7	SUBJ	*)))	
+
+1	pedig	pedig	CONJ	_	6	CONJ	(ROOT(CP(C0*)	
+2	mi	mi	PRON	Case=Nom|Number=Sing|Person=3|PronType=Int	3	ATT	(NP*)	
+3	féllábbal	félláb	NOUN	Case=Ins|Number=Sing	6	OBL	(NP*)	
+4	még	még	ADV	_	5	MODE	(ADVP*)	
+5	úton	út	NOUN	Case=Sup|Number=Sing	6	OBL	(NP*)	
+6	vagyunk,	vagyunk,	PROPN	Case=Nom|Number=Sing	0	ROOT	(NP*)))	
+
+1	lassan	lassú	ADJ	Case=Ess|Degree=Pos|Number=Sing	6	MODE	(ROOT(CP(ADVP(ADVP*)	
+2	vagy	vagy	CONJ	_	1	CONJ	(C0*)	
+3	gyorsan	gyors	ADJ	Case=Ess|Degree=Pos|Number=Sing	2	COORD	(ADVP*))	
+4	,	,	PUNCT	_	6	PUNCT	*	
+5	de	de	CONJ	_	6	CONJ	(C0*)	
+6	fogyasztjuk	fogyaszt	VERB	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))))	
+
+1	perceink	perc	NOUN	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	0	ROOT	(ROOT(NP*))	
+
+1	s	s	CONJ	_	2	CONJ	(ROOT(CP(C0*)	
+2	erõnket	erõ	NOUN	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=1	0	ROOT	(CP(NP*))	
+3	,	,	PUNCT	_	2	PUNCT	*	
+4	fejedelmien	fejedelmien	ADV	_	5	MODE	(CP(NP(ADVP*)	
+5	nagyvonalú	nagyvonalú	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	ATT	*))))	
+
+1	gesztussal,	gesztussal,	PROPN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	ahogy	ahogy	ADV	PronType=Rel	3	MODE	(ROOT(CP(ADVP*)	
+2	a	a	DET	Definite=Def|PronType=Art	3	DET	(NP*	
+3	csavargók	csavargó	NOUN	Case=Nom|Number=Plur	0	ROOT	*)	
+4	az	az	DET	Definite=Def|PronType=Art	5	DET	(NP*	
+5	utat	út	NOUN	Case=Acc|Number=Sing	3	OBJ	*)	
+6	,	,	PUNCT	_	5	PUNCT	*	
+7	a	a	DET	Definite=Def|PronType=Art	8	DET	(NP*	
+8	látóhatárt	látóhatár	NOUN	Case=Acc|Number=Sing	5	COORD	*)	
+9	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Nyikorgó-padlós	Nyikorgó-padlós	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	ATT	(ROOT(CP(NP(ADJP*)	
+2	szobában	szoba	NOUN	Case=Ine|Number=Sing	3	OBL	*)	
+3	várnak	vár	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+4	ránk,	ránk,	PROPN	Case=Nom|Number=Sing	3	SUBJ	(NP*)))	
+
+1	negyedszázada	negyedszázad	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	SUBJ	(ROOT(CP(NP*)	
+2	elfelejtett	elfelejt	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	barátokra,	barátokra,	PROPN	Case=Nom|Number=Sing	2	SUBJ	(NP*)))	
+
+1	kutyacsahintásra	kutyacsahintás	NOUN	Case=Sub|Number=Sing	0	ROOT	(ROOT(CP(NP(NP*)	
+2	és	és	CONJ	_	1	CONJ	(C0*)	
+3	mancs-karistolásra	mancs-karistolás	NOUN	Case=Sub|Number=Sing	2	COORD	(NP*))	
+4	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Van	van	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(CP(V0*))	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	aki	aki	PRON	Case=Nom|Number=Sing|Person=3|PronType=Rel	6	SUBJ	(CP(NP*)	
+4	már	már	ADV	_	6	TLOCY	(ADVP*)	
+5	ott	ott	ADV	PronType=Dem	6	LOCY	(ADVP*)	
+6	van,	van,	PROPN	Case=Nom|Number=Sing	1	ATT	(NP*))))	
+
+1	van	van	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	,	,	PUNCT	_	1	PUNCT	*	
+3	aki	aki	PRON	Case=Nom|Number=Sing|Person=3|PronType=Rel	4	SUBJ	(CP(NP*)	
+4	kiles	kiles	ADJ	Case=Nom|Degree=Pos|Number=Sing	1	ATT	(NP*)	
+5	az	az	DET	Definite=Def|PronType=Art	6	DET	(NP*	
+6	ablakon,	ablakon,	PROPN	Case=Nom|Number=Sing	1	SUBJ	*))))	
+
+1	s	s	CONJ	_	5	CONJ	(ROOT(CP(C0*)	
+2	mi	mi	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	SUBJ	(NP*)	
+3	tíz	tíz	NUM	Case=Nom|NumType=Card|Number=Sing	4	ATT	(PP(NP*	
+4	fal	fal	NOUN	Case=Nom|Number=Sing	5	ATT	*)	
+5	mögül	mögül	ADP	_	0	ROOT	*)))	
+
+1	hallgatjuk	hallgat	VERB	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	a	a	DET	Definite=Def|PronType=Art	3	DET	(NP(NP(NP*	
+3	gondolat	gondolat	NOUN	Case=Nom|Number=Sing	4	ATT	*)	
+4	moccanását	moccanás	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	OBJ	*)	
+5	,	,	PUNCT	_	4	PUNCT	*	
+6	egymás	egymás	PRON	Case=Nom|Number=Sing|Person=3|PronType=Rcp	7	ATT	(NP(NP*)	
+7	lélegzetét	lélegzet	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	COORD	*))	
+8	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Keresztülfúj	keresztülfú	VERB	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	rajtunk	rajta	PRON	Case=Sup|Number=Plur|Person=1|PronType=Prs	1	OBL	(NP*)	
+3	a	a	DET	Definite=Def|PronType=Art	4	DET	(NP*	
+4	szél,	szél,	PROPN	Case=Nom|Number=Sing	1	SUBJ	*)))	
+
+1	de	de	CONJ	_	3	CONJ	(ROOT(CP(C0*)	
+2	mi	mi	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	SUBJ	(NP*)	
+3	megfogjuk	megfog	VERB	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+4	egymás	egymás	PRON	Case=Nom|Number=Sing|Person=3|PronType=Rcp	5	ATT	(NP(NP*)	
+5	kezét	kéz	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	OBJ	*)	
+6	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Viharban	vihar	NOUN	Case=Ine|Number=Sing	4	OBL	(ROOT(CP(NP*)	
+2	a	a	DET	Definite=Def|PronType=Art	4	DET	(NP*	
+3	leggyöngébb	gyöngébb	ADJ	Case=Nom|Degree=Sup|Number=Sing	4	ATT	(ADJP*)	
+4	építmény	építmény	NOUN	Case=Nom|Number=Sing	0	ROOT	*)	
+5	a	a	DET	Definite=Def|PronType=Art	6	DET	(NP*	
+6	legerõsebb	erõs	ADJ	Case=Nom|Degree=Sup|Number=Sing	4	ATT	*)	
+7	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	A	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(CP(NP*	
+2	beton	beton	NOUN	Case=Nom|Number=Sing	3	SUBJ	*)	
+3	törik	törik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*)))	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	a	a	DET	Definite=Def|PronType=Art	6	DET	(CP(NP*	
+6	pókháló	pókháló	NOUN	Case=Nom|Number=Sing	7	SUBJ	*)	
+7	leng	leng	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	COORD	(V_(V0*)))	
+8	,	,	PUNCT	_	7	PUNCT	*	
+9	de	de	CONJ	_	7	CONJ	(C0*)	
+10	el	el	ADV	_	12	PREVERB	(CP(PREVERB*)	
+11	nem	nem	ADV	PronType=Neg	12	NEG	(NEG*)	
+12	szakad	szakad	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	COORD	(V_(V0*)))	
+13	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	EEVA-LHSA	EEVA-LHSA	PROPN	Case=Nom|Number=Sing	2	ATT	(ROOT(CP(NP(NP*)	
+2	MANNER	manner	NOUN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	Teoréma	Teoréma	PROPN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	A	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(CP(NP*	
+2	próza	próza	NOUN	Case=Nom|Number=Sing	3	SUBJ	*)	
+3	legyen	lesz	VERB	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+4	kemény	kemény	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	PRED	(NP*))	
+5	,	,	PUNCT	_	3	PUNCT	*	
+6	ébresszen	ébreszt	VERB	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	COORD	(CP(V0*))))	
+
+1	nyugtalanságot	nyugtalanság	NOUN	Case=Acc|Number=Sing	0	ROOT	(ROOT(CP(NP*)	
+2	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	Hanem	hanem	CONJ	_	8	CONJ	(ROOT(CP(C0*)	
+2	a	a	DET	Definite=Def|PronType=Art	3	DET	(NP*	
+3	vers	vers	NOUN	Case=Nom|Number=Sing	8	OBJ	*)	
+4	:	:	PUNCT	_	3	PUNCT	*	
+5	visszhang	visszhang	NOUN	Case=Nom|Number=Sing	3	COORD	(NP*)	
+6	,	,	PUNCT	_	5	PUNCT	*	
+7	olyankor	olyankor	ADV	PronType=Dem	8	TLOCY	(ADVP*)	
+8	hallgatjuk	hallgat	VERB	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+9	,	,	PUNCT	_	8	PUNCT	*	
+10	ha	ha	SCONJ	_	8	CONJ	(C0*)	
+11	elnémult	elnémul	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	ATT	(CP(V0*))))	
+
+1	az	az	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	élet	élet	NOUN	Case=Nom|Number=Sing	0	ROOT	*)	
+3	:	:	PUNCT	_	2	PUNCT	*))	
+
+1	árnyak	árny	NOUN	Case=Nom|Number=Plur	2	PRED	(ROOT(CP(CP(NP*)	
+2	bolyongnák	bolyong	VERB	Definite=Ind|Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	a	a	DET	Definite=Def|PronType=Art	4	DET	(NP*	
+4	hegyen	hegy	NOUN	Case=Sup|Number=Sing	2	OBL	*))	
+5	:	:	PUNCT	_	2	PUNCT	*	
+6	a	a	DET	Definite=Def|PronType=Art	7	DET	(CP(NP(NP*	
+7	szél	szél	NOUN	Case=Nom|Number=Sing	2	ATT	*)	
+8	és	és	CONJ	_	7	CONJ	(C0*)	
+9	a	a	DET	Definite=Def|PronType=Art	10	DET	(NP*	
+10	felhõk	felhõ	NOUN	Case=Nom|Number=Plur	8	COORD	*))	
+11	képei,	képei,	PROPN	Case=Nom|Number=Sing	10	COORD	(NP*))))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP(NP(NP(NP*	
+2	füst	füst	NOUN	Case=Nom|Number=Sing	6	ATT	*)	
+3	vagy	vagy	CONJ	_	2	CONJ	(C0*)	
+4	az	az	DET	Definite=Def|PronType=Art	5	DET	(NP*	
+5	élet	élet	NOUN	Case=Nom|Number=Sing	3	COORD	*))	
+6	vonulása	vonulás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	ROOT	*)	
+7	:	:	PUNCT	_	6	PUNCT	*	
+8	tiszta	tiszta	ADJ	Case=Nom|Degree=Pos|Number=Sing	12	ATT	(NP(ADJP(ADJP*)	
+9	,	,	PUNCT	_	8	PUNCT	*	
+10	borongós	borongós	ADJ	Case=Nom|Degree=Pos|Number=Sing	8	COORD	(ADJP*)))	
+11	,	,	PUNCT	_	10	PUNCT	*	
+12	tiszta,	tiszta,	PROPN	Case=Nom|Number=Sing	6	COORD	(NP*))))	
+
+1	csöndesen	csöndes	ADJ	Case=Ess|Degree=Pos|Number=Sing	2	MODE	(ROOT(CP(NP(ADJP(ADVP*)	
+2	hömpölygõ	hömpölygõ	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	3	ATT	*)	
+3	folyó	folyó	NOUN	Case=Nom|Number=Sing	6	SUBJ	*)	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	mély	mély	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	COORD	(CP(NP*)	
+6	felhõárnyalta	felhõárnyal	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*)))))	
+
+1	lassan	lassú	ADJ	Case=Ess|Degree=Pos|Number=Sing	2	MODE	(ROOT(CP(NP(NP(ADJP(ADVP*)	
+2	elmálló	elmálló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	3	ATT	*)	
+3	házak	ház	NOUN	Case=Nom|Number=Plur	0	ROOT	*)	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	melegleheletû	melegleheletû	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	COORD	(NP*))))	
+
+1	sikátorok,	sikátorok,	PROPN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	erdõk,	erdõk,	PROPN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	likacsossá	likacsos	ADJ	Case=Tra|Degree=Pos|Number=Sing	2	OBL	(ROOT(CP(NP*)	
+2	koptatott	koptat	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	küszöb	küszöb	NOUN	Case=Nom|Number=Sing	2	SUBJ	(NP(NP*)	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	az	az	DET	Definite=Def|PronType=Art	7	DET	(NP*	
+6	árnyék	árnyék	NOUN	Case=Nom|Number=Sing	7	ATT	*))	
+7	csendje,	csendje,	PROPN	Case=Nom|Number=Sing	3	COORD	(NP*)))	
+
+1	ahogy	ahogy	ADV	PronType=Rel	5	MODE	(ROOT(CP(ADVP*)	
+2	egy	egy	DET	Definite=Ind|PronType=Art	3	DET	(NP*	
+3	gyerek	gyerek	NOUN	Case=Nom|Number=Sing	5	SUBJ	*)	
+4	riadtan	riadt	ADJ	Case=Ess|Degree=Pos|Number=Sing	5	MODE	(ADVP*)	
+5	belép	belép	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+6	a	a	DET	Definite=Def|PronType=Art	8	DET	(NP*	
+7	homályos	homályos	ADJ	Case=Nom|Degree=Pos|Number=Sing	8	ATT	(ADJP*)	
+8	szobába,	szobába,	PROPN	Case=Nom|Number=Sing	5	SUBJ	*)))	
+
+1	46	46	NUM	Case=Nom|NumType=Card|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	messzirõl	messzirõl	ADV	Degree=Pos	3	FROM	(ROOT(CP(NP*)	
+2	jött	jött	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	3	ATT	(V_(V0*))	
+3	levél	levél	NOUN	Case=Nom|Number=Sing	0	ROOT	(NP*)	
+4	,	,	PUNCT	_	3	PUNCT	*	
+5	mit	mi	PRON	Case=Acc|Number=Sing|Person=3|PronType=Int	6	OBJ	(CP(NP*)	
+6	becsúsztattak	becsúsztat	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ATT	(V_(V0*)))))	
+
+1	oly	oly	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	MODE	(ROOT(CP(NP(NP(ADVP*)	
+2	nagy	nagy	ADJ	Case=Nom|Degree=Pos|Number=Sing	6	ATT	*)	
+3	és	és	CONJ	_	2	CONJ	(C0*)	
+4	fehér	fehér	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	COORD	(NP*))	
+5	,	,	PUNCT	_	6	PUNCT	*	
+6	betölti	betölt	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(CP(V_(V0*))	
+7	valamennyi	valamennyi	PRON	Case=Nom|Number=Sing|Person=3|PronType=Tot	6	SUBJ	(NP*))))	
+
+1	az	az	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	ajtónyíláson,	ajtónyíláson,	PROPN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	szobát,	szobát,	PROPN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	vagy	vagy	CONJ	_	7	CONJ	(ROOT(CP(C0*)	
+2	mint	mint	SCONJ	_	1	CONJ	(C0*)	
+3	egy	egy	DET	Definite=Ind|PronType=Art	4	DET	(CP(NP*	
+4	hétfõ	hétfõ	NOUN	Case=Nom|Number=Sing	2	ATT	*))	
+5	,	,	PUNCT	_	4	PUNCT	*	
+6	annyira	annyira	ADV	PronType=Dem	7	MODE	(NP(NP(ADVP*)	
+7	merev	merev	ADJ	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	*)	
+8	és	és	CONJ	_	7	CONJ	(C0*)	
+9	fényes	fényes	ADJ	Case=Nom|Degree=Pos|Number=Sing	8	COORD	(NP*))	
+10	,	,	PUNCT	_	7	PUNCT	*	
+11	hogy	hogy	SCONJ	_	7	CONJ	(C0*)))	
+
+1	a	a	DET	Definite=Def|PronType=Art	2	DET	(ROOT(CP(NP*	
+2	nap	nap	NOUN	Case=Nom|Number=Sing	3	SUBJ	*)	
+3	beszögezi	beszögez	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+4	az	az	DET	Definite=Def|PronType=Art	5	DET	(NP*	
+5	ûr	ûr	NOUN	Case=Nom|Number=Sing	6	ATT	*)	
+6	kék	kék	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	SUBJ	(NP*)))	
+
+1	ajtaját	ajtó	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	ROOT	(ROOT(CP(NP*)	
+2	.	.	PUNCT	_	0	PUNCT	*))	
+
+1	hallani,	hallani,	PROPN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	ahogy	ahogy	ADV	PronType=Rel	0	ROOT	(ROOT(ADVP*))	
+

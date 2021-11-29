@@ -1,0 +1,66 @@
+SZO_ID	SZO	LEMMA	SZOFAJ	MORPH	PARENT_ID	DEP_LABEL	CONST_LABEL
+1	Ballada	ballada	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	ne	ne	ADV	PronType=Neg	2	NEG	(ROOT(CP(NEG*)	
+2	aludj	alszik	VERB	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	mert	mert	SCONJ	_	2	CONJ	(C0*)	
+4	félek	fél	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ATT	(CP(V0*))	
+5	(	(	PUNCT	_	6	PUNCT	(XP*	
+6	F.	F.	PROPN	Case=Nom|Number=Sing	2	APPEND	(NP*))))	
+
+1	I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	0	ROOT	(ROOT(CP(NP*)	
+2	)	)	PUNCT	_	0	PUNCT	*))	
+
+1	foltosodik	foltosodik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(V_(V0*))	
+2	az	az	DET	Definite=Def|PronType=Art	3	DET	(NP*)	
+3	ég	ég	NOUN	Case=Nom|Number=Sing	1	SUBJ	(NP*)))	
+
+1	ne	ne	ADV	PronType=Neg	2	NEG	(ROOT(CP(NEG*)	
+2	aludj	alszik	VERB	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	mert	mert	SCONJ	_	2	CONJ	(C0*)	
+4	félek	fél	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ATT	(CP(V0*))))	
+
+1	kezemben	kéz	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	OBL	(ROOT(CP(NP*)	
+2	gyertya	gyertya	NOUN	Case=Nom|Number=Sing	3	ATT	(NP(NP*)	
+3	ég	ég	NOUN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	ne	ne	ADV	PronType=Neg	2	NEG	(ROOT(CP(NEG*)	
+2	aludj	alszik	VERB	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	mert	mert	SCONJ	_	2	CONJ	(C0*)	
+4	félek	fél	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ATT	(CP(V0*))))	
+
+1	szíveden	szív	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	OBL	(ROOT(CP(NP(ADJP(NP*)	
+2	kinõtt	kinõtt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	3	ATT	*)	
+3	fa	fa	NOUN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	ne	ne	ADV	PronType=Neg	2	NEG	(ROOT(CP(NEG*)	
+2	aludj	alszik	VERB	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	mert	mert	SCONJ	_	2	CONJ	(C0*)	
+4	félek	fél	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ATT	(CP(V0*))))	
+
+1	46	46	NUM	Case=Nom|NumType=Card|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	tiszatáj	tiszatáj	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(NP*))	
+
+1	halálmadár	halálmadár	NOUN	Case=Nom|Number=Sing	0	ROOT	(ROOT(CP(NP*)	
+2	rajta	rajta	PRON	Case=Sup|Number=Sing|Person=3|PronType=Prs	1	OBL	(NP*)))	
+
+1	ne	ne	ADV	PronType=Neg	2	NEG	(ROOT(CP(NEG*)	
+2	aludj	alszik	VERB	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(V_(V0*))	
+3	mert	mert	SCONJ	_	2	CONJ	(C0*)	
+4	félek	fél	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ATT	(CP(V0*))))	
+
+1	sebesült	sebesült	NOUN	Case=Nom|Number=Sing	3	ATT	(ROOT(CP(NP*)	
+2	vad	vad	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	ATT	(NP(ADJP*)	
+3	szelek	szél	NOUN	Case=Nom|Number=Plur	0	ROOT	*)))	
+
+1	aludj	alszik	VERB	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	(ROOT(CP(CP(V_(V0*))	
+2	csak	csak	ADV	_	1	MODE	(ADVP*))	
+3	ím	ím	INTJ	_	1	MODE	(CP*	
+4	visznek	visz	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ATT	(V_(V0*)))))	
+
+1	2010.	2010.	ADJ	Case=Nom|NumType=Ord|Number=Sing	2	ATT	(ROOT(CP(NP*	
+2	július	július	NOUN	Case=Nom|Number=Sing	0	ROOT	*)))	
+
+1	47	47	NUM	Case=Nom|NumType=Card|Number=Sing	0	ROOT	(ROOT(NP*))	
+
