@@ -5,11 +5,11 @@ import os
 from collections import Counter
 from urllib.parse import unquote
 import sys
+
 cwd = os.getcwd()
 
 php_param = sys.argv[1]
 php_param2 = unquote(php_param)
-php_param2 = php_param2.replace('.txt', '').strip() + "_out.txt"
 
 words_list = []
 words_list2 = []
@@ -85,11 +85,10 @@ output.insert(0, words_count)
 
 to_title = php_param2.removesuffix('.txt').replace('__', ' ').split('_')
 creator_name = to_title[0]
-creation_title = to_title[1]
-#creation_title_sep = creation_title.split(':')
-#real_title = creation_title_sep[0].strip()
-#real_filename_split = php_param2.removesuffix('.txt').split(':')
-#real_filename = real_filename_split[0].strip() + ".txt"
+if to_title[1].isdecimal():
+    creation_title = to_title[1] + ' ' + to_title[2]
+else:
+    creation_title = to_title[1]
 output.insert(0, creator_name)
 output.insert(1, creation_title)
 
@@ -103,7 +102,7 @@ def get_max_word(filename):
                            str(k["SZOFAJ"]) != "PART")
         mostused = max(szo_stat, key=szo_stat.get)
         return mostused
-        # return szo_stat['a']
+
 
 def get_freq_word(filename, pos):
     with open(f'{cwd}\\scripts\\txtoutputs\\mloutputs\\{filename}', 'r', encoding="windows-1250") as words:
@@ -114,18 +113,9 @@ def get_freq_word(filename, pos):
 
         firstten = szo_stat.most_common(20)
         valami = firstten[pos]
-        valami2 = valami[0] # szo
-        # szam = szo_stat[f'{valami2}'] # szam
-        # testlist = []
-        # testlist.append(valami2)
-        # testlist.append(szam)
+        valami2 = valami[0]
         return valami2
-        #return valami[0]
-        #for i in range(0, 10):
-        #    mostused2 = szo_stat.most_common(2)[-1]
-        #mostused = max(szo_stat, key=szo_stat.get)
-        #return mostused2
-        #return szo_stat[f'{mostused}']
+
 
 def get_freq_number(filename, pos):
     with open(f'{cwd}\\scripts\\txtoutputs\\mloutputs\\{filename}', 'r', encoding="windows-1250") as words:
@@ -140,22 +130,31 @@ def get_freq_number(filename, pos):
         szam = szo_stat[f'{valami2}']
         return szam
 
-#def get_wordcloud(filename):
-#    with open(f'{cwd}\\scripts\\mloutputs\\{filename}', 'r', encoding="utf-8") as words:
- #       csv_file = csv.DictReader(words, delimiter="\t")
-    #wordcloud = WordCloud(max_font_size=40).generate(" ".join([(k + ' ') * v for k, v in filename.items()]))
-    #plt.figure()
-    #plt.imshow(wordcloud, interpolation="bilinear")
-    #plt.axis("off")
-    #plt.savefig(f'wordcloud.png',
-    #            dpi=300)
 
-# stat = Counter(k[0] for k in words_list2)
+def get_freq_word_adj(filename, pos):
+    with open(f'{cwd}\\scripts\\txtoutputs\\mloutputs\\{filename}', 'r', encoding="windows-1250") as words:
+        csv_file = csv.DictReader(words, delimiter="\t")
 
-# v=list(stat.values())
-# k=list(words_freq.keys())
-# biggest = k[v.index(max(v))]
-# max_value = max(all_values)
+        szo_stat = Counter(k['SZO'] for k in csv_file if str(k["SZOFAJ"]) == "ADJ")
+
+        firstten = szo_stat.most_common(5)
+        valami = firstten[pos]
+        valami2 = valami[0]
+        return valami2
+
+
+def get_freq_number_adj(filename, pos):
+    with open(f'{cwd}\\scripts\\txtoutputs\\mloutputs\\{filename}', 'r', encoding="windows-1250") as words:
+        csv_file = csv.DictReader(words, delimiter="\t")
+
+        szo_stat = Counter(k['SZO'] for k in csv_file if str(k["SZOFAJ"]) == "ADJ")
+
+        firstten = szo_stat.most_common(5)
+        valami = firstten[pos]
+        valami2 = valami[0]
+        szam = szo_stat[f'{valami2}']
+        return szam
+
 
 output.append(get_max_word(php_param2))
 output.append(get_freq_word(php_param2, 0))
@@ -192,16 +191,16 @@ output.append(get_freq_word(php_param2, 15))
 output.append(get_freq_number(php_param2, 15))
 output.append(get_freq_word(php_param2, 16))
 output.append(get_freq_number(php_param2, 16))
+output.append(get_freq_word_adj(php_param2, 0))
+output.append(get_freq_number_adj(php_param2, 0))
+output.append(get_freq_word_adj(php_param2, 1))
+output.append(get_freq_number_adj(php_param2, 1))
+output.append(get_freq_word_adj(php_param2, 2))
+output.append(get_freq_number_adj(php_param2, 2))
+output.append(get_freq_word_adj(php_param2, 3))
+output.append(get_freq_number_adj(php_param2, 3))
+output.append(get_freq_word_adj(php_param2, 4))
+output.append(get_freq_number_adj(php_param2, 4))
 
 countJson = json.dumps(output)
 print(countJson)
-
-# for i in csv_file:
-# counts[i] = counts.get(i, 0) + 1
-
-# all_values = counts.values()
-# max_value = max(all_values)
-# all_values = a_dictionary.values()
-# max_value = max(all_values)
-
-# return max_value
